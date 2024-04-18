@@ -1,0 +1,934 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1322184,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "32968",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "clopidogrel",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21600989,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "B01AC04",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "clopidogrel; oral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[SJK]Clopidogrel",
+      "id": 0
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 904453,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "283742",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "esomeprazole",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 923645,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "7646",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "omeprazole",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21600100,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "A02BC05",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "esomeprazole; systemic",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21600096,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "A02BC01",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "omeprazole; systemic",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[SJK]Inhibiting PPI",
+      "id": 8
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 948078,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "40790",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "pantoprazole",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 911735,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "114979",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "rabeprazole",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 929887,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "17128",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "lansoprazole",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 19039926,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "816346",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "dexlansoprazole",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40254795,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "A02BC06",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "dexlansoprazole; oral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21600098,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "A02BC03",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "lansoprazole; oral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21600097,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "A02BC02",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "pantoprazole; systemic",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21600099,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "A02BC04",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "rabeprazole; oral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[SJK]Other PPI",
+      "id": 9
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4138962,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "32490005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Acute duodenal ulcer without hemorrhage AND without perforation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4195231,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "67964002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Acute gastric ulcer without hemorrhage AND without perforation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4147683,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "30514008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Acute gastrojejunal ulcer without hemorrhage AND without perforation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4163865,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "45485004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Acute peptic ulcer without hemorrhage AND without perforation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 195584,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "58085004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Acute peptic ulcer without hemorrhage AND without perforation but with obstruction",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40482685,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "442267002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Angiodysplasia of duodenum",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 28779,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "17709002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Bleeding esophageal varices",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4222896,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "40214005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic duodenal ulcer without hemorrhage AND without perforation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4296611,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "76796008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic gastric ulcer without hemorrhage AND without perforation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 200769,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1567007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic gastric ulcer without hemorrhage, without perforation AND without obstruction",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4177387,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "4269005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic gastrojejunal ulcer without hemorrhage AND without perforation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 434400,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "56579005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic gastrojejunal ulcer without hemorrhage AND without perforation but with obstruction",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 438795,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "41626001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic gastrojejunal ulcer without hemorrhage, without perforation AND without obstruction",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4204555,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "5492000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic peptic ulcer without hemorrhage AND without perforation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 24973,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "12384004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic peptic ulcer without hemorrhage AND without perforation but with obstruction",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 23808,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "60400003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic peptic ulcer without hemorrhage, without perforation AND without obstruction",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2002608,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "44.4",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Control of hemorrhage and suture of ulcer of stomach or duodenum",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "3-dig nonbill code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 198798,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "109558001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Dieulafoy's vascular malformation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4198381,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "51868009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Ulcer of duodenum",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4209746,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "56776001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Duodenal ulcer without hemorrhage AND without perforation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4112183,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195475003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Esophageal varices with bleeding, associated with another disorder",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4265600,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "397825006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Gastric ulcer",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4248429,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "73481001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Gastric ulcer without hemorrhage AND without perforation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 192671,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "74474003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Gastrointestinal hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4101104,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "2783007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Gastrojejunal ulcer without hemorrhage AND without perforation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 443530,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "405729008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hematochezia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 197925,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "266464001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hemorrhage of rectum and anus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4027663,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "13200003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Peptic ulcer",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4291028,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "37442009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Peptic ulcer without hemorrhage AND without perforation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[SJK]GI bleeding",
+      "id": 10
+    }
+  ],
+  "EndStrategy": {"CustomEra": {
+    "DrugCodesetId": 8,
+    "DaysSupplyOverride": null,
+    "GapDays": 30,
+    "Offset": 0
+  }},
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [{"DrugExposure": {
+    "OccurrenceEndDate": null,
+    "CorrelatedCriteria": null,
+    "DrugSourceConcept": null,
+    "CodesetId": 9,
+    "DrugTypeExclude": false,
+    "Quantity": null,
+    "DrugType": null,
+    "ProviderSpecialty": null,
+    "EffectiveDrugDose": null,
+    "Gender": null,
+    "DaysSupply": null,
+    "DoseUnit": null,
+    "VisitType": null,
+    "Refills": null,
+    "First": null,
+    "OccurrenceStartDate": null,
+    "RouteConcept": null,
+    "StopReason": null,
+    "LotNumber": null,
+    "Age": null
+  }}],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": null,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 30,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": {
+            "UseEventEnd": true,
+            "Start": {
+              "Days": 0,
+              "Coeff": 1
+            },
+            "End": {
+              "Days": null,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "Criteria": {"DrugEra": {
+            "EraStartDate": null,
+            "CorrelatedCriteria": null,
+            "OccurrenceCount": null,
+            "AgeAtStart": null,
+            "GapDays": null,
+            "CodesetId": 0,
+            "AgeAtEnd": null,
+            "First": null,
+            "Gender": null,
+            "EraLength": {
+              "Op": "gte",
+              "Extent": null,
+              "Value": 30
+            },
+            "EraEndDate": null
+          }},
+          "Occurrence": {
+            "Type": 2,
+            "CountColumn": null,
+            "IsDistinct": false,
+            "Count": 1
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "with both drugs",
+      "description": null
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 365,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"ConditionOccurrence": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "ConditionTypeExclude": false,
+            "CodesetId": 10,
+            "ProviderSpecialty": null,
+            "Gender": null,
+            "VisitType": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "ConditionType": null,
+            "ConditionSourceConcept": null,
+            "ConditionStatus": null,
+            "StopReason": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 1,
+            "CountColumn": null,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "without GI bleeding",
+      "description": null
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"DrugEra": {
+      "EraStartDate": null,
+      "CorrelatedCriteria": null,
+      "OccurrenceCount": null,
+      "AgeAtStart": {
+        "Op": "gte",
+        "Extent": null,
+        "Value": 18
+      },
+      "GapDays": null,
+      "CodesetId": 8,
+      "AgeAtEnd": null,
+      "First": null,
+      "Gender": null,
+      "EraLength": null,
+      "EraEndDate": null
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 365
+    }
+  }
+}

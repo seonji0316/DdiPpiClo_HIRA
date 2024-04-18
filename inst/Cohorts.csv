@@ -1,0 +1,21 @@
+webApiCohortId,cohortId,cohortName
+289,289,[SJK] Clopidogrel and inhibiting PPI without MI and stroke 1year
+290,290,[SJK] Clopidogrel and other PPI without MI and stroke 1year
+70,70,[SJK] MACE
+68,68,[SJK] Stroke
+67,67,[SJK] Myocardial Infarction
+71,71,[SJK] CV mortality
+170,170,[SJK] All-cause mortality
+69,69,[SJK] Acute coronary syndrome
+291,291,[SJK] Clopidogrel and H2 blocker without MI and stroke 1year
+292,292,[SJK] Clopidogrel and inhibiting PPI with ACS without MI and stroke 1year
+293,293,[SJK] Clopidogrel and other PPI with ACS without MI and stroke 1year
+294,294,"[SJK] Clopidogrel and inhibiting PPI without GI bleeding, MI and stroke 1year"
+295,295,"[SJK] Clopidogrel and other PPI without GI bleeding, MI and stroke 1year"
+172,172,[SJK] Clopidogrel and inhibiting PPI
+173,173,[SJK] Clopidogrel and other PPI
+174,174,[SJK] Clopidogrel and H2 blocker
+175,175,[SJK] Clopidogrel and inhibiting PPI with ACS
+176,176,[SJK] Clopidogrel and other PPI with ACS
+177,177,[SJK] Clopidogrel and inhibiting PPI without GI bleeding
+178,178,[SJK] Clopidogrel and other PPI without GI bleeding
