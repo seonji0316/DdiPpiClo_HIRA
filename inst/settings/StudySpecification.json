@@ -105,7 +105,7 @@
       "DistinctObservationCountMediumTerm": false,
       "includedCovariateConceptIds": [],
       "DrugGroupEraStartShortTerm": false,
-      "addDescendantsToExclude": false,
+      "addDescendantsToExclude": true,
       "DrugEraLongTerm": false,
       "DistinctConditionCountShortTerm": false,
       "ConditionGroupEraShortTerm": true,
@@ -483,7 +483,7 @@
               "DistinctObservationCountMediumTerm": false,
               "includedCovariateConceptIds": [],
               "DrugGroupEraStartShortTerm": false,
-              "addDescendantsToExclude": false,
+              "addDescendantsToExclude": true,
               "DrugEraLongTerm": false,
               "DistinctConditionCountShortTerm": false,
               "ConditionGroupEraShortTerm": true,
@@ -624,7 +624,7 @@
           "matchOnPsAndCovariates": false,
           "analysisId": 1,
           "createPsArgs": {
-            "stopOnError": true,
+            "stopOnError": false,
             "excludeCovariateIds": [],
             "prior": {
               "variance": [1],
@@ -782,7 +782,7 @@
               "DistinctObservationCountMediumTerm": false,
               "includedCovariateConceptIds": [],
               "DrugGroupEraStartShortTerm": false,
-              "addDescendantsToExclude": false,
+              "addDescendantsToExclude": true,
               "DrugEraLongTerm": false,
               "DistinctConditionCountShortTerm": false,
               "ConditionGroupEraShortTerm": true,
@@ -923,7 +923,7 @@
           "matchOnPsAndCovariates": false,
           "analysisId": 2,
           "createPsArgs": {
-            "stopOnError": true,
+            "stopOnError": false,
             "excludeCovariateIds": [],
             "prior": {
               "variance": [1],
@@ -1081,7 +1081,7 @@
               "DistinctObservationCountMediumTerm": false,
               "includedCovariateConceptIds": [],
               "DrugGroupEraStartShortTerm": false,
-              "addDescendantsToExclude": false,
+              "addDescendantsToExclude": true,
               "DrugEraLongTerm": false,
               "DistinctConditionCountShortTerm": false,
               "ConditionGroupEraShortTerm": true,
@@ -1222,7 +1222,7 @@
           "matchOnPsAndCovariates": false,
           "analysisId": 3,
           "createPsArgs": {
-            "stopOnError": true,
+            "stopOnError": false,
             "excludeCovariateIds": [],
             "prior": {
               "variance": [1],
@@ -1380,7 +1380,7 @@
               "DistinctObservationCountMediumTerm": false,
               "includedCovariateConceptIds": [],
               "DrugGroupEraStartShortTerm": false,
-              "addDescendantsToExclude": false,
+              "addDescendantsToExclude": true,
               "DrugEraLongTerm": false,
               "DistinctConditionCountShortTerm": false,
               "ConditionGroupEraShortTerm": true,
@@ -1521,7 +1521,7 @@
           "matchOnPsAndCovariates": false,
           "analysisId": 4,
           "createPsArgs": {
-            "stopOnError": true,
+            "stopOnError": false,
             "excludeCovariateIds": [],
             "prior": {
               "variance": [1],
@@ -1679,7 +1679,7 @@
               "DistinctObservationCountMediumTerm": false,
               "includedCovariateConceptIds": [],
               "DrugGroupEraStartShortTerm": false,
-              "addDescendantsToExclude": false,
+              "addDescendantsToExclude": true,
               "DrugEraLongTerm": false,
               "DistinctConditionCountShortTerm": false,
               "ConditionGroupEraShortTerm": true,
@@ -1820,7 +1820,7 @@
           "matchOnPsAndCovariates": false,
           "analysisId": 5,
           "createPsArgs": {
-            "stopOnError": true,
+            "stopOnError": false,
             "excludeCovariateIds": [],
             "prior": {
               "variance": [1],
@@ -1978,7 +1978,7 @@
               "DistinctObservationCountMediumTerm": false,
               "includedCovariateConceptIds": [],
               "DrugGroupEraStartShortTerm": false,
-              "addDescendantsToExclude": false,
+              "addDescendantsToExclude": true,
               "DrugEraLongTerm": false,
               "DistinctConditionCountShortTerm": false,
               "ConditionGroupEraShortTerm": true,
@@ -2119,7 +2119,7 @@
           "matchOnPsAndCovariates": false,
           "analysisId": 6,
           "createPsArgs": {
-            "stopOnError": true,
+            "stopOnError": false,
             "excludeCovariateIds": [],
             "prior": {
               "variance": [1],
@@ -2277,7 +2277,7 @@
               "DistinctObservationCountMediumTerm": false,
               "includedCovariateConceptIds": [],
               "DrugGroupEraStartShortTerm": false,
-              "addDescendantsToExclude": false,
+              "addDescendantsToExclude": true,
               "DrugEraLongTerm": false,
               "DistinctConditionCountShortTerm": false,
               "ConditionGroupEraShortTerm": true,
@@ -2418,7 +2418,7 @@
           "matchOnPsAndCovariates": false,
           "analysisId": 7,
           "createPsArgs": {
-            "stopOnError": true,
+            "stopOnError": false,
             "excludeCovariateIds": [],
             "prior": {
               "variance": [1],
@@ -2576,7 +2576,7 @@
               "DistinctObservationCountMediumTerm": false,
               "includedCovariateConceptIds": [],
               "DrugGroupEraStartShortTerm": false,
-              "addDescendantsToExclude": false,
+              "addDescendantsToExclude": true,
               "DrugEraLongTerm": false,
               "DistinctConditionCountShortTerm": false,
               "ConditionGroupEraShortTerm": true,
@@ -2717,7 +2717,7 @@
           "matchOnPsAndCovariates": false,
           "analysisId": 8,
           "createPsArgs": {
-            "stopOnError": true,
+            "stopOnError": false,
             "excludeCovariateIds": [],
             "prior": {
               "variance": [1],
@@ -2875,7 +2875,7 @@
               "DistinctObservationCountMediumTerm": false,
               "includedCovariateConceptIds": [],
               "DrugGroupEraStartShortTerm": false,
-              "addDescendantsToExclude": false,
+              "addDescendantsToExclude": true,
               "DrugEraLongTerm": false,
               "DistinctConditionCountShortTerm": false,
               "ConditionGroupEraShortTerm": true,
@@ -3016,7 +3016,7 @@
           "matchOnPsAndCovariates": false,
           "analysisId": 9,
           "createPsArgs": {
-            "stopOnError": true,
+            "stopOnError": false,
             "excludeCovariateIds": [],
             "prior": {
               "variance": [1],
@@ -3174,7 +3174,7 @@
               "DistinctObservationCountMediumTerm": false,
               "includedCovariateConceptIds": [],
               "DrugGroupEraStartShortTerm": false,
-              "addDescendantsToExclude": false,
+              "addDescendantsToExclude": true,
               "DrugEraLongTerm": false,
               "DistinctConditionCountShortTerm": false,
               "ConditionGroupEraShortTerm": true,
@@ -3315,7 +3315,7 @@
           "matchOnPsAndCovariates": false,
           "analysisId": 10,
           "createPsArgs": {
-            "stopOnError": true,
+            "stopOnError": false,
             "excludeCovariateIds": [],
             "prior": {
               "variance": [1],
@@ -3473,7 +3473,7 @@
               "DistinctObservationCountMediumTerm": false,
               "includedCovariateConceptIds": [],
               "DrugGroupEraStartShortTerm": false,
-              "addDescendantsToExclude": false,
+              "addDescendantsToExclude": true,
               "DrugEraLongTerm": false,
               "DistinctConditionCountShortTerm": false,
               "ConditionGroupEraShortTerm": true,
@@ -3614,7 +3614,7 @@
           "matchOnPsAndCovariates": false,
           "analysisId": 11,
           "createPsArgs": {
-            "stopOnError": true,
+            "stopOnError": false,
             "excludeCovariateIds": [],
             "prior": {
               "variance": [1],
@@ -3772,7 +3772,7 @@
               "DistinctObservationCountMediumTerm": false,
               "includedCovariateConceptIds": [],
               "DrugGroupEraStartShortTerm": false,
-              "addDescendantsToExclude": false,
+              "addDescendantsToExclude": true,
               "DrugEraLongTerm": false,
               "DistinctConditionCountShortTerm": false,
               "ConditionGroupEraShortTerm": true,
@@ -3913,7 +3913,7 @@
           "matchOnPsAndCovariates": false,
           "analysisId": 12,
           "createPsArgs": {
-            "stopOnError": true,
+            "stopOnError": false,
             "excludeCovariateIds": [],
             "prior": {
               "variance": [1],
@@ -17565,25 +17565,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4088768,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "248820000",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Absent nipple",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 4319325,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "95428004",
@@ -17704,25 +17685,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Azoospermia",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4216219,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "80670004",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Bizarre personal appearance",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -17907,50 +17869,12 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 438262,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "91098006",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Chyluria",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 4066505,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "202606004",
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Clicking hip",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 196454,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "197238009",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Colostomy and enterostomy malfunction",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -18211,25 +18135,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4022078,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "105520007",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Discord with counselor",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 201091,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "199398004",
@@ -18306,44 +18211,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 433441,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "8659000",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Ectopic production of endocrine substance",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 433111,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "212966005",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Effects of hunger",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 439791,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "309838005",
@@ -18369,44 +18236,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Essential fatty acid deficiency",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 40480271,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "444655009",
-            "VALID_START_DATE": 1280534400000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Extra unidentified structurally abnormal chromosome",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 193598,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "274732007",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Extravasation of urine",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -18648,50 +18477,12 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 435775,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "47986005",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Genetic anomaly of leukocyte",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 440329,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "111859007",
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Herpes zoster without complication",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4012570,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "102947004",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "High risk sexual behavior",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -18724,69 +18515,12 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4287416,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "68528007",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Hyperphenylalaninemia",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 192298,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "58381000",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Hypersplenism",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 440129,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "17467004",
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Hypertrophy of nasal turbinates",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4029280,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "238146000",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Hypervitaminosis B6",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -18895,25 +18629,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 432596,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "71922006",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Immune defect",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 4344500,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "239960007",
@@ -18939,25 +18654,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Incompetent urethral closure mechanism",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 441417,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "281016006",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Incoordination",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -19161,25 +18857,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 436041,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "64351000",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Leech infestation",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 4228331,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "89013002",
@@ -19332,25 +19009,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 258540,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "19346006",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Marfan's syndrome",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 432798,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "5285008",
@@ -19395,25 +19053,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Metabolic syndrome X",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 435247,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "52276000",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Metallosis",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -19598,50 +19237,12 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 438130,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "5602001",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Opioid abuse",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 439035,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "11543004",
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Otosclerosis",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4022076,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "105507009",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Patient dependence on care provider",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -19845,25 +19446,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 46286594,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "987891000000105",
-            "VALID_START_DATE": 1443657600000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Problem related to lifestyle",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 439790,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "8971008",
@@ -20035,25 +19617,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4056577,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "210954009",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Sequelae of open wound of head",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 4233565,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "360549009",
@@ -20168,25 +19731,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4019836,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "105412007",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Social exclusion",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 444127,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "125153001",
@@ -20269,44 +19813,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Teething syndrome",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 440457,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "54048003",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Threatened miscarriage",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 374907,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "192848006",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Tics of organic origin",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -20852,25 +20358,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 141797,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "33666009",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Black piedra",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 79232,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "40993007",
@@ -20953,25 +20440,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Contracture of joint of hand",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 439666,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "202264009",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Contracture of multiple joints",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -21156,25 +20624,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4150043,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "31070006",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Epididymitis",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 197607,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "266601003",
@@ -21327,25 +20776,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 440072,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "119250001",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Hypogammaglobulinemia",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 4057662,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "19690006",
@@ -21466,25 +20896,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Local infection of wound",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 440638,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "23502006",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Lyme disease",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -21789,44 +21200,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Open wound of upper arm",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 438120,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "75544000",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Opioid dependence",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4171915,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "274718005",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Orchitis",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -22991,13 +22364,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Absent nipple",
-      "comparatorId": 290,
-      "outcomeId": 4088768,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Acquired deformity of trunk",
       "comparatorId": 290,
       "outcomeId": 4319325,
@@ -23043,13 +22409,6 @@
       "outcomeName": "Azoospermia",
       "comparatorId": 290,
       "outcomeId": 76744,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Bizarre personal appearance",
-      "comparatorId": 290,
-      "outcomeId": 4216219,
       "type": "outcome"
     },
     {
@@ -23117,23 +22476,9 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Chyluria",
-      "comparatorId": 290,
-      "outcomeId": 438262,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Clicking hip",
       "comparatorId": 290,
       "outcomeId": 4066505,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Colostomy and enterostomy malfunction",
-      "comparatorId": 290,
-      "outcomeId": 196454,
       "type": "outcome"
     },
     {
@@ -23229,13 +22574,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Discord with counselor",
-      "comparatorId": 290,
-      "outcomeId": 4022078,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Disproportion - major pelvic abnormality",
       "comparatorId": 290,
       "outcomeId": 201091,
@@ -23264,20 +22602,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Ectopic production of endocrine substance",
-      "comparatorId": 290,
-      "outcomeId": 433441,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Effects of hunger",
-      "comparatorId": 290,
-      "outcomeId": 433111,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Emotional upset",
       "comparatorId": 290,
       "outcomeId": 439791,
@@ -23288,20 +22612,6 @@
       "outcomeName": "Essential fatty acid deficiency",
       "comparatorId": 290,
       "outcomeId": 4029271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Extra unidentified structurally abnormal chromosome",
-      "comparatorId": 290,
-      "outcomeId": 40480271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Extravasation of urine",
-      "comparatorId": 290,
-      "outcomeId": 193598,
       "type": "outcome"
     },
     {
@@ -23390,23 +22700,9 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Genetic anomaly of leukocyte",
-      "comparatorId": 290,
-      "outcomeId": 435775,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Herpes zoster without complication",
       "comparatorId": 290,
       "outcomeId": 440329,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "High risk sexual behavior",
-      "comparatorId": 290,
-      "outcomeId": 4012570,
       "type": "outcome"
     },
     {
@@ -23418,30 +22714,9 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Hyperphenylalaninemia",
-      "comparatorId": 290,
-      "outcomeId": 4287416,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Hypersplenism",
-      "comparatorId": 290,
-      "outcomeId": 192298,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Hypertrophy of nasal turbinates",
       "comparatorId": 290,
       "outcomeId": 440129,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Hypervitaminosis B6",
-      "comparatorId": 290,
-      "outcomeId": 4029280,
       "type": "outcome"
     },
     {
@@ -23481,13 +22756,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Immune defect",
-      "comparatorId": 290,
-      "outcomeId": 432596,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Impingement syndrome of shoulder region",
       "comparatorId": 290,
       "outcomeId": 4344500,
@@ -23498,13 +22766,6 @@
       "outcomeName": "Incompetent urethral closure mechanism",
       "comparatorId": 290,
       "outcomeId": 4090353,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Incoordination",
-      "comparatorId": 290,
-      "outcomeId": 441417,
       "type": "outcome"
     },
     {
@@ -23579,13 +22840,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Leech infestation",
-      "comparatorId": 290,
-      "outcomeId": 436041,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Leukokeratosis nicotina palati",
       "comparatorId": 290,
       "outcomeId": 4228331,
@@ -23642,13 +22896,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Marfan's syndrome",
-      "comparatorId": 290,
-      "outcomeId": 258540,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Mechanical complication of internal orthopedic device, implant AND/OR graft",
       "comparatorId": 290,
       "outcomeId": 432798,
@@ -23666,13 +22913,6 @@
       "outcomeName": "Metabolic syndrome X",
       "comparatorId": 290,
       "outcomeId": 436940,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Metallosis",
-      "comparatorId": 290,
-      "outcomeId": 435247,
       "type": "outcome"
     },
     {
@@ -23740,23 +22980,9 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Opioid abuse",
-      "comparatorId": 290,
-      "outcomeId": 438130,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Otosclerosis",
       "comparatorId": 290,
       "outcomeId": 439035,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Patient dependence on care provider",
-      "comparatorId": 290,
-      "outcomeId": 4022076,
       "type": "outcome"
     },
     {
@@ -23831,13 +23057,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Problem related to lifestyle",
-      "comparatorId": 290,
-      "outcomeId": 46286594,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Psychalgia",
       "comparatorId": 290,
       "outcomeId": 439790,
@@ -23901,13 +23120,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Sequelae of open wound of head",
-      "comparatorId": 290,
-      "outcomeId": 4056577,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight)",
       "comparatorId": 290,
       "outcomeId": 4233565,
@@ -23950,13 +23162,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Social exclusion",
-      "comparatorId": 290,
-      "outcomeId": 4019836,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Specimen satisfactory for evaluation but limited",
       "comparatorId": 290,
       "outcomeId": 444127,
@@ -23988,20 +23193,6 @@
       "outcomeName": "Teething syndrome",
       "comparatorId": 290,
       "outcomeId": 135852,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Threatened miscarriage",
-      "comparatorId": 290,
-      "outcomeId": 440457,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Tics of organic origin",
-      "comparatorId": 290,
-      "outcomeId": 374907,
       "type": "outcome"
     },
     {
@@ -24202,13 +23393,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Black piedra",
-      "comparatorId": 290,
-      "outcomeId": 141797,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Burn of ankle",
       "comparatorId": 290,
       "outcomeId": 79232,
@@ -24240,13 +23424,6 @@
       "outcomeName": "Contracture of joint of hand",
       "comparatorId": 290,
       "outcomeId": 72995,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Contracture of multiple joints",
-      "comparatorId": 290,
-      "outcomeId": 439666,
       "type": "outcome"
     },
     {
@@ -24314,13 +23491,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Epididymitis",
-      "comparatorId": 290,
-      "outcomeId": 4150043,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Excessive and frequent menstruation",
       "comparatorId": 290,
       "outcomeId": 197607,
@@ -24377,13 +23547,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Hypogammaglobulinemia",
-      "comparatorId": 290,
-      "outcomeId": 440072,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Infestation by Phthirus",
       "comparatorId": 290,
       "outcomeId": 4057662,
@@ -24429,13 +23592,6 @@
       "outcomeName": "Local infection of wound",
       "comparatorId": 290,
       "outcomeId": 4297984,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Lyme disease",
-      "comparatorId": 290,
-      "outcomeId": 440638,
       "type": "outcome"
     },
     {
@@ -24548,20 +23704,6 @@
       "outcomeName": "Open wound of upper arm",
       "comparatorId": 290,
       "outcomeId": 4129404,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Opioid dependence",
-      "comparatorId": 290,
-      "outcomeId": 438120,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Orchitis",
-      "comparatorId": 290,
-      "outcomeId": 4171915,
       "type": "outcome"
     },
     {
@@ -24790,13 +23932,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Absent nipple",
-      "comparatorId": 291,
-      "outcomeId": 4088768,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Acquired deformity of trunk",
       "comparatorId": 291,
       "outcomeId": 4319325,
@@ -24842,13 +23977,6 @@
       "outcomeName": "Azoospermia",
       "comparatorId": 291,
       "outcomeId": 76744,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Bizarre personal appearance",
-      "comparatorId": 291,
-      "outcomeId": 4216219,
       "type": "outcome"
     },
     {
@@ -24916,23 +24044,9 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Chyluria",
-      "comparatorId": 291,
-      "outcomeId": 438262,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Clicking hip",
       "comparatorId": 291,
       "outcomeId": 4066505,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Colostomy and enterostomy malfunction",
-      "comparatorId": 291,
-      "outcomeId": 196454,
       "type": "outcome"
     },
     {
@@ -25028,13 +24142,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Discord with counselor",
-      "comparatorId": 291,
-      "outcomeId": 4022078,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Disproportion - major pelvic abnormality",
       "comparatorId": 291,
       "outcomeId": 201091,
@@ -25063,20 +24170,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Ectopic production of endocrine substance",
-      "comparatorId": 291,
-      "outcomeId": 433441,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Effects of hunger",
-      "comparatorId": 291,
-      "outcomeId": 433111,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Emotional upset",
       "comparatorId": 291,
       "outcomeId": 439791,
@@ -25087,20 +24180,6 @@
       "outcomeName": "Essential fatty acid deficiency",
       "comparatorId": 291,
       "outcomeId": 4029271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Extra unidentified structurally abnormal chromosome",
-      "comparatorId": 291,
-      "outcomeId": 40480271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Extravasation of urine",
-      "comparatorId": 291,
-      "outcomeId": 193598,
       "type": "outcome"
     },
     {
@@ -25189,23 +24268,9 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Genetic anomaly of leukocyte",
-      "comparatorId": 291,
-      "outcomeId": 435775,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Herpes zoster without complication",
       "comparatorId": 291,
       "outcomeId": 440329,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "High risk sexual behavior",
-      "comparatorId": 291,
-      "outcomeId": 4012570,
       "type": "outcome"
     },
     {
@@ -25217,30 +24282,9 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Hyperphenylalaninemia",
-      "comparatorId": 291,
-      "outcomeId": 4287416,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Hypersplenism",
-      "comparatorId": 291,
-      "outcomeId": 192298,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Hypertrophy of nasal turbinates",
       "comparatorId": 291,
       "outcomeId": 440129,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Hypervitaminosis B6",
-      "comparatorId": 291,
-      "outcomeId": 4029280,
       "type": "outcome"
     },
     {
@@ -25280,13 +24324,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Immune defect",
-      "comparatorId": 291,
-      "outcomeId": 432596,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Impingement syndrome of shoulder region",
       "comparatorId": 291,
       "outcomeId": 4344500,
@@ -25297,13 +24334,6 @@
       "outcomeName": "Incompetent urethral closure mechanism",
       "comparatorId": 291,
       "outcomeId": 4090353,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Incoordination",
-      "comparatorId": 291,
-      "outcomeId": 441417,
       "type": "outcome"
     },
     {
@@ -25378,13 +24408,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Leech infestation",
-      "comparatorId": 291,
-      "outcomeId": 436041,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Leukokeratosis nicotina palati",
       "comparatorId": 291,
       "outcomeId": 4228331,
@@ -25441,13 +24464,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Marfan's syndrome",
-      "comparatorId": 291,
-      "outcomeId": 258540,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Mechanical complication of internal orthopedic device, implant AND/OR graft",
       "comparatorId": 291,
       "outcomeId": 432798,
@@ -25465,13 +24481,6 @@
       "outcomeName": "Metabolic syndrome X",
       "comparatorId": 291,
       "outcomeId": 436940,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Metallosis",
-      "comparatorId": 291,
-      "outcomeId": 435247,
       "type": "outcome"
     },
     {
@@ -25539,23 +24548,9 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Opioid abuse",
-      "comparatorId": 291,
-      "outcomeId": 438130,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Otosclerosis",
       "comparatorId": 291,
       "outcomeId": 439035,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Patient dependence on care provider",
-      "comparatorId": 291,
-      "outcomeId": 4022076,
       "type": "outcome"
     },
     {
@@ -25630,13 +24625,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Problem related to lifestyle",
-      "comparatorId": 291,
-      "outcomeId": 46286594,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Psychalgia",
       "comparatorId": 291,
       "outcomeId": 439790,
@@ -25700,13 +24688,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Sequelae of open wound of head",
-      "comparatorId": 291,
-      "outcomeId": 4056577,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight)",
       "comparatorId": 291,
       "outcomeId": 4233565,
@@ -25749,13 +24730,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Social exclusion",
-      "comparatorId": 291,
-      "outcomeId": 4019836,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Specimen satisfactory for evaluation but limited",
       "comparatorId": 291,
       "outcomeId": 444127,
@@ -25787,20 +24761,6 @@
       "outcomeName": "Teething syndrome",
       "comparatorId": 291,
       "outcomeId": 135852,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Threatened miscarriage",
-      "comparatorId": 291,
-      "outcomeId": 440457,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Tics of organic origin",
-      "comparatorId": 291,
-      "outcomeId": 374907,
       "type": "outcome"
     },
     {
@@ -26001,13 +24961,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Black piedra",
-      "comparatorId": 291,
-      "outcomeId": 141797,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Burn of ankle",
       "comparatorId": 291,
       "outcomeId": 79232,
@@ -26039,13 +24992,6 @@
       "outcomeName": "Contracture of joint of hand",
       "comparatorId": 291,
       "outcomeId": 72995,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Contracture of multiple joints",
-      "comparatorId": 291,
-      "outcomeId": 439666,
       "type": "outcome"
     },
     {
@@ -26113,13 +25059,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Epididymitis",
-      "comparatorId": 291,
-      "outcomeId": 4150043,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Excessive and frequent menstruation",
       "comparatorId": 291,
       "outcomeId": 197607,
@@ -26176,13 +25115,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Hypogammaglobulinemia",
-      "comparatorId": 291,
-      "outcomeId": 440072,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Infestation by Phthirus",
       "comparatorId": 291,
       "outcomeId": 4057662,
@@ -26228,13 +25160,6 @@
       "outcomeName": "Local infection of wound",
       "comparatorId": 291,
       "outcomeId": 4297984,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Lyme disease",
-      "comparatorId": 291,
-      "outcomeId": 440638,
       "type": "outcome"
     },
     {
@@ -26347,20 +25272,6 @@
       "outcomeName": "Open wound of upper arm",
       "comparatorId": 291,
       "outcomeId": 4129404,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Opioid dependence",
-      "comparatorId": 291,
-      "outcomeId": 438120,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Orchitis",
-      "comparatorId": 291,
-      "outcomeId": 4171915,
       "type": "outcome"
     },
     {
@@ -26589,13 +25500,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Absent nipple",
-      "comparatorId": 293,
-      "outcomeId": 4088768,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Acquired deformity of trunk",
       "comparatorId": 293,
       "outcomeId": 4319325,
@@ -26641,13 +25545,6 @@
       "outcomeName": "Azoospermia",
       "comparatorId": 293,
       "outcomeId": 76744,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Bizarre personal appearance",
-      "comparatorId": 293,
-      "outcomeId": 4216219,
       "type": "outcome"
     },
     {
@@ -26715,23 +25612,9 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Chyluria",
-      "comparatorId": 293,
-      "outcomeId": 438262,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Clicking hip",
       "comparatorId": 293,
       "outcomeId": 4066505,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Colostomy and enterostomy malfunction",
-      "comparatorId": 293,
-      "outcomeId": 196454,
       "type": "outcome"
     },
     {
@@ -26827,13 +25710,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Discord with counselor",
-      "comparatorId": 293,
-      "outcomeId": 4022078,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Disproportion - major pelvic abnormality",
       "comparatorId": 293,
       "outcomeId": 201091,
@@ -26862,20 +25738,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Ectopic production of endocrine substance",
-      "comparatorId": 293,
-      "outcomeId": 433441,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Effects of hunger",
-      "comparatorId": 293,
-      "outcomeId": 433111,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Emotional upset",
       "comparatorId": 293,
       "outcomeId": 439791,
@@ -26886,20 +25748,6 @@
       "outcomeName": "Essential fatty acid deficiency",
       "comparatorId": 293,
       "outcomeId": 4029271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Extra unidentified structurally abnormal chromosome",
-      "comparatorId": 293,
-      "outcomeId": 40480271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Extravasation of urine",
-      "comparatorId": 293,
-      "outcomeId": 193598,
       "type": "outcome"
     },
     {
@@ -26988,23 +25836,9 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Genetic anomaly of leukocyte",
-      "comparatorId": 293,
-      "outcomeId": 435775,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Herpes zoster without complication",
       "comparatorId": 293,
       "outcomeId": 440329,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "High risk sexual behavior",
-      "comparatorId": 293,
-      "outcomeId": 4012570,
       "type": "outcome"
     },
     {
@@ -27016,30 +25850,9 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Hyperphenylalaninemia",
-      "comparatorId": 293,
-      "outcomeId": 4287416,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Hypersplenism",
-      "comparatorId": 293,
-      "outcomeId": 192298,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Hypertrophy of nasal turbinates",
       "comparatorId": 293,
       "outcomeId": 440129,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Hypervitaminosis B6",
-      "comparatorId": 293,
-      "outcomeId": 4029280,
       "type": "outcome"
     },
     {
@@ -27079,13 +25892,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Immune defect",
-      "comparatorId": 293,
-      "outcomeId": 432596,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Impingement syndrome of shoulder region",
       "comparatorId": 293,
       "outcomeId": 4344500,
@@ -27096,13 +25902,6 @@
       "outcomeName": "Incompetent urethral closure mechanism",
       "comparatorId": 293,
       "outcomeId": 4090353,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Incoordination",
-      "comparatorId": 293,
-      "outcomeId": 441417,
       "type": "outcome"
     },
     {
@@ -27177,13 +25976,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Leech infestation",
-      "comparatorId": 293,
-      "outcomeId": 436041,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Leukokeratosis nicotina palati",
       "comparatorId": 293,
       "outcomeId": 4228331,
@@ -27240,13 +26032,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Marfan's syndrome",
-      "comparatorId": 293,
-      "outcomeId": 258540,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Mechanical complication of internal orthopedic device, implant AND/OR graft",
       "comparatorId": 293,
       "outcomeId": 432798,
@@ -27264,13 +26049,6 @@
       "outcomeName": "Metabolic syndrome X",
       "comparatorId": 293,
       "outcomeId": 436940,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Metallosis",
-      "comparatorId": 293,
-      "outcomeId": 435247,
       "type": "outcome"
     },
     {
@@ -27338,23 +26116,9 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Opioid abuse",
-      "comparatorId": 293,
-      "outcomeId": 438130,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Otosclerosis",
       "comparatorId": 293,
       "outcomeId": 439035,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Patient dependence on care provider",
-      "comparatorId": 293,
-      "outcomeId": 4022076,
       "type": "outcome"
     },
     {
@@ -27429,13 +26193,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Problem related to lifestyle",
-      "comparatorId": 293,
-      "outcomeId": 46286594,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Psychalgia",
       "comparatorId": 293,
       "outcomeId": 439790,
@@ -27499,13 +26256,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Sequelae of open wound of head",
-      "comparatorId": 293,
-      "outcomeId": 4056577,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight)",
       "comparatorId": 293,
       "outcomeId": 4233565,
@@ -27548,13 +26298,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Social exclusion",
-      "comparatorId": 293,
-      "outcomeId": 4019836,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Specimen satisfactory for evaluation but limited",
       "comparatorId": 293,
       "outcomeId": 444127,
@@ -27586,20 +26329,6 @@
       "outcomeName": "Teething syndrome",
       "comparatorId": 293,
       "outcomeId": 135852,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Threatened miscarriage",
-      "comparatorId": 293,
-      "outcomeId": 440457,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Tics of organic origin",
-      "comparatorId": 293,
-      "outcomeId": 374907,
       "type": "outcome"
     },
     {
@@ -27800,13 +26529,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Black piedra",
-      "comparatorId": 293,
-      "outcomeId": 141797,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Burn of ankle",
       "comparatorId": 293,
       "outcomeId": 79232,
@@ -27838,13 +26560,6 @@
       "outcomeName": "Contracture of joint of hand",
       "comparatorId": 293,
       "outcomeId": 72995,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Contracture of multiple joints",
-      "comparatorId": 293,
-      "outcomeId": 439666,
       "type": "outcome"
     },
     {
@@ -27912,13 +26627,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Epididymitis",
-      "comparatorId": 293,
-      "outcomeId": 4150043,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Excessive and frequent menstruation",
       "comparatorId": 293,
       "outcomeId": 197607,
@@ -27975,13 +26683,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Hypogammaglobulinemia",
-      "comparatorId": 293,
-      "outcomeId": 440072,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Infestation by Phthirus",
       "comparatorId": 293,
       "outcomeId": 4057662,
@@ -28027,13 +26728,6 @@
       "outcomeName": "Local infection of wound",
       "comparatorId": 293,
       "outcomeId": 4297984,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Lyme disease",
-      "comparatorId": 293,
-      "outcomeId": 440638,
       "type": "outcome"
     },
     {
@@ -28146,20 +26840,6 @@
       "outcomeName": "Open wound of upper arm",
       "comparatorId": 293,
       "outcomeId": 4129404,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Opioid dependence",
-      "comparatorId": 293,
-      "outcomeId": 438120,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Orchitis",
-      "comparatorId": 293,
-      "outcomeId": 4171915,
       "type": "outcome"
     },
     {
@@ -28388,13 +27068,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Absent nipple",
-      "comparatorId": 295,
-      "outcomeId": 4088768,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Acquired deformity of trunk",
       "comparatorId": 295,
       "outcomeId": 4319325,
@@ -28440,13 +27113,6 @@
       "outcomeName": "Azoospermia",
       "comparatorId": 295,
       "outcomeId": 76744,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Bizarre personal appearance",
-      "comparatorId": 295,
-      "outcomeId": 4216219,
       "type": "outcome"
     },
     {
@@ -28514,23 +27180,9 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Chyluria",
-      "comparatorId": 295,
-      "outcomeId": 438262,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Clicking hip",
       "comparatorId": 295,
       "outcomeId": 4066505,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Colostomy and enterostomy malfunction",
-      "comparatorId": 295,
-      "outcomeId": 196454,
       "type": "outcome"
     },
     {
@@ -28626,13 +27278,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Discord with counselor",
-      "comparatorId": 295,
-      "outcomeId": 4022078,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Disproportion - major pelvic abnormality",
       "comparatorId": 295,
       "outcomeId": 201091,
@@ -28661,20 +27306,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Ectopic production of endocrine substance",
-      "comparatorId": 295,
-      "outcomeId": 433441,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Effects of hunger",
-      "comparatorId": 295,
-      "outcomeId": 433111,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Emotional upset",
       "comparatorId": 295,
       "outcomeId": 439791,
@@ -28685,20 +27316,6 @@
       "outcomeName": "Essential fatty acid deficiency",
       "comparatorId": 295,
       "outcomeId": 4029271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Extra unidentified structurally abnormal chromosome",
-      "comparatorId": 295,
-      "outcomeId": 40480271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Extravasation of urine",
-      "comparatorId": 295,
-      "outcomeId": 193598,
       "type": "outcome"
     },
     {
@@ -28787,23 +27404,9 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Genetic anomaly of leukocyte",
-      "comparatorId": 295,
-      "outcomeId": 435775,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Herpes zoster without complication",
       "comparatorId": 295,
       "outcomeId": 440329,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "High risk sexual behavior",
-      "comparatorId": 295,
-      "outcomeId": 4012570,
       "type": "outcome"
     },
     {
@@ -28815,30 +27418,9 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Hyperphenylalaninemia",
-      "comparatorId": 295,
-      "outcomeId": 4287416,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Hypersplenism",
-      "comparatorId": 295,
-      "outcomeId": 192298,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Hypertrophy of nasal turbinates",
       "comparatorId": 295,
       "outcomeId": 440129,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Hypervitaminosis B6",
-      "comparatorId": 295,
-      "outcomeId": 4029280,
       "type": "outcome"
     },
     {
@@ -28878,13 +27460,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Immune defect",
-      "comparatorId": 295,
-      "outcomeId": 432596,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Impingement syndrome of shoulder region",
       "comparatorId": 295,
       "outcomeId": 4344500,
@@ -28895,13 +27470,6 @@
       "outcomeName": "Incompetent urethral closure mechanism",
       "comparatorId": 295,
       "outcomeId": 4090353,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Incoordination",
-      "comparatorId": 295,
-      "outcomeId": 441417,
       "type": "outcome"
     },
     {
@@ -28976,13 +27544,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Leech infestation",
-      "comparatorId": 295,
-      "outcomeId": 436041,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Leukokeratosis nicotina palati",
       "comparatorId": 295,
       "outcomeId": 4228331,
@@ -29039,13 +27600,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Marfan's syndrome",
-      "comparatorId": 295,
-      "outcomeId": 258540,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Mechanical complication of internal orthopedic device, implant AND/OR graft",
       "comparatorId": 295,
       "outcomeId": 432798,
@@ -29063,13 +27617,6 @@
       "outcomeName": "Metabolic syndrome X",
       "comparatorId": 295,
       "outcomeId": 436940,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Metallosis",
-      "comparatorId": 295,
-      "outcomeId": 435247,
       "type": "outcome"
     },
     {
@@ -29137,23 +27684,9 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Opioid abuse",
-      "comparatorId": 295,
-      "outcomeId": 438130,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Otosclerosis",
       "comparatorId": 295,
       "outcomeId": 439035,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Patient dependence on care provider",
-      "comparatorId": 295,
-      "outcomeId": 4022076,
       "type": "outcome"
     },
     {
@@ -29228,13 +27761,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Problem related to lifestyle",
-      "comparatorId": 295,
-      "outcomeId": 46286594,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Psychalgia",
       "comparatorId": 295,
       "outcomeId": 439790,
@@ -29298,13 +27824,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Sequelae of open wound of head",
-      "comparatorId": 295,
-      "outcomeId": 4056577,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight)",
       "comparatorId": 295,
       "outcomeId": 4233565,
@@ -29347,13 +27866,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Social exclusion",
-      "comparatorId": 295,
-      "outcomeId": 4019836,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Specimen satisfactory for evaluation but limited",
       "comparatorId": 295,
       "outcomeId": 444127,
@@ -29385,20 +27897,6 @@
       "outcomeName": "Teething syndrome",
       "comparatorId": 295,
       "outcomeId": 135852,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Threatened miscarriage",
-      "comparatorId": 295,
-      "outcomeId": 440457,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Tics of organic origin",
-      "comparatorId": 295,
-      "outcomeId": 374907,
       "type": "outcome"
     },
     {
@@ -29599,13 +28097,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Black piedra",
-      "comparatorId": 295,
-      "outcomeId": 141797,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Burn of ankle",
       "comparatorId": 295,
       "outcomeId": 79232,
@@ -29637,13 +28128,6 @@
       "outcomeName": "Contracture of joint of hand",
       "comparatorId": 295,
       "outcomeId": 72995,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Contracture of multiple joints",
-      "comparatorId": 295,
-      "outcomeId": 439666,
       "type": "outcome"
     },
     {
@@ -29711,13 +28195,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Epididymitis",
-      "comparatorId": 295,
-      "outcomeId": 4150043,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Excessive and frequent menstruation",
       "comparatorId": 295,
       "outcomeId": 197607,
@@ -29774,13 +28251,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Hypogammaglobulinemia",
-      "comparatorId": 295,
-      "outcomeId": 440072,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Infestation by Phthirus",
       "comparatorId": 295,
       "outcomeId": 4057662,
@@ -29826,13 +28296,6 @@
       "outcomeName": "Local infection of wound",
       "comparatorId": 295,
       "outcomeId": 4297984,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Lyme disease",
-      "comparatorId": 295,
-      "outcomeId": 440638,
       "type": "outcome"
     },
     {
@@ -29945,20 +28408,6 @@
       "outcomeName": "Open wound of upper arm",
       "comparatorId": 295,
       "outcomeId": 4129404,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Opioid dependence",
-      "comparatorId": 295,
-      "outcomeId": 438120,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Orchitis",
-      "comparatorId": 295,
-      "outcomeId": 4171915,
       "type": "outcome"
     },
     {
@@ -30187,13 +28636,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Absent nipple",
-      "comparatorId": 173,
-      "outcomeId": 4088768,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Acquired deformity of trunk",
       "comparatorId": 173,
       "outcomeId": 4319325,
@@ -30239,13 +28681,6 @@
       "outcomeName": "Azoospermia",
       "comparatorId": 173,
       "outcomeId": 76744,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Bizarre personal appearance",
-      "comparatorId": 173,
-      "outcomeId": 4216219,
       "type": "outcome"
     },
     {
@@ -30313,23 +28748,9 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Chyluria",
-      "comparatorId": 173,
-      "outcomeId": 438262,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Clicking hip",
       "comparatorId": 173,
       "outcomeId": 4066505,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Colostomy and enterostomy malfunction",
-      "comparatorId": 173,
-      "outcomeId": 196454,
       "type": "outcome"
     },
     {
@@ -30425,13 +28846,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Discord with counselor",
-      "comparatorId": 173,
-      "outcomeId": 4022078,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Disproportion - major pelvic abnormality",
       "comparatorId": 173,
       "outcomeId": 201091,
@@ -30460,20 +28874,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Ectopic production of endocrine substance",
-      "comparatorId": 173,
-      "outcomeId": 433441,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Effects of hunger",
-      "comparatorId": 173,
-      "outcomeId": 433111,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Emotional upset",
       "comparatorId": 173,
       "outcomeId": 439791,
@@ -30484,20 +28884,6 @@
       "outcomeName": "Essential fatty acid deficiency",
       "comparatorId": 173,
       "outcomeId": 4029271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Extra unidentified structurally abnormal chromosome",
-      "comparatorId": 173,
-      "outcomeId": 40480271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Extravasation of urine",
-      "comparatorId": 173,
-      "outcomeId": 193598,
       "type": "outcome"
     },
     {
@@ -30586,23 +28972,9 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Genetic anomaly of leukocyte",
-      "comparatorId": 173,
-      "outcomeId": 435775,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Herpes zoster without complication",
       "comparatorId": 173,
       "outcomeId": 440329,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "High risk sexual behavior",
-      "comparatorId": 173,
-      "outcomeId": 4012570,
       "type": "outcome"
     },
     {
@@ -30614,30 +28986,9 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Hyperphenylalaninemia",
-      "comparatorId": 173,
-      "outcomeId": 4287416,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Hypersplenism",
-      "comparatorId": 173,
-      "outcomeId": 192298,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Hypertrophy of nasal turbinates",
       "comparatorId": 173,
       "outcomeId": 440129,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Hypervitaminosis B6",
-      "comparatorId": 173,
-      "outcomeId": 4029280,
       "type": "outcome"
     },
     {
@@ -30677,13 +29028,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Immune defect",
-      "comparatorId": 173,
-      "outcomeId": 432596,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Impingement syndrome of shoulder region",
       "comparatorId": 173,
       "outcomeId": 4344500,
@@ -30694,13 +29038,6 @@
       "outcomeName": "Incompetent urethral closure mechanism",
       "comparatorId": 173,
       "outcomeId": 4090353,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Incoordination",
-      "comparatorId": 173,
-      "outcomeId": 441417,
       "type": "outcome"
     },
     {
@@ -30775,13 +29112,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Leech infestation",
-      "comparatorId": 173,
-      "outcomeId": 436041,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Leukokeratosis nicotina palati",
       "comparatorId": 173,
       "outcomeId": 4228331,
@@ -30838,13 +29168,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Marfan's syndrome",
-      "comparatorId": 173,
-      "outcomeId": 258540,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Mechanical complication of internal orthopedic device, implant AND/OR graft",
       "comparatorId": 173,
       "outcomeId": 432798,
@@ -30862,13 +29185,6 @@
       "outcomeName": "Metabolic syndrome X",
       "comparatorId": 173,
       "outcomeId": 436940,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Metallosis",
-      "comparatorId": 173,
-      "outcomeId": 435247,
       "type": "outcome"
     },
     {
@@ -30936,23 +29252,9 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Opioid abuse",
-      "comparatorId": 173,
-      "outcomeId": 438130,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Otosclerosis",
       "comparatorId": 173,
       "outcomeId": 439035,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Patient dependence on care provider",
-      "comparatorId": 173,
-      "outcomeId": 4022076,
       "type": "outcome"
     },
     {
@@ -31027,13 +29329,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Problem related to lifestyle",
-      "comparatorId": 173,
-      "outcomeId": 46286594,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Psychalgia",
       "comparatorId": 173,
       "outcomeId": 439790,
@@ -31097,13 +29392,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Sequelae of open wound of head",
-      "comparatorId": 173,
-      "outcomeId": 4056577,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight)",
       "comparatorId": 173,
       "outcomeId": 4233565,
@@ -31146,13 +29434,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Social exclusion",
-      "comparatorId": 173,
-      "outcomeId": 4019836,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Specimen satisfactory for evaluation but limited",
       "comparatorId": 173,
       "outcomeId": 444127,
@@ -31184,20 +29465,6 @@
       "outcomeName": "Teething syndrome",
       "comparatorId": 173,
       "outcomeId": 135852,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Threatened miscarriage",
-      "comparatorId": 173,
-      "outcomeId": 440457,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Tics of organic origin",
-      "comparatorId": 173,
-      "outcomeId": 374907,
       "type": "outcome"
     },
     {
@@ -31398,13 +29665,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Black piedra",
-      "comparatorId": 173,
-      "outcomeId": 141797,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Burn of ankle",
       "comparatorId": 173,
       "outcomeId": 79232,
@@ -31436,13 +29696,6 @@
       "outcomeName": "Contracture of joint of hand",
       "comparatorId": 173,
       "outcomeId": 72995,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Contracture of multiple joints",
-      "comparatorId": 173,
-      "outcomeId": 439666,
       "type": "outcome"
     },
     {
@@ -31510,13 +29763,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Epididymitis",
-      "comparatorId": 173,
-      "outcomeId": 4150043,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Excessive and frequent menstruation",
       "comparatorId": 173,
       "outcomeId": 197607,
@@ -31573,13 +29819,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Hypogammaglobulinemia",
-      "comparatorId": 173,
-      "outcomeId": 440072,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Infestation by Phthirus",
       "comparatorId": 173,
       "outcomeId": 4057662,
@@ -31625,13 +29864,6 @@
       "outcomeName": "Local infection of wound",
       "comparatorId": 173,
       "outcomeId": 4297984,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Lyme disease",
-      "comparatorId": 173,
-      "outcomeId": 440638,
       "type": "outcome"
     },
     {
@@ -31744,20 +29976,6 @@
       "outcomeName": "Open wound of upper arm",
       "comparatorId": 173,
       "outcomeId": 4129404,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Opioid dependence",
-      "comparatorId": 173,
-      "outcomeId": 438120,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Orchitis",
-      "comparatorId": 173,
-      "outcomeId": 4171915,
       "type": "outcome"
     },
     {
@@ -31986,13 +30204,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Absent nipple",
-      "comparatorId": 174,
-      "outcomeId": 4088768,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Acquired deformity of trunk",
       "comparatorId": 174,
       "outcomeId": 4319325,
@@ -32038,13 +30249,6 @@
       "outcomeName": "Azoospermia",
       "comparatorId": 174,
       "outcomeId": 76744,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Bizarre personal appearance",
-      "comparatorId": 174,
-      "outcomeId": 4216219,
       "type": "outcome"
     },
     {
@@ -32112,23 +30316,9 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Chyluria",
-      "comparatorId": 174,
-      "outcomeId": 438262,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Clicking hip",
       "comparatorId": 174,
       "outcomeId": 4066505,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Colostomy and enterostomy malfunction",
-      "comparatorId": 174,
-      "outcomeId": 196454,
       "type": "outcome"
     },
     {
@@ -32224,13 +30414,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Discord with counselor",
-      "comparatorId": 174,
-      "outcomeId": 4022078,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Disproportion - major pelvic abnormality",
       "comparatorId": 174,
       "outcomeId": 201091,
@@ -32259,20 +30442,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Ectopic production of endocrine substance",
-      "comparatorId": 174,
-      "outcomeId": 433441,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Effects of hunger",
-      "comparatorId": 174,
-      "outcomeId": 433111,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Emotional upset",
       "comparatorId": 174,
       "outcomeId": 439791,
@@ -32283,20 +30452,6 @@
       "outcomeName": "Essential fatty acid deficiency",
       "comparatorId": 174,
       "outcomeId": 4029271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Extra unidentified structurally abnormal chromosome",
-      "comparatorId": 174,
-      "outcomeId": 40480271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Extravasation of urine",
-      "comparatorId": 174,
-      "outcomeId": 193598,
       "type": "outcome"
     },
     {
@@ -32385,23 +30540,9 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Genetic anomaly of leukocyte",
-      "comparatorId": 174,
-      "outcomeId": 435775,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Herpes zoster without complication",
       "comparatorId": 174,
       "outcomeId": 440329,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "High risk sexual behavior",
-      "comparatorId": 174,
-      "outcomeId": 4012570,
       "type": "outcome"
     },
     {
@@ -32413,30 +30554,9 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Hyperphenylalaninemia",
-      "comparatorId": 174,
-      "outcomeId": 4287416,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Hypersplenism",
-      "comparatorId": 174,
-      "outcomeId": 192298,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Hypertrophy of nasal turbinates",
       "comparatorId": 174,
       "outcomeId": 440129,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Hypervitaminosis B6",
-      "comparatorId": 174,
-      "outcomeId": 4029280,
       "type": "outcome"
     },
     {
@@ -32476,13 +30596,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Immune defect",
-      "comparatorId": 174,
-      "outcomeId": 432596,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Impingement syndrome of shoulder region",
       "comparatorId": 174,
       "outcomeId": 4344500,
@@ -32493,13 +30606,6 @@
       "outcomeName": "Incompetent urethral closure mechanism",
       "comparatorId": 174,
       "outcomeId": 4090353,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Incoordination",
-      "comparatorId": 174,
-      "outcomeId": 441417,
       "type": "outcome"
     },
     {
@@ -32574,13 +30680,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Leech infestation",
-      "comparatorId": 174,
-      "outcomeId": 436041,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Leukokeratosis nicotina palati",
       "comparatorId": 174,
       "outcomeId": 4228331,
@@ -32637,13 +30736,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Marfan's syndrome",
-      "comparatorId": 174,
-      "outcomeId": 258540,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Mechanical complication of internal orthopedic device, implant AND/OR graft",
       "comparatorId": 174,
       "outcomeId": 432798,
@@ -32661,13 +30753,6 @@
       "outcomeName": "Metabolic syndrome X",
       "comparatorId": 174,
       "outcomeId": 436940,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Metallosis",
-      "comparatorId": 174,
-      "outcomeId": 435247,
       "type": "outcome"
     },
     {
@@ -32735,23 +30820,9 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Opioid abuse",
-      "comparatorId": 174,
-      "outcomeId": 438130,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Otosclerosis",
       "comparatorId": 174,
       "outcomeId": 439035,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Patient dependence on care provider",
-      "comparatorId": 174,
-      "outcomeId": 4022076,
       "type": "outcome"
     },
     {
@@ -32826,13 +30897,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Problem related to lifestyle",
-      "comparatorId": 174,
-      "outcomeId": 46286594,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Psychalgia",
       "comparatorId": 174,
       "outcomeId": 439790,
@@ -32896,13 +30960,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Sequelae of open wound of head",
-      "comparatorId": 174,
-      "outcomeId": 4056577,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight)",
       "comparatorId": 174,
       "outcomeId": 4233565,
@@ -32945,13 +31002,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Social exclusion",
-      "comparatorId": 174,
-      "outcomeId": 4019836,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Specimen satisfactory for evaluation but limited",
       "comparatorId": 174,
       "outcomeId": 444127,
@@ -32983,20 +31033,6 @@
       "outcomeName": "Teething syndrome",
       "comparatorId": 174,
       "outcomeId": 135852,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Threatened miscarriage",
-      "comparatorId": 174,
-      "outcomeId": 440457,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Tics of organic origin",
-      "comparatorId": 174,
-      "outcomeId": 374907,
       "type": "outcome"
     },
     {
@@ -33197,13 +31233,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Black piedra",
-      "comparatorId": 174,
-      "outcomeId": 141797,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Burn of ankle",
       "comparatorId": 174,
       "outcomeId": 79232,
@@ -33235,13 +31264,6 @@
       "outcomeName": "Contracture of joint of hand",
       "comparatorId": 174,
       "outcomeId": 72995,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Contracture of multiple joints",
-      "comparatorId": 174,
-      "outcomeId": 439666,
       "type": "outcome"
     },
     {
@@ -33309,13 +31331,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Epididymitis",
-      "comparatorId": 174,
-      "outcomeId": 4150043,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Excessive and frequent menstruation",
       "comparatorId": 174,
       "outcomeId": 197607,
@@ -33372,13 +31387,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Hypogammaglobulinemia",
-      "comparatorId": 174,
-      "outcomeId": 440072,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Infestation by Phthirus",
       "comparatorId": 174,
       "outcomeId": 4057662,
@@ -33424,13 +31432,6 @@
       "outcomeName": "Local infection of wound",
       "comparatorId": 174,
       "outcomeId": 4297984,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Lyme disease",
-      "comparatorId": 174,
-      "outcomeId": 440638,
       "type": "outcome"
     },
     {
@@ -33543,20 +31544,6 @@
       "outcomeName": "Open wound of upper arm",
       "comparatorId": 174,
       "outcomeId": 4129404,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Opioid dependence",
-      "comparatorId": 174,
-      "outcomeId": 438120,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Orchitis",
-      "comparatorId": 174,
-      "outcomeId": 4171915,
       "type": "outcome"
     },
     {
@@ -33785,13 +31772,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Absent nipple",
-      "comparatorId": 176,
-      "outcomeId": 4088768,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Acquired deformity of trunk",
       "comparatorId": 176,
       "outcomeId": 4319325,
@@ -33837,13 +31817,6 @@
       "outcomeName": "Azoospermia",
       "comparatorId": 176,
       "outcomeId": 76744,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Bizarre personal appearance",
-      "comparatorId": 176,
-      "outcomeId": 4216219,
       "type": "outcome"
     },
     {
@@ -33911,23 +31884,9 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Chyluria",
-      "comparatorId": 176,
-      "outcomeId": 438262,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Clicking hip",
       "comparatorId": 176,
       "outcomeId": 4066505,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Colostomy and enterostomy malfunction",
-      "comparatorId": 176,
-      "outcomeId": 196454,
       "type": "outcome"
     },
     {
@@ -34023,13 +31982,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Discord with counselor",
-      "comparatorId": 176,
-      "outcomeId": 4022078,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Disproportion - major pelvic abnormality",
       "comparatorId": 176,
       "outcomeId": 201091,
@@ -34058,20 +32010,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Ectopic production of endocrine substance",
-      "comparatorId": 176,
-      "outcomeId": 433441,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Effects of hunger",
-      "comparatorId": 176,
-      "outcomeId": 433111,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Emotional upset",
       "comparatorId": 176,
       "outcomeId": 439791,
@@ -34082,20 +32020,6 @@
       "outcomeName": "Essential fatty acid deficiency",
       "comparatorId": 176,
       "outcomeId": 4029271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Extra unidentified structurally abnormal chromosome",
-      "comparatorId": 176,
-      "outcomeId": 40480271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Extravasation of urine",
-      "comparatorId": 176,
-      "outcomeId": 193598,
       "type": "outcome"
     },
     {
@@ -34184,23 +32108,9 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Genetic anomaly of leukocyte",
-      "comparatorId": 176,
-      "outcomeId": 435775,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Herpes zoster without complication",
       "comparatorId": 176,
       "outcomeId": 440329,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "High risk sexual behavior",
-      "comparatorId": 176,
-      "outcomeId": 4012570,
       "type": "outcome"
     },
     {
@@ -34212,30 +32122,9 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Hyperphenylalaninemia",
-      "comparatorId": 176,
-      "outcomeId": 4287416,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Hypersplenism",
-      "comparatorId": 176,
-      "outcomeId": 192298,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Hypertrophy of nasal turbinates",
       "comparatorId": 176,
       "outcomeId": 440129,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Hypervitaminosis B6",
-      "comparatorId": 176,
-      "outcomeId": 4029280,
       "type": "outcome"
     },
     {
@@ -34275,13 +32164,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Immune defect",
-      "comparatorId": 176,
-      "outcomeId": 432596,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Impingement syndrome of shoulder region",
       "comparatorId": 176,
       "outcomeId": 4344500,
@@ -34292,13 +32174,6 @@
       "outcomeName": "Incompetent urethral closure mechanism",
       "comparatorId": 176,
       "outcomeId": 4090353,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Incoordination",
-      "comparatorId": 176,
-      "outcomeId": 441417,
       "type": "outcome"
     },
     {
@@ -34373,13 +32248,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Leech infestation",
-      "comparatorId": 176,
-      "outcomeId": 436041,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Leukokeratosis nicotina palati",
       "comparatorId": 176,
       "outcomeId": 4228331,
@@ -34436,13 +32304,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Marfan's syndrome",
-      "comparatorId": 176,
-      "outcomeId": 258540,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Mechanical complication of internal orthopedic device, implant AND/OR graft",
       "comparatorId": 176,
       "outcomeId": 432798,
@@ -34460,13 +32321,6 @@
       "outcomeName": "Metabolic syndrome X",
       "comparatorId": 176,
       "outcomeId": 436940,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Metallosis",
-      "comparatorId": 176,
-      "outcomeId": 435247,
       "type": "outcome"
     },
     {
@@ -34534,23 +32388,9 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Opioid abuse",
-      "comparatorId": 176,
-      "outcomeId": 438130,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Otosclerosis",
       "comparatorId": 176,
       "outcomeId": 439035,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Patient dependence on care provider",
-      "comparatorId": 176,
-      "outcomeId": 4022076,
       "type": "outcome"
     },
     {
@@ -34625,13 +32465,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Problem related to lifestyle",
-      "comparatorId": 176,
-      "outcomeId": 46286594,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Psychalgia",
       "comparatorId": 176,
       "outcomeId": 439790,
@@ -34695,13 +32528,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Sequelae of open wound of head",
-      "comparatorId": 176,
-      "outcomeId": 4056577,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight)",
       "comparatorId": 176,
       "outcomeId": 4233565,
@@ -34744,13 +32570,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Social exclusion",
-      "comparatorId": 176,
-      "outcomeId": 4019836,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Specimen satisfactory for evaluation but limited",
       "comparatorId": 176,
       "outcomeId": 444127,
@@ -34782,20 +32601,6 @@
       "outcomeName": "Teething syndrome",
       "comparatorId": 176,
       "outcomeId": 135852,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Threatened miscarriage",
-      "comparatorId": 176,
-      "outcomeId": 440457,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Tics of organic origin",
-      "comparatorId": 176,
-      "outcomeId": 374907,
       "type": "outcome"
     },
     {
@@ -34996,13 +32801,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Black piedra",
-      "comparatorId": 176,
-      "outcomeId": 141797,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Burn of ankle",
       "comparatorId": 176,
       "outcomeId": 79232,
@@ -35034,13 +32832,6 @@
       "outcomeName": "Contracture of joint of hand",
       "comparatorId": 176,
       "outcomeId": 72995,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Contracture of multiple joints",
-      "comparatorId": 176,
-      "outcomeId": 439666,
       "type": "outcome"
     },
     {
@@ -35108,13 +32899,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Epididymitis",
-      "comparatorId": 176,
-      "outcomeId": 4150043,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Excessive and frequent menstruation",
       "comparatorId": 176,
       "outcomeId": 197607,
@@ -35171,13 +32955,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Hypogammaglobulinemia",
-      "comparatorId": 176,
-      "outcomeId": 440072,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Infestation by Phthirus",
       "comparatorId": 176,
       "outcomeId": 4057662,
@@ -35223,13 +33000,6 @@
       "outcomeName": "Local infection of wound",
       "comparatorId": 176,
       "outcomeId": 4297984,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Lyme disease",
-      "comparatorId": 176,
-      "outcomeId": 440638,
       "type": "outcome"
     },
     {
@@ -35342,20 +33112,6 @@
       "outcomeName": "Open wound of upper arm",
       "comparatorId": 176,
       "outcomeId": 4129404,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Opioid dependence",
-      "comparatorId": 176,
-      "outcomeId": 438120,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Orchitis",
-      "comparatorId": 176,
-      "outcomeId": 4171915,
       "type": "outcome"
     },
     {
@@ -35584,13 +33340,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Absent nipple",
-      "comparatorId": 178,
-      "outcomeId": 4088768,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Acquired deformity of trunk",
       "comparatorId": 178,
       "outcomeId": 4319325,
@@ -35636,13 +33385,6 @@
       "outcomeName": "Azoospermia",
       "comparatorId": 178,
       "outcomeId": 76744,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Bizarre personal appearance",
-      "comparatorId": 178,
-      "outcomeId": 4216219,
       "type": "outcome"
     },
     {
@@ -35710,23 +33452,9 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Chyluria",
-      "comparatorId": 178,
-      "outcomeId": 438262,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Clicking hip",
       "comparatorId": 178,
       "outcomeId": 4066505,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Colostomy and enterostomy malfunction",
-      "comparatorId": 178,
-      "outcomeId": 196454,
       "type": "outcome"
     },
     {
@@ -35822,13 +33550,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Discord with counselor",
-      "comparatorId": 178,
-      "outcomeId": 4022078,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Disproportion - major pelvic abnormality",
       "comparatorId": 178,
       "outcomeId": 201091,
@@ -35857,20 +33578,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Ectopic production of endocrine substance",
-      "comparatorId": 178,
-      "outcomeId": 433441,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Effects of hunger",
-      "comparatorId": 178,
-      "outcomeId": 433111,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Emotional upset",
       "comparatorId": 178,
       "outcomeId": 439791,
@@ -35881,20 +33588,6 @@
       "outcomeName": "Essential fatty acid deficiency",
       "comparatorId": 178,
       "outcomeId": 4029271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Extra unidentified structurally abnormal chromosome",
-      "comparatorId": 178,
-      "outcomeId": 40480271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Extravasation of urine",
-      "comparatorId": 178,
-      "outcomeId": 193598,
       "type": "outcome"
     },
     {
@@ -35983,23 +33676,9 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Genetic anomaly of leukocyte",
-      "comparatorId": 178,
-      "outcomeId": 435775,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Herpes zoster without complication",
       "comparatorId": 178,
       "outcomeId": 440329,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "High risk sexual behavior",
-      "comparatorId": 178,
-      "outcomeId": 4012570,
       "type": "outcome"
     },
     {
@@ -36011,30 +33690,9 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Hyperphenylalaninemia",
-      "comparatorId": 178,
-      "outcomeId": 4287416,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Hypersplenism",
-      "comparatorId": 178,
-      "outcomeId": 192298,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Hypertrophy of nasal turbinates",
       "comparatorId": 178,
       "outcomeId": 440129,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Hypervitaminosis B6",
-      "comparatorId": 178,
-      "outcomeId": 4029280,
       "type": "outcome"
     },
     {
@@ -36074,13 +33732,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Immune defect",
-      "comparatorId": 178,
-      "outcomeId": 432596,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Impingement syndrome of shoulder region",
       "comparatorId": 178,
       "outcomeId": 4344500,
@@ -36091,13 +33742,6 @@
       "outcomeName": "Incompetent urethral closure mechanism",
       "comparatorId": 178,
       "outcomeId": 4090353,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Incoordination",
-      "comparatorId": 178,
-      "outcomeId": 441417,
       "type": "outcome"
     },
     {
@@ -36172,13 +33816,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Leech infestation",
-      "comparatorId": 178,
-      "outcomeId": 436041,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Leukokeratosis nicotina palati",
       "comparatorId": 178,
       "outcomeId": 4228331,
@@ -36235,13 +33872,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Marfan's syndrome",
-      "comparatorId": 178,
-      "outcomeId": 258540,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Mechanical complication of internal orthopedic device, implant AND/OR graft",
       "comparatorId": 178,
       "outcomeId": 432798,
@@ -36259,13 +33889,6 @@
       "outcomeName": "Metabolic syndrome X",
       "comparatorId": 178,
       "outcomeId": 436940,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Metallosis",
-      "comparatorId": 178,
-      "outcomeId": 435247,
       "type": "outcome"
     },
     {
@@ -36333,23 +33956,9 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Opioid abuse",
-      "comparatorId": 178,
-      "outcomeId": 438130,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Otosclerosis",
       "comparatorId": 178,
       "outcomeId": 439035,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Patient dependence on care provider",
-      "comparatorId": 178,
-      "outcomeId": 4022076,
       "type": "outcome"
     },
     {
@@ -36424,13 +34033,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Problem related to lifestyle",
-      "comparatorId": 178,
-      "outcomeId": 46286594,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Psychalgia",
       "comparatorId": 178,
       "outcomeId": 439790,
@@ -36494,13 +34096,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Sequelae of open wound of head",
-      "comparatorId": 178,
-      "outcomeId": 4056577,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight)",
       "comparatorId": 178,
       "outcomeId": 4233565,
@@ -36543,13 +34138,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Social exclusion",
-      "comparatorId": 178,
-      "outcomeId": 4019836,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Specimen satisfactory for evaluation but limited",
       "comparatorId": 178,
       "outcomeId": 444127,
@@ -36581,20 +34169,6 @@
       "outcomeName": "Teething syndrome",
       "comparatorId": 178,
       "outcomeId": 135852,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Threatened miscarriage",
-      "comparatorId": 178,
-      "outcomeId": 440457,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Tics of organic origin",
-      "comparatorId": 178,
-      "outcomeId": 374907,
       "type": "outcome"
     },
     {
@@ -36795,13 +34369,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Black piedra",
-      "comparatorId": 178,
-      "outcomeId": 141797,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Burn of ankle",
       "comparatorId": 178,
       "outcomeId": 79232,
@@ -36833,13 +34400,6 @@
       "outcomeName": "Contracture of joint of hand",
       "comparatorId": 178,
       "outcomeId": 72995,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Contracture of multiple joints",
-      "comparatorId": 178,
-      "outcomeId": 439666,
       "type": "outcome"
     },
     {
@@ -36907,13 +34467,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Epididymitis",
-      "comparatorId": 178,
-      "outcomeId": 4150043,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Excessive and frequent menstruation",
       "comparatorId": 178,
       "outcomeId": 197607,
@@ -36970,13 +34523,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Hypogammaglobulinemia",
-      "comparatorId": 178,
-      "outcomeId": 440072,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Infestation by Phthirus",
       "comparatorId": 178,
       "outcomeId": 4057662,
@@ -37022,13 +34568,6 @@
       "outcomeName": "Local infection of wound",
       "comparatorId": 178,
       "outcomeId": 4297984,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Lyme disease",
-      "comparatorId": 178,
-      "outcomeId": 440638,
       "type": "outcome"
     },
     {
@@ -37141,20 +34680,6 @@
       "outcomeName": "Open wound of upper arm",
       "comparatorId": 178,
       "outcomeId": 4129404,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Opioid dependence",
-      "comparatorId": 178,
-      "outcomeId": 438120,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Orchitis",
-      "comparatorId": 178,
-      "outcomeId": 4171915,
       "type": "outcome"
     },
     {
