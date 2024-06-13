@@ -17508,25 +17508,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 439935,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "43029002",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Abnormal posture",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 436409,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "274093008",
@@ -17641,25 +17622,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4155909,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "271805006",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Anesthesia of skin",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 45757682,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "323351000119108",
@@ -17723,25 +17685,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Blood chemistry abnormal",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 74698,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "6096002",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Breech presentation",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -17869,25 +17812,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4066505,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "202606004",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Clicking hip",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 4201390,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "302112009",
@@ -17913,25 +17837,6 @@
             "VALID_START_DATE": 1438300800000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Complication due to Crohn's disease",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4173078,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "47988006",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Complication due to immunization",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -18268,25 +18173,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4059015,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "161898004",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Falls",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 4092896,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "249625002",
@@ -18420,25 +18306,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 441487,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "370977006",
-            "VALID_START_DATE": 1028073600000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Frostbite",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 73564,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "202843000",
@@ -18540,25 +18407,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Hypervitaminosis D",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 434004,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "21639008",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Hypervolemia",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -18901,25 +18749,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Lipid storage disease",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 435516,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "267436001",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Lipoprotein deficiency disorder",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -19585,25 +19414,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Senility",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4052226,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "210962001",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Sequelae of injuries of lower limb",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -20794,25 +20604,6 @@
         {
           "isExcluded": false,
           "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 72994,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "84801008",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Jaccoud's syndrome",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
             "INVALID_REASON_CAPTION": "Invalid",
             "CONCEPT_ID": 78512,
             "STANDARD_CONCEPT": "N",
@@ -20839,25 +20630,6 @@
             "VALID_START_DATE": 1059609600000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Joint derangement",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 77072,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "4819006",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Joint effusion of ankle AND/OR foot",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -20953,25 +20725,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Muscle, ligament and fascia disorders",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4271024,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "400148004",
-            "VALID_START_DATE": 1059609600000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Musculoskeletal fibromatosis",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -21232,44 +20985,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 74080,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "32482005",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Orthostatic proteinuria",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 75920,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "55413008",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Osteitis condensans",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 437359,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "82562007",
@@ -21441,25 +21156,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4339088,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "87860000",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Testicular mass",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 80946,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "48971001",
@@ -21523,25 +21219,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Toxic effect of carbon monoxide",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 81930,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "66191007",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Transient arthropathy",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -22343,13 +22020,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Abnormal posture",
-      "comparatorId": 290,
-      "outcomeId": 439935,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Abnormal pupil",
       "comparatorId": 290,
       "outcomeId": 436409,
@@ -22392,13 +22062,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Anesthesia of skin",
-      "comparatorId": 290,
-      "outcomeId": 4155909,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Anomaly of jaw size",
       "comparatorId": 290,
       "outcomeId": 45757682,
@@ -22423,13 +22086,6 @@
       "outcomeName": "Blood chemistry abnormal",
       "comparatorId": 290,
       "outcomeId": 436230,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Breech presentation",
-      "comparatorId": 290,
-      "outcomeId": 74698,
       "type": "outcome"
     },
     {
@@ -22476,13 +22132,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Clicking hip",
-      "comparatorId": 290,
-      "outcomeId": 4066505,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Colostomy present",
       "comparatorId": 290,
       "outcomeId": 4201390,
@@ -22493,13 +22142,6 @@
       "outcomeName": "Complication due to Crohn's disease",
       "comparatorId": 290,
       "outcomeId": 46269889,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Complication due to immunization",
-      "comparatorId": 290,
-      "outcomeId": 4173078,
       "type": "outcome"
     },
     {
@@ -22623,13 +22265,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Falls",
-      "comparatorId": 290,
-      "outcomeId": 4059015,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Feces contents abnormal",
       "comparatorId": 290,
       "outcomeId": 4092896,
@@ -22679,13 +22314,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Frostbite",
-      "comparatorId": 290,
-      "outcomeId": 441487,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Full thickness rotator cuff tear",
       "comparatorId": 290,
       "outcomeId": 73564,
@@ -22724,13 +22352,6 @@
       "outcomeName": "Hypervitaminosis D",
       "comparatorId": 290,
       "outcomeId": 435522,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Hypervolemia",
-      "comparatorId": 290,
-      "outcomeId": 434004,
       "type": "outcome"
     },
     {
@@ -22857,13 +22478,6 @@
       "outcomeName": "Lipid storage disease",
       "comparatorId": 290,
       "outcomeId": 4027782,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Lipoprotein deficiency disorder",
-      "comparatorId": 290,
-      "outcomeId": 435516,
       "type": "outcome"
     },
     {
@@ -23109,13 +22723,6 @@
       "outcomeName": "Senility",
       "comparatorId": 290,
       "outcomeId": 435088,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Sequelae of injuries of lower limb",
-      "comparatorId": 290,
-      "outcomeId": 4052226,
       "type": "outcome"
     },
     {
@@ -23554,13 +23161,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Jaccoud's syndrome",
-      "comparatorId": 290,
-      "outcomeId": 72994,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Joint contracture of the ankle and/or foot",
       "comparatorId": 290,
       "outcomeId": 78512,
@@ -23571,13 +23171,6 @@
       "outcomeName": "Joint derangement",
       "comparatorId": 290,
       "outcomeId": 78228,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Joint effusion of ankle AND/OR foot",
-      "comparatorId": 290,
-      "outcomeId": 77072,
       "type": "outcome"
     },
     {
@@ -23613,13 +23206,6 @@
       "outcomeName": "Muscle, ligament and fascia disorders",
       "comparatorId": 290,
       "outcomeId": 137967,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Musculoskeletal fibromatosis",
-      "comparatorId": 290,
-      "outcomeId": 4271024,
       "type": "outcome"
     },
     {
@@ -23715,20 +23301,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Orthostatic proteinuria",
-      "comparatorId": 290,
-      "outcomeId": 74080,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Osteitis condensans",
-      "comparatorId": 290,
-      "outcomeId": 75920,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Osteochondritis dissecans",
       "comparatorId": 290,
       "outcomeId": 437359,
@@ -23792,13 +23364,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Testicular mass",
-      "comparatorId": 290,
-      "outcomeId": 4339088,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Tinea manus",
       "comparatorId": 290,
       "outcomeId": 80946,
@@ -23823,13 +23388,6 @@
       "outcomeName": "Toxic effect of carbon monoxide",
       "comparatorId": 290,
       "outcomeId": 440268,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Transient arthropathy",
-      "comparatorId": 290,
-      "outcomeId": 81930,
       "type": "outcome"
     },
     {
@@ -23911,13 +23469,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Abnormal posture",
-      "comparatorId": 291,
-      "outcomeId": 439935,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Abnormal pupil",
       "comparatorId": 291,
       "outcomeId": 436409,
@@ -23960,13 +23511,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Anesthesia of skin",
-      "comparatorId": 291,
-      "outcomeId": 4155909,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Anomaly of jaw size",
       "comparatorId": 291,
       "outcomeId": 45757682,
@@ -23991,13 +23535,6 @@
       "outcomeName": "Blood chemistry abnormal",
       "comparatorId": 291,
       "outcomeId": 436230,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Breech presentation",
-      "comparatorId": 291,
-      "outcomeId": 74698,
       "type": "outcome"
     },
     {
@@ -24044,13 +23581,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Clicking hip",
-      "comparatorId": 291,
-      "outcomeId": 4066505,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Colostomy present",
       "comparatorId": 291,
       "outcomeId": 4201390,
@@ -24061,13 +23591,6 @@
       "outcomeName": "Complication due to Crohn's disease",
       "comparatorId": 291,
       "outcomeId": 46269889,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Complication due to immunization",
-      "comparatorId": 291,
-      "outcomeId": 4173078,
       "type": "outcome"
     },
     {
@@ -24191,13 +23714,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Falls",
-      "comparatorId": 291,
-      "outcomeId": 4059015,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Feces contents abnormal",
       "comparatorId": 291,
       "outcomeId": 4092896,
@@ -24247,13 +23763,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Frostbite",
-      "comparatorId": 291,
-      "outcomeId": 441487,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Full thickness rotator cuff tear",
       "comparatorId": 291,
       "outcomeId": 73564,
@@ -24292,13 +23801,6 @@
       "outcomeName": "Hypervitaminosis D",
       "comparatorId": 291,
       "outcomeId": 435522,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Hypervolemia",
-      "comparatorId": 291,
-      "outcomeId": 434004,
       "type": "outcome"
     },
     {
@@ -24425,13 +23927,6 @@
       "outcomeName": "Lipid storage disease",
       "comparatorId": 291,
       "outcomeId": 4027782,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Lipoprotein deficiency disorder",
-      "comparatorId": 291,
-      "outcomeId": 435516,
       "type": "outcome"
     },
     {
@@ -24677,13 +24172,6 @@
       "outcomeName": "Senility",
       "comparatorId": 291,
       "outcomeId": 435088,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Sequelae of injuries of lower limb",
-      "comparatorId": 291,
-      "outcomeId": 4052226,
       "type": "outcome"
     },
     {
@@ -25122,13 +24610,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Jaccoud's syndrome",
-      "comparatorId": 291,
-      "outcomeId": 72994,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Joint contracture of the ankle and/or foot",
       "comparatorId": 291,
       "outcomeId": 78512,
@@ -25139,13 +24620,6 @@
       "outcomeName": "Joint derangement",
       "comparatorId": 291,
       "outcomeId": 78228,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Joint effusion of ankle AND/OR foot",
-      "comparatorId": 291,
-      "outcomeId": 77072,
       "type": "outcome"
     },
     {
@@ -25181,13 +24655,6 @@
       "outcomeName": "Muscle, ligament and fascia disorders",
       "comparatorId": 291,
       "outcomeId": 137967,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Musculoskeletal fibromatosis",
-      "comparatorId": 291,
-      "outcomeId": 4271024,
       "type": "outcome"
     },
     {
@@ -25283,20 +24750,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Orthostatic proteinuria",
-      "comparatorId": 291,
-      "outcomeId": 74080,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Osteitis condensans",
-      "comparatorId": 291,
-      "outcomeId": 75920,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Osteochondritis dissecans",
       "comparatorId": 291,
       "outcomeId": 437359,
@@ -25360,13 +24813,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Testicular mass",
-      "comparatorId": 291,
-      "outcomeId": 4339088,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Tinea manus",
       "comparatorId": 291,
       "outcomeId": 80946,
@@ -25391,13 +24837,6 @@
       "outcomeName": "Toxic effect of carbon monoxide",
       "comparatorId": 291,
       "outcomeId": 440268,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Transient arthropathy",
-      "comparatorId": 291,
-      "outcomeId": 81930,
       "type": "outcome"
     },
     {
@@ -25479,13 +24918,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Abnormal posture",
-      "comparatorId": 293,
-      "outcomeId": 439935,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Abnormal pupil",
       "comparatorId": 293,
       "outcomeId": 436409,
@@ -25528,13 +24960,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Anesthesia of skin",
-      "comparatorId": 293,
-      "outcomeId": 4155909,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Anomaly of jaw size",
       "comparatorId": 293,
       "outcomeId": 45757682,
@@ -25559,13 +24984,6 @@
       "outcomeName": "Blood chemistry abnormal",
       "comparatorId": 293,
       "outcomeId": 436230,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Breech presentation",
-      "comparatorId": 293,
-      "outcomeId": 74698,
       "type": "outcome"
     },
     {
@@ -25612,13 +25030,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Clicking hip",
-      "comparatorId": 293,
-      "outcomeId": 4066505,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Colostomy present",
       "comparatorId": 293,
       "outcomeId": 4201390,
@@ -25629,13 +25040,6 @@
       "outcomeName": "Complication due to Crohn's disease",
       "comparatorId": 293,
       "outcomeId": 46269889,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Complication due to immunization",
-      "comparatorId": 293,
-      "outcomeId": 4173078,
       "type": "outcome"
     },
     {
@@ -25759,13 +25163,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Falls",
-      "comparatorId": 293,
-      "outcomeId": 4059015,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Feces contents abnormal",
       "comparatorId": 293,
       "outcomeId": 4092896,
@@ -25815,13 +25212,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Frostbite",
-      "comparatorId": 293,
-      "outcomeId": 441487,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Full thickness rotator cuff tear",
       "comparatorId": 293,
       "outcomeId": 73564,
@@ -25860,13 +25250,6 @@
       "outcomeName": "Hypervitaminosis D",
       "comparatorId": 293,
       "outcomeId": 435522,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Hypervolemia",
-      "comparatorId": 293,
-      "outcomeId": 434004,
       "type": "outcome"
     },
     {
@@ -25993,13 +25376,6 @@
       "outcomeName": "Lipid storage disease",
       "comparatorId": 293,
       "outcomeId": 4027782,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Lipoprotein deficiency disorder",
-      "comparatorId": 293,
-      "outcomeId": 435516,
       "type": "outcome"
     },
     {
@@ -26245,13 +25621,6 @@
       "outcomeName": "Senility",
       "comparatorId": 293,
       "outcomeId": 435088,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Sequelae of injuries of lower limb",
-      "comparatorId": 293,
-      "outcomeId": 4052226,
       "type": "outcome"
     },
     {
@@ -26690,13 +26059,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Jaccoud's syndrome",
-      "comparatorId": 293,
-      "outcomeId": 72994,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Joint contracture of the ankle and/or foot",
       "comparatorId": 293,
       "outcomeId": 78512,
@@ -26707,13 +26069,6 @@
       "outcomeName": "Joint derangement",
       "comparatorId": 293,
       "outcomeId": 78228,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Joint effusion of ankle AND/OR foot",
-      "comparatorId": 293,
-      "outcomeId": 77072,
       "type": "outcome"
     },
     {
@@ -26749,13 +26104,6 @@
       "outcomeName": "Muscle, ligament and fascia disorders",
       "comparatorId": 293,
       "outcomeId": 137967,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Musculoskeletal fibromatosis",
-      "comparatorId": 293,
-      "outcomeId": 4271024,
       "type": "outcome"
     },
     {
@@ -26851,20 +26199,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Orthostatic proteinuria",
-      "comparatorId": 293,
-      "outcomeId": 74080,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Osteitis condensans",
-      "comparatorId": 293,
-      "outcomeId": 75920,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Osteochondritis dissecans",
       "comparatorId": 293,
       "outcomeId": 437359,
@@ -26928,13 +26262,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Testicular mass",
-      "comparatorId": 293,
-      "outcomeId": 4339088,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Tinea manus",
       "comparatorId": 293,
       "outcomeId": 80946,
@@ -26959,13 +26286,6 @@
       "outcomeName": "Toxic effect of carbon monoxide",
       "comparatorId": 293,
       "outcomeId": 440268,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Transient arthropathy",
-      "comparatorId": 293,
-      "outcomeId": 81930,
       "type": "outcome"
     },
     {
@@ -27047,13 +26367,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Abnormal posture",
-      "comparatorId": 295,
-      "outcomeId": 439935,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Abnormal pupil",
       "comparatorId": 295,
       "outcomeId": 436409,
@@ -27096,13 +26409,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Anesthesia of skin",
-      "comparatorId": 295,
-      "outcomeId": 4155909,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Anomaly of jaw size",
       "comparatorId": 295,
       "outcomeId": 45757682,
@@ -27127,13 +26433,6 @@
       "outcomeName": "Blood chemistry abnormal",
       "comparatorId": 295,
       "outcomeId": 436230,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Breech presentation",
-      "comparatorId": 295,
-      "outcomeId": 74698,
       "type": "outcome"
     },
     {
@@ -27180,13 +26479,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Clicking hip",
-      "comparatorId": 295,
-      "outcomeId": 4066505,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Colostomy present",
       "comparatorId": 295,
       "outcomeId": 4201390,
@@ -27197,13 +26489,6 @@
       "outcomeName": "Complication due to Crohn's disease",
       "comparatorId": 295,
       "outcomeId": 46269889,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Complication due to immunization",
-      "comparatorId": 295,
-      "outcomeId": 4173078,
       "type": "outcome"
     },
     {
@@ -27327,13 +26612,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Falls",
-      "comparatorId": 295,
-      "outcomeId": 4059015,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Feces contents abnormal",
       "comparatorId": 295,
       "outcomeId": 4092896,
@@ -27383,13 +26661,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Frostbite",
-      "comparatorId": 295,
-      "outcomeId": 441487,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Full thickness rotator cuff tear",
       "comparatorId": 295,
       "outcomeId": 73564,
@@ -27428,13 +26699,6 @@
       "outcomeName": "Hypervitaminosis D",
       "comparatorId": 295,
       "outcomeId": 435522,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Hypervolemia",
-      "comparatorId": 295,
-      "outcomeId": 434004,
       "type": "outcome"
     },
     {
@@ -27561,13 +26825,6 @@
       "outcomeName": "Lipid storage disease",
       "comparatorId": 295,
       "outcomeId": 4027782,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Lipoprotein deficiency disorder",
-      "comparatorId": 295,
-      "outcomeId": 435516,
       "type": "outcome"
     },
     {
@@ -27813,13 +27070,6 @@
       "outcomeName": "Senility",
       "comparatorId": 295,
       "outcomeId": 435088,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Sequelae of injuries of lower limb",
-      "comparatorId": 295,
-      "outcomeId": 4052226,
       "type": "outcome"
     },
     {
@@ -28258,13 +27508,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Jaccoud's syndrome",
-      "comparatorId": 295,
-      "outcomeId": 72994,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Joint contracture of the ankle and/or foot",
       "comparatorId": 295,
       "outcomeId": 78512,
@@ -28275,13 +27518,6 @@
       "outcomeName": "Joint derangement",
       "comparatorId": 295,
       "outcomeId": 78228,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Joint effusion of ankle AND/OR foot",
-      "comparatorId": 295,
-      "outcomeId": 77072,
       "type": "outcome"
     },
     {
@@ -28317,13 +27553,6 @@
       "outcomeName": "Muscle, ligament and fascia disorders",
       "comparatorId": 295,
       "outcomeId": 137967,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Musculoskeletal fibromatosis",
-      "comparatorId": 295,
-      "outcomeId": 4271024,
       "type": "outcome"
     },
     {
@@ -28419,20 +27648,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Orthostatic proteinuria",
-      "comparatorId": 295,
-      "outcomeId": 74080,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Osteitis condensans",
-      "comparatorId": 295,
-      "outcomeId": 75920,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Osteochondritis dissecans",
       "comparatorId": 295,
       "outcomeId": 437359,
@@ -28496,13 +27711,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Testicular mass",
-      "comparatorId": 295,
-      "outcomeId": 4339088,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Tinea manus",
       "comparatorId": 295,
       "outcomeId": 80946,
@@ -28527,13 +27735,6 @@
       "outcomeName": "Toxic effect of carbon monoxide",
       "comparatorId": 295,
       "outcomeId": 440268,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Transient arthropathy",
-      "comparatorId": 295,
-      "outcomeId": 81930,
       "type": "outcome"
     },
     {
@@ -28615,13 +27816,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Abnormal posture",
-      "comparatorId": 173,
-      "outcomeId": 439935,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Abnormal pupil",
       "comparatorId": 173,
       "outcomeId": 436409,
@@ -28664,13 +27858,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Anesthesia of skin",
-      "comparatorId": 173,
-      "outcomeId": 4155909,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Anomaly of jaw size",
       "comparatorId": 173,
       "outcomeId": 45757682,
@@ -28695,13 +27882,6 @@
       "outcomeName": "Blood chemistry abnormal",
       "comparatorId": 173,
       "outcomeId": 436230,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Breech presentation",
-      "comparatorId": 173,
-      "outcomeId": 74698,
       "type": "outcome"
     },
     {
@@ -28748,13 +27928,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Clicking hip",
-      "comparatorId": 173,
-      "outcomeId": 4066505,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Colostomy present",
       "comparatorId": 173,
       "outcomeId": 4201390,
@@ -28765,13 +27938,6 @@
       "outcomeName": "Complication due to Crohn's disease",
       "comparatorId": 173,
       "outcomeId": 46269889,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Complication due to immunization",
-      "comparatorId": 173,
-      "outcomeId": 4173078,
       "type": "outcome"
     },
     {
@@ -28895,13 +28061,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Falls",
-      "comparatorId": 173,
-      "outcomeId": 4059015,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Feces contents abnormal",
       "comparatorId": 173,
       "outcomeId": 4092896,
@@ -28951,13 +28110,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Frostbite",
-      "comparatorId": 173,
-      "outcomeId": 441487,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Full thickness rotator cuff tear",
       "comparatorId": 173,
       "outcomeId": 73564,
@@ -28996,13 +28148,6 @@
       "outcomeName": "Hypervitaminosis D",
       "comparatorId": 173,
       "outcomeId": 435522,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Hypervolemia",
-      "comparatorId": 173,
-      "outcomeId": 434004,
       "type": "outcome"
     },
     {
@@ -29129,13 +28274,6 @@
       "outcomeName": "Lipid storage disease",
       "comparatorId": 173,
       "outcomeId": 4027782,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Lipoprotein deficiency disorder",
-      "comparatorId": 173,
-      "outcomeId": 435516,
       "type": "outcome"
     },
     {
@@ -29381,13 +28519,6 @@
       "outcomeName": "Senility",
       "comparatorId": 173,
       "outcomeId": 435088,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Sequelae of injuries of lower limb",
-      "comparatorId": 173,
-      "outcomeId": 4052226,
       "type": "outcome"
     },
     {
@@ -29826,13 +28957,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Jaccoud's syndrome",
-      "comparatorId": 173,
-      "outcomeId": 72994,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Joint contracture of the ankle and/or foot",
       "comparatorId": 173,
       "outcomeId": 78512,
@@ -29843,13 +28967,6 @@
       "outcomeName": "Joint derangement",
       "comparatorId": 173,
       "outcomeId": 78228,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Joint effusion of ankle AND/OR foot",
-      "comparatorId": 173,
-      "outcomeId": 77072,
       "type": "outcome"
     },
     {
@@ -29885,13 +29002,6 @@
       "outcomeName": "Muscle, ligament and fascia disorders",
       "comparatorId": 173,
       "outcomeId": 137967,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Musculoskeletal fibromatosis",
-      "comparatorId": 173,
-      "outcomeId": 4271024,
       "type": "outcome"
     },
     {
@@ -29987,20 +29097,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Orthostatic proteinuria",
-      "comparatorId": 173,
-      "outcomeId": 74080,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Osteitis condensans",
-      "comparatorId": 173,
-      "outcomeId": 75920,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Osteochondritis dissecans",
       "comparatorId": 173,
       "outcomeId": 437359,
@@ -30064,13 +29160,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Testicular mass",
-      "comparatorId": 173,
-      "outcomeId": 4339088,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Tinea manus",
       "comparatorId": 173,
       "outcomeId": 80946,
@@ -30095,13 +29184,6 @@
       "outcomeName": "Toxic effect of carbon monoxide",
       "comparatorId": 173,
       "outcomeId": 440268,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Transient arthropathy",
-      "comparatorId": 173,
-      "outcomeId": 81930,
       "type": "outcome"
     },
     {
@@ -30183,13 +29265,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Abnormal posture",
-      "comparatorId": 174,
-      "outcomeId": 439935,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Abnormal pupil",
       "comparatorId": 174,
       "outcomeId": 436409,
@@ -30232,13 +29307,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Anesthesia of skin",
-      "comparatorId": 174,
-      "outcomeId": 4155909,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Anomaly of jaw size",
       "comparatorId": 174,
       "outcomeId": 45757682,
@@ -30263,13 +29331,6 @@
       "outcomeName": "Blood chemistry abnormal",
       "comparatorId": 174,
       "outcomeId": 436230,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Breech presentation",
-      "comparatorId": 174,
-      "outcomeId": 74698,
       "type": "outcome"
     },
     {
@@ -30316,13 +29377,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Clicking hip",
-      "comparatorId": 174,
-      "outcomeId": 4066505,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Colostomy present",
       "comparatorId": 174,
       "outcomeId": 4201390,
@@ -30333,13 +29387,6 @@
       "outcomeName": "Complication due to Crohn's disease",
       "comparatorId": 174,
       "outcomeId": 46269889,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Complication due to immunization",
-      "comparatorId": 174,
-      "outcomeId": 4173078,
       "type": "outcome"
     },
     {
@@ -30463,13 +29510,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Falls",
-      "comparatorId": 174,
-      "outcomeId": 4059015,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Feces contents abnormal",
       "comparatorId": 174,
       "outcomeId": 4092896,
@@ -30519,13 +29559,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Frostbite",
-      "comparatorId": 174,
-      "outcomeId": 441487,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Full thickness rotator cuff tear",
       "comparatorId": 174,
       "outcomeId": 73564,
@@ -30564,13 +29597,6 @@
       "outcomeName": "Hypervitaminosis D",
       "comparatorId": 174,
       "outcomeId": 435522,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Hypervolemia",
-      "comparatorId": 174,
-      "outcomeId": 434004,
       "type": "outcome"
     },
     {
@@ -30697,13 +29723,6 @@
       "outcomeName": "Lipid storage disease",
       "comparatorId": 174,
       "outcomeId": 4027782,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Lipoprotein deficiency disorder",
-      "comparatorId": 174,
-      "outcomeId": 435516,
       "type": "outcome"
     },
     {
@@ -30949,13 +29968,6 @@
       "outcomeName": "Senility",
       "comparatorId": 174,
       "outcomeId": 435088,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Sequelae of injuries of lower limb",
-      "comparatorId": 174,
-      "outcomeId": 4052226,
       "type": "outcome"
     },
     {
@@ -31394,13 +30406,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Jaccoud's syndrome",
-      "comparatorId": 174,
-      "outcomeId": 72994,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Joint contracture of the ankle and/or foot",
       "comparatorId": 174,
       "outcomeId": 78512,
@@ -31411,13 +30416,6 @@
       "outcomeName": "Joint derangement",
       "comparatorId": 174,
       "outcomeId": 78228,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Joint effusion of ankle AND/OR foot",
-      "comparatorId": 174,
-      "outcomeId": 77072,
       "type": "outcome"
     },
     {
@@ -31453,13 +30451,6 @@
       "outcomeName": "Muscle, ligament and fascia disorders",
       "comparatorId": 174,
       "outcomeId": 137967,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Musculoskeletal fibromatosis",
-      "comparatorId": 174,
-      "outcomeId": 4271024,
       "type": "outcome"
     },
     {
@@ -31555,20 +30546,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Orthostatic proteinuria",
-      "comparatorId": 174,
-      "outcomeId": 74080,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Osteitis condensans",
-      "comparatorId": 174,
-      "outcomeId": 75920,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Osteochondritis dissecans",
       "comparatorId": 174,
       "outcomeId": 437359,
@@ -31632,13 +30609,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Testicular mass",
-      "comparatorId": 174,
-      "outcomeId": 4339088,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Tinea manus",
       "comparatorId": 174,
       "outcomeId": 80946,
@@ -31663,13 +30633,6 @@
       "outcomeName": "Toxic effect of carbon monoxide",
       "comparatorId": 174,
       "outcomeId": 440268,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Transient arthropathy",
-      "comparatorId": 174,
-      "outcomeId": 81930,
       "type": "outcome"
     },
     {
@@ -31751,13 +30714,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Abnormal posture",
-      "comparatorId": 176,
-      "outcomeId": 439935,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Abnormal pupil",
       "comparatorId": 176,
       "outcomeId": 436409,
@@ -31800,13 +30756,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Anesthesia of skin",
-      "comparatorId": 176,
-      "outcomeId": 4155909,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Anomaly of jaw size",
       "comparatorId": 176,
       "outcomeId": 45757682,
@@ -31831,13 +30780,6 @@
       "outcomeName": "Blood chemistry abnormal",
       "comparatorId": 176,
       "outcomeId": 436230,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Breech presentation",
-      "comparatorId": 176,
-      "outcomeId": 74698,
       "type": "outcome"
     },
     {
@@ -31884,13 +30826,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Clicking hip",
-      "comparatorId": 176,
-      "outcomeId": 4066505,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Colostomy present",
       "comparatorId": 176,
       "outcomeId": 4201390,
@@ -31901,13 +30836,6 @@
       "outcomeName": "Complication due to Crohn's disease",
       "comparatorId": 176,
       "outcomeId": 46269889,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Complication due to immunization",
-      "comparatorId": 176,
-      "outcomeId": 4173078,
       "type": "outcome"
     },
     {
@@ -32031,13 +30959,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Falls",
-      "comparatorId": 176,
-      "outcomeId": 4059015,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Feces contents abnormal",
       "comparatorId": 176,
       "outcomeId": 4092896,
@@ -32087,13 +31008,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Frostbite",
-      "comparatorId": 176,
-      "outcomeId": 441487,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Full thickness rotator cuff tear",
       "comparatorId": 176,
       "outcomeId": 73564,
@@ -32132,13 +31046,6 @@
       "outcomeName": "Hypervitaminosis D",
       "comparatorId": 176,
       "outcomeId": 435522,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Hypervolemia",
-      "comparatorId": 176,
-      "outcomeId": 434004,
       "type": "outcome"
     },
     {
@@ -32265,13 +31172,6 @@
       "outcomeName": "Lipid storage disease",
       "comparatorId": 176,
       "outcomeId": 4027782,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Lipoprotein deficiency disorder",
-      "comparatorId": 176,
-      "outcomeId": 435516,
       "type": "outcome"
     },
     {
@@ -32517,13 +31417,6 @@
       "outcomeName": "Senility",
       "comparatorId": 176,
       "outcomeId": 435088,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Sequelae of injuries of lower limb",
-      "comparatorId": 176,
-      "outcomeId": 4052226,
       "type": "outcome"
     },
     {
@@ -32962,13 +31855,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Jaccoud's syndrome",
-      "comparatorId": 176,
-      "outcomeId": 72994,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Joint contracture of the ankle and/or foot",
       "comparatorId": 176,
       "outcomeId": 78512,
@@ -32979,13 +31865,6 @@
       "outcomeName": "Joint derangement",
       "comparatorId": 176,
       "outcomeId": 78228,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Joint effusion of ankle AND/OR foot",
-      "comparatorId": 176,
-      "outcomeId": 77072,
       "type": "outcome"
     },
     {
@@ -33021,13 +31900,6 @@
       "outcomeName": "Muscle, ligament and fascia disorders",
       "comparatorId": 176,
       "outcomeId": 137967,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Musculoskeletal fibromatosis",
-      "comparatorId": 176,
-      "outcomeId": 4271024,
       "type": "outcome"
     },
     {
@@ -33123,20 +31995,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Orthostatic proteinuria",
-      "comparatorId": 176,
-      "outcomeId": 74080,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Osteitis condensans",
-      "comparatorId": 176,
-      "outcomeId": 75920,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Osteochondritis dissecans",
       "comparatorId": 176,
       "outcomeId": 437359,
@@ -33200,13 +32058,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Testicular mass",
-      "comparatorId": 176,
-      "outcomeId": 4339088,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Tinea manus",
       "comparatorId": 176,
       "outcomeId": 80946,
@@ -33231,13 +32082,6 @@
       "outcomeName": "Toxic effect of carbon monoxide",
       "comparatorId": 176,
       "outcomeId": 440268,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Transient arthropathy",
-      "comparatorId": 176,
-      "outcomeId": 81930,
       "type": "outcome"
     },
     {
@@ -33319,13 +32163,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Abnormal posture",
-      "comparatorId": 178,
-      "outcomeId": 439935,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Abnormal pupil",
       "comparatorId": 178,
       "outcomeId": 436409,
@@ -33368,13 +32205,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Anesthesia of skin",
-      "comparatorId": 178,
-      "outcomeId": 4155909,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Anomaly of jaw size",
       "comparatorId": 178,
       "outcomeId": 45757682,
@@ -33399,13 +32229,6 @@
       "outcomeName": "Blood chemistry abnormal",
       "comparatorId": 178,
       "outcomeId": 436230,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Breech presentation",
-      "comparatorId": 178,
-      "outcomeId": 74698,
       "type": "outcome"
     },
     {
@@ -33452,13 +32275,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Clicking hip",
-      "comparatorId": 178,
-      "outcomeId": 4066505,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Colostomy present",
       "comparatorId": 178,
       "outcomeId": 4201390,
@@ -33469,13 +32285,6 @@
       "outcomeName": "Complication due to Crohn's disease",
       "comparatorId": 178,
       "outcomeId": 46269889,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Complication due to immunization",
-      "comparatorId": 178,
-      "outcomeId": 4173078,
       "type": "outcome"
     },
     {
@@ -33599,13 +32408,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Falls",
-      "comparatorId": 178,
-      "outcomeId": 4059015,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Feces contents abnormal",
       "comparatorId": 178,
       "outcomeId": 4092896,
@@ -33655,13 +32457,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Frostbite",
-      "comparatorId": 178,
-      "outcomeId": 441487,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Full thickness rotator cuff tear",
       "comparatorId": 178,
       "outcomeId": 73564,
@@ -33700,13 +32495,6 @@
       "outcomeName": "Hypervitaminosis D",
       "comparatorId": 178,
       "outcomeId": 435522,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Hypervolemia",
-      "comparatorId": 178,
-      "outcomeId": 434004,
       "type": "outcome"
     },
     {
@@ -33833,13 +32621,6 @@
       "outcomeName": "Lipid storage disease",
       "comparatorId": 178,
       "outcomeId": 4027782,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Lipoprotein deficiency disorder",
-      "comparatorId": 178,
-      "outcomeId": 435516,
       "type": "outcome"
     },
     {
@@ -34085,13 +32866,6 @@
       "outcomeName": "Senility",
       "comparatorId": 178,
       "outcomeId": 435088,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Sequelae of injuries of lower limb",
-      "comparatorId": 178,
-      "outcomeId": 4052226,
       "type": "outcome"
     },
     {
@@ -34530,13 +33304,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Jaccoud's syndrome",
-      "comparatorId": 178,
-      "outcomeId": 72994,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Joint contracture of the ankle and/or foot",
       "comparatorId": 178,
       "outcomeId": 78512,
@@ -34547,13 +33314,6 @@
       "outcomeName": "Joint derangement",
       "comparatorId": 178,
       "outcomeId": 78228,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Joint effusion of ankle AND/OR foot",
-      "comparatorId": 178,
-      "outcomeId": 77072,
       "type": "outcome"
     },
     {
@@ -34589,13 +33349,6 @@
       "outcomeName": "Muscle, ligament and fascia disorders",
       "comparatorId": 178,
       "outcomeId": 137967,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Musculoskeletal fibromatosis",
-      "comparatorId": 178,
-      "outcomeId": 4271024,
       "type": "outcome"
     },
     {
@@ -34691,20 +33444,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Orthostatic proteinuria",
-      "comparatorId": 178,
-      "outcomeId": 74080,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Osteitis condensans",
-      "comparatorId": 178,
-      "outcomeId": 75920,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Osteochondritis dissecans",
       "comparatorId": 178,
       "outcomeId": 437359,
@@ -34768,13 +33507,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Testicular mass",
-      "comparatorId": 178,
-      "outcomeId": 4339088,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Tinea manus",
       "comparatorId": 178,
       "outcomeId": 80946,
@@ -34799,13 +33531,6 @@
       "outcomeName": "Toxic effect of carbon monoxide",
       "comparatorId": 178,
       "outcomeId": 440268,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Transient arthropathy",
-      "comparatorId": 178,
-      "outcomeId": 81930,
       "type": "outcome"
     },
     {
