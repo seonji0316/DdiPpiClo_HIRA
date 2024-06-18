@@ -6,34 +6,26 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,290,436409,Abnormal pupil,outcome
 289,290,443702,Abnormal response to nerve stimulation,outcome
 289,290,44783954,Acid reflux,outcome
-289,290,4319325,Acquired deformity of trunk,outcome
 289,290,435720,Adverse anesthesia outcome,outcome
 289,290,4254371,Altered growth and development,outcome
 289,290,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
 289,290,45757682,Anomaly of jaw size,outcome
 289,290,4060259,Antenatal amniocentesis - abnormal,outcome
-289,290,4061157,Antenatal ultrasound scan abnormal,outcome
 289,290,76744,Azoospermia,outcome
-289,290,433813,Bladder neck obstruction,outcome
-289,290,436230,Blood chemistry abnormal,outcome
 289,290,256449,Bronchiectasis,outcome
 289,290,134765,Cachexia,outcome
 289,290,4228429,Carnitine deficiency,outcome
 289,290,42709838,Cellulitis of lower limb,outcome
 289,290,4213540,Cervical somatic dysfunction,outcome
 289,290,443570,Cervicovaginal cytology: Low grade squamous intraepithelial lesion,outcome
-289,290,4201390,Colostomy present,outcome
 289,290,46269889,Complication due to Crohn's disease,outcome
 289,290,434675,Complication of gastrostomy,outcome
 289,290,438624,Complication of renal dialysis,outcome
 289,290,80492,Contracture of knee joint,outcome
-289,290,4022071,Convalescence,outcome
 289,290,432729,Crying infant,outcome
-289,290,436233,Delayed milestone,outcome
 289,290,443737,Dental restoration lost,outcome
 289,290,438183,Denture occlusion incorrect,outcome
 289,290,438759,Descemet's membrane fold,outcome
-289,290,4101282,Dietary selenium deficiency,outcome
 289,290,4115402,Difficulty sleeping,outcome
 289,290,4019971,Discord in school,outcome
 289,290,201091,Disproportion - major pelvic abnormality,outcome
@@ -41,11 +33,8 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,290,4155818,Does climb,outcome
 289,290,4196636,Dysarthria,outcome
 289,290,439791,Emotional upset,outcome
-289,290,4029271,Essential fatty acid deficiency,outcome
-289,290,439128,Extreme prematurity of infant,outcome
 289,290,4092896,Feces contents abnormal,outcome
 289,290,4182437,Female genital cutting,outcome
-289,290,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
 289,290,4229403,Flat anterior chamber of eye,outcome
 289,290,4069540,Flexion deformity of knee,outcome
 289,290,374801,Foreign body in ear,outcome
@@ -56,14 +45,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,290,440329,Herpes zoster without complication,outcome
 289,290,441829,Hyperosmolality and or hypernatremia,outcome
 289,290,440129,Hypertrophy of nasal turbinates,outcome
-289,290,435522,Hypervitaminosis D,outcome
-289,290,4024266,Hypocupremia,outcome
-289,290,437390,Hypoxemia,outcome
 289,290,443447,Iatrogenic hypotension,outcome
 289,290,4344500,Impingement syndrome of shoulder region,outcome
 289,290,4090353,Incompetent urethral closure mechanism,outcome
 289,290,434485,Increase in body fat,outcome
-289,290,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
 289,290,434872,Infection by Trichomonas,outcome
 289,290,440053,Infestation by insect,outcome
 289,290,442120,Injection site extravasation,outcome
@@ -74,42 +59,34 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,290,133088,Late amputation stump complication,outcome
 289,290,4228331,Leukokeratosis nicotina palati,outcome
 289,290,377873,Lid lag,outcome
-289,290,4027782,Lipid storage disease,outcome
 289,290,4083487,Macular drusen,outcome
 289,290,4051630,Malingering,outcome
 289,290,436426,Malleus mobility reduced,outcome
 289,290,44783760,Mammographic calcification of breast,outcome
-289,290,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
 289,290,439082,Menopausal syndrome,outcome
 289,290,436940,Metabolic syndrome X,outcome
 289,290,45757258,Minimal keratinized residual ridge mucosa,outcome
 289,290,40480000,Multiple complications due to diabetes mellitus,outcome
 289,290,134315,Myelophthisis,outcome
 289,290,4195085,Nasal congestion,outcome
-289,290,4209423,Nicotine dependence,outcome
 289,290,434016,"Nondependent opioid abuse, continuous",outcome
 289,290,4035269,Non-ketotic hyperglycinemia,outcome
 289,290,40480893,Nonspecific tuberculin test reaction,outcome
 289,290,198802,Occlusion of ureter,outcome
-289,290,439035,Otosclerosis,outcome
 289,290,375292,Perforation of tympanic membrane,outcome
 289,290,78162,Peripheral vertigo,outcome
 289,290,437092,Physiological development failure,outcome
 289,290,253796,Pneumothorax,outcome
 289,290,4295261,Postmenopausal state,outcome
 289,290,4202045,Postviral fatigue syndrome,outcome
-289,290,433542,Precipitate labor,outcome
 289,290,4094448,Pregnancy test negative,outcome
-289,290,434319,Premature ejaculation,outcome
 289,290,439081,Premenstrual tension syndrome,outcome
 289,290,439790,Psychalgia,outcome
-289,290,440068,Psychosexual dysfunction,outcome
 289,290,435028,Puerperal pyrexia of unknown origin,outcome
 289,290,4245252,Raised prostate specific antigen,outcome
 289,290,436246,Reduced libido,outcome
 289,290,45772079,Retinopathy of prematurity stage 0,outcome
 289,290,436828,Saliva abnormal,outcome
-289,290,435088,Senility,outcome
 289,290,4233565,Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight),outcome
 289,290,4250163,Sexual arousal disorder,outcome
 289,290,4096999,Short rib,outcome
@@ -120,7 +97,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,290,443172,"Splinter of face, without major open wound",outcome
 289,290,443082,Starvation,outcome
 289,290,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
-289,290,135852,Teething syndrome,outcome
 289,290,433244,Tooth loss,outcome
 289,290,4029731,Trimethylaminuria,outcome
 289,290,40482801,Type II diabetes mellitus uncontrolled,outcome
@@ -147,10 +123,7 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,290,443585,Abrasion and/or friction burn of multiple sites,outcome
 289,290,44783954,Acid reflux,outcome
 289,290,380818,Acquired deformity of head,outcome
-289,290,31668,Acquired deformity of neck,outcome
-289,290,4319325,Acquired deformity of trunk,outcome
 289,290,432411,Acquired equinus deformity of foot,outcome
-289,290,439673,Acute hepatitis B with delta-agent (coinfection) without hepatic coma,outcome
 289,290,441481,Adult victim of abuse,outcome
 289,290,435720,Adverse anesthesia outcome,outcome
 289,290,4218106,Alcoholism,outcome
@@ -162,14 +135,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,290,4171556,Ankle ulcer,outcome
 289,290,45757682,Anomaly of jaw size,outcome
 289,290,4060259,Antenatal amniocentesis - abnormal,outcome
-289,290,4061157,Antenatal ultrasound scan abnormal,outcome
 289,290,77650,Aseptic necrosis of bone,outcome
 289,290,439237,Assault,outcome
 289,290,76744,Azoospermia,outcome
-289,290,433813,Bladder neck obstruction,outcome
-289,290,436230,Blood chemistry abnormal,outcome
 289,290,256449,Bronchiectasis,outcome
-289,290,79232,Burn of ankle,outcome
 289,290,134765,Cachexia,outcome
 289,290,4172458,Candidiasis of skin,outcome
 289,290,4228429,Carnitine deficiency,outcome
@@ -177,7 +146,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,290,4213540,Cervical somatic dysfunction,outcome
 289,290,443570,Cervicovaginal cytology: Low grade squamous intraepithelial lesion,outcome
 289,290,439674,Chronic viral hepatitis B without delta-agent,outcome
-289,290,4201390,Colostomy present,outcome
 289,290,134734,Compartment syndrome,outcome
 289,290,46269889,Complication due to Crohn's disease,outcome
 289,290,434675,Complication of gastrostomy,outcome
@@ -186,34 +154,24 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,290,80492,Contracture of knee joint,outcome
 289,290,199978,Contusion of lower limb,outcome
 289,290,433071,Contusion of multiple sites,outcome
-289,290,4022071,Convalescence,outcome
 289,290,432729,Crying infant,outcome
 289,290,75389,Current tear of lateral cartilage AND/OR meniscus of knee,outcome
 289,290,80242,Current tear of medial cartilage AND/OR meniscus of knee,outcome
 289,290,73575,Deformity of toe,outcome
-289,290,436233,Delayed milestone,outcome
 289,290,443737,Dental restoration lost,outcome
 289,290,438183,Denture occlusion incorrect,outcome
 289,290,438759,Descemet's membrane fold,outcome
-289,290,4101282,Dietary selenium deficiency,outcome
 289,290,4115402,Difficulty sleeping,outcome
 289,290,4019971,Discord in school,outcome
 289,290,436906,Disease caused by rickettsiae,outcome
-289,290,4135080,Dislocation of radial head,outcome
 289,290,201091,Disproportion - major pelvic abnormality,outcome
 289,290,372329,Dissociated deviation,outcome
 289,290,4155818,Does climb,outcome
 289,290,4196636,Dysarthria,outcome
-289,290,78834,Effusion of joint of hand,outcome
-289,290,4247710,Effusion of joint of pelvic region,outcome
 289,290,72407,Effusion of joint of shoulder region,outcome
 289,290,439791,Emotional upset,outcome
-289,290,4029271,Essential fatty acid deficiency,outcome
-289,290,197607,Excessive and frequent menstruation,outcome
-289,290,439128,Extreme prematurity of infant,outcome
 289,290,4092896,Feces contents abnormal,outcome
 289,290,4182437,Female genital cutting,outcome
-289,290,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
 289,290,4229403,Flat anterior chamber of eye,outcome
 289,290,4069540,Flexion deformity of knee,outcome
 289,290,374801,Foreign body in ear,outcome
@@ -232,14 +190,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,290,441829,Hyperosmolality and or hypernatremia,outcome
 289,290,74731,Hypertrophic osteoarthropathy,outcome
 289,290,440129,Hypertrophy of nasal turbinates,outcome
-289,290,435522,Hypervitaminosis D,outcome
-289,290,4024266,Hypocupremia,outcome
-289,290,437390,Hypoxemia,outcome
 289,290,443447,Iatrogenic hypotension,outcome
 289,290,4344500,Impingement syndrome of shoulder region,outcome
 289,290,4090353,Incompetent urethral closure mechanism,outcome
 289,290,434485,Increase in body fat,outcome
-289,290,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
 289,290,434872,Infection by Trichomonas,outcome
 289,290,4057662,Infestation by Phthirus,outcome
 289,290,440053,Infestation by insect,outcome
@@ -251,21 +205,16 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,290,72404,Joint stiffness,outcome
 289,290,435903,Juvenile osteochondrosis of foot,outcome
 289,290,438527,"Juvenile osteochondrosis of lower extremity, excluding foot",outcome
-289,290,435633,Juvenile osteochondrosis of upper extremity,outcome
 289,290,4115991,Knee joint effusion,outcome
 289,290,4093346,Large prostate,outcome
 289,290,133088,Late amputation stump complication,outcome
 289,290,4228331,Leukokeratosis nicotina palati,outcome
 289,290,377873,Lid lag,outcome
-289,290,4027782,Lipid storage disease,outcome
 289,290,4297984,Local infection of wound,outcome
 289,290,4083487,Macular drusen,outcome
-289,290,438067,Malaria,outcome
 289,290,4051630,Malingering,outcome
 289,290,436426,Malleus mobility reduced,outcome
 289,290,44783760,Mammographic calcification of breast,outcome
-289,290,438297,"Mechanical complication of cardiac device, implant AND/OR graft",outcome
-289,290,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
 289,290,439082,Menopausal syndrome,outcome
 289,290,436940,Metabolic syndrome X,outcome
 289,290,45757258,Minimal keratinized residual ridge mucosa,outcome
@@ -273,7 +222,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,290,137967,"Muscle, ligament and fascia disorders",outcome
 289,290,134315,Myelophthisis,outcome
 289,290,4195085,Nasal congestion,outcome
-289,290,4209423,Nicotine dependence,outcome
 289,290,4035269,Non-ketotic hyperglycinemia,outcome
 289,290,434016,"Nondependent opioid abuse, continuous",outcome
 289,290,201792,Nongonococcal urethritis,outcome
@@ -291,9 +239,7 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,290,4051004,Open wound of scalp,outcome
 289,290,4129404,Open wound of upper arm,outcome
 289,290,315361,Orthopnea,outcome
-289,290,437359,Osteochondritis dissecans,outcome
 289,290,378160,Otorrhea,outcome
-289,290,439035,Otosclerosis,outcome
 289,290,77356,Pathological dislocation of joint,outcome
 289,290,375292,Perforation of tympanic membrane,outcome
 289,290,78162,Peripheral vertigo,outcome
@@ -301,22 +247,18 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,290,253796,Pneumothorax,outcome
 289,290,4295261,Postmenopausal state,outcome
 289,290,4202045,Postviral fatigue syndrome,outcome
-289,290,433542,Precipitate labor,outcome
 289,290,4094448,Pregnancy test negative,outcome
-289,290,434319,Premature ejaculation,outcome
 289,290,198715,Premature menopause,outcome
 289,290,439081,Premenstrual tension syndrome,outcome
 289,290,199876,Prolapse of female genital organs,outcome
 289,290,4295888,Prolapse of intestine,outcome
 289,290,194997,Prostatitis,outcome
 289,290,439790,Psychalgia,outcome
-289,290,440068,Psychosexual dysfunction,outcome
 289,290,435028,Puerperal pyrexia of unknown origin,outcome
 289,290,4245252,Raised prostate specific antigen,outcome
 289,290,436246,Reduced libido,outcome
 289,290,45772079,Retinopathy of prematurity stage 0,outcome
 289,290,436828,Saliva abnormal,outcome
-289,290,435088,Senility,outcome
 289,290,4233565,Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight),outcome
 289,290,4250163,Sexual arousal disorder,outcome
 289,290,4096999,Short rib,outcome
@@ -328,13 +270,11 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,290,443172,"Splinter of face, without major open wound",outcome
 289,290,443082,Starvation,outcome
 289,290,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
-289,290,135852,Teething syndrome,outcome
 289,290,4195698,Tenosynovitis,outcome
 289,290,80946,Tinea manus,outcome
 289,290,4163280,Tinea of perianal region,outcome
 289,290,133141,Tinea pedis,outcome
 289,290,433244,Tooth loss,outcome
-289,290,440268,Toxic effect of carbon monoxide,outcome
 289,290,4029731,Trimethylaminuria,outcome
 289,290,40482801,Type II diabetes mellitus uncontrolled,outcome
 289,290,74719,Ulcer of foot,outcome
@@ -363,34 +303,26 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,291,436409,Abnormal pupil,outcome
 289,291,443702,Abnormal response to nerve stimulation,outcome
 289,291,44783954,Acid reflux,outcome
-289,291,4319325,Acquired deformity of trunk,outcome
 289,291,435720,Adverse anesthesia outcome,outcome
 289,291,4254371,Altered growth and development,outcome
 289,291,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
 289,291,45757682,Anomaly of jaw size,outcome
 289,291,4060259,Antenatal amniocentesis - abnormal,outcome
-289,291,4061157,Antenatal ultrasound scan abnormal,outcome
 289,291,76744,Azoospermia,outcome
-289,291,433813,Bladder neck obstruction,outcome
-289,291,436230,Blood chemistry abnormal,outcome
 289,291,256449,Bronchiectasis,outcome
 289,291,134765,Cachexia,outcome
 289,291,4228429,Carnitine deficiency,outcome
 289,291,42709838,Cellulitis of lower limb,outcome
 289,291,4213540,Cervical somatic dysfunction,outcome
 289,291,443570,Cervicovaginal cytology: Low grade squamous intraepithelial lesion,outcome
-289,291,4201390,Colostomy present,outcome
 289,291,46269889,Complication due to Crohn's disease,outcome
 289,291,434675,Complication of gastrostomy,outcome
 289,291,438624,Complication of renal dialysis,outcome
 289,291,80492,Contracture of knee joint,outcome
-289,291,4022071,Convalescence,outcome
 289,291,432729,Crying infant,outcome
-289,291,436233,Delayed milestone,outcome
 289,291,443737,Dental restoration lost,outcome
 289,291,438183,Denture occlusion incorrect,outcome
 289,291,438759,Descemet's membrane fold,outcome
-289,291,4101282,Dietary selenium deficiency,outcome
 289,291,4115402,Difficulty sleeping,outcome
 289,291,4019971,Discord in school,outcome
 289,291,201091,Disproportion - major pelvic abnormality,outcome
@@ -398,11 +330,8 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,291,4155818,Does climb,outcome
 289,291,4196636,Dysarthria,outcome
 289,291,439791,Emotional upset,outcome
-289,291,4029271,Essential fatty acid deficiency,outcome
-289,291,439128,Extreme prematurity of infant,outcome
 289,291,4092896,Feces contents abnormal,outcome
 289,291,4182437,Female genital cutting,outcome
-289,291,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
 289,291,4229403,Flat anterior chamber of eye,outcome
 289,291,4069540,Flexion deformity of knee,outcome
 289,291,374801,Foreign body in ear,outcome
@@ -413,14 +342,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,291,440329,Herpes zoster without complication,outcome
 289,291,441829,Hyperosmolality and or hypernatremia,outcome
 289,291,440129,Hypertrophy of nasal turbinates,outcome
-289,291,435522,Hypervitaminosis D,outcome
-289,291,4024266,Hypocupremia,outcome
-289,291,437390,Hypoxemia,outcome
 289,291,443447,Iatrogenic hypotension,outcome
 289,291,4344500,Impingement syndrome of shoulder region,outcome
 289,291,4090353,Incompetent urethral closure mechanism,outcome
 289,291,434485,Increase in body fat,outcome
-289,291,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
 289,291,434872,Infection by Trichomonas,outcome
 289,291,440053,Infestation by insect,outcome
 289,291,442120,Injection site extravasation,outcome
@@ -431,42 +356,34 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,291,133088,Late amputation stump complication,outcome
 289,291,4228331,Leukokeratosis nicotina palati,outcome
 289,291,377873,Lid lag,outcome
-289,291,4027782,Lipid storage disease,outcome
 289,291,4083487,Macular drusen,outcome
 289,291,4051630,Malingering,outcome
 289,291,436426,Malleus mobility reduced,outcome
 289,291,44783760,Mammographic calcification of breast,outcome
-289,291,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
 289,291,439082,Menopausal syndrome,outcome
 289,291,436940,Metabolic syndrome X,outcome
 289,291,45757258,Minimal keratinized residual ridge mucosa,outcome
 289,291,40480000,Multiple complications due to diabetes mellitus,outcome
 289,291,134315,Myelophthisis,outcome
 289,291,4195085,Nasal congestion,outcome
-289,291,4209423,Nicotine dependence,outcome
 289,291,434016,"Nondependent opioid abuse, continuous",outcome
 289,291,4035269,Non-ketotic hyperglycinemia,outcome
 289,291,40480893,Nonspecific tuberculin test reaction,outcome
 289,291,198802,Occlusion of ureter,outcome
-289,291,439035,Otosclerosis,outcome
 289,291,375292,Perforation of tympanic membrane,outcome
 289,291,78162,Peripheral vertigo,outcome
 289,291,437092,Physiological development failure,outcome
 289,291,253796,Pneumothorax,outcome
 289,291,4295261,Postmenopausal state,outcome
 289,291,4202045,Postviral fatigue syndrome,outcome
-289,291,433542,Precipitate labor,outcome
 289,291,4094448,Pregnancy test negative,outcome
-289,291,434319,Premature ejaculation,outcome
 289,291,439081,Premenstrual tension syndrome,outcome
 289,291,439790,Psychalgia,outcome
-289,291,440068,Psychosexual dysfunction,outcome
 289,291,435028,Puerperal pyrexia of unknown origin,outcome
 289,291,4245252,Raised prostate specific antigen,outcome
 289,291,436246,Reduced libido,outcome
 289,291,45772079,Retinopathy of prematurity stage 0,outcome
 289,291,436828,Saliva abnormal,outcome
-289,291,435088,Senility,outcome
 289,291,4233565,Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight),outcome
 289,291,4250163,Sexual arousal disorder,outcome
 289,291,4096999,Short rib,outcome
@@ -477,7 +394,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,291,443172,"Splinter of face, without major open wound",outcome
 289,291,443082,Starvation,outcome
 289,291,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
-289,291,135852,Teething syndrome,outcome
 289,291,433244,Tooth loss,outcome
 289,291,4029731,Trimethylaminuria,outcome
 289,291,40482801,Type II diabetes mellitus uncontrolled,outcome
@@ -504,10 +420,7 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,291,443585,Abrasion and/or friction burn of multiple sites,outcome
 289,291,44783954,Acid reflux,outcome
 289,291,380818,Acquired deformity of head,outcome
-289,291,31668,Acquired deformity of neck,outcome
-289,291,4319325,Acquired deformity of trunk,outcome
 289,291,432411,Acquired equinus deformity of foot,outcome
-289,291,439673,Acute hepatitis B with delta-agent (coinfection) without hepatic coma,outcome
 289,291,441481,Adult victim of abuse,outcome
 289,291,435720,Adverse anesthesia outcome,outcome
 289,291,4218106,Alcoholism,outcome
@@ -519,14 +432,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,291,4171556,Ankle ulcer,outcome
 289,291,45757682,Anomaly of jaw size,outcome
 289,291,4060259,Antenatal amniocentesis - abnormal,outcome
-289,291,4061157,Antenatal ultrasound scan abnormal,outcome
 289,291,77650,Aseptic necrosis of bone,outcome
 289,291,439237,Assault,outcome
 289,291,76744,Azoospermia,outcome
-289,291,433813,Bladder neck obstruction,outcome
-289,291,436230,Blood chemistry abnormal,outcome
 289,291,256449,Bronchiectasis,outcome
-289,291,79232,Burn of ankle,outcome
 289,291,134765,Cachexia,outcome
 289,291,4172458,Candidiasis of skin,outcome
 289,291,4228429,Carnitine deficiency,outcome
@@ -534,7 +443,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,291,4213540,Cervical somatic dysfunction,outcome
 289,291,443570,Cervicovaginal cytology: Low grade squamous intraepithelial lesion,outcome
 289,291,439674,Chronic viral hepatitis B without delta-agent,outcome
-289,291,4201390,Colostomy present,outcome
 289,291,134734,Compartment syndrome,outcome
 289,291,46269889,Complication due to Crohn's disease,outcome
 289,291,434675,Complication of gastrostomy,outcome
@@ -543,34 +451,24 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,291,80492,Contracture of knee joint,outcome
 289,291,199978,Contusion of lower limb,outcome
 289,291,433071,Contusion of multiple sites,outcome
-289,291,4022071,Convalescence,outcome
 289,291,432729,Crying infant,outcome
 289,291,75389,Current tear of lateral cartilage AND/OR meniscus of knee,outcome
 289,291,80242,Current tear of medial cartilage AND/OR meniscus of knee,outcome
 289,291,73575,Deformity of toe,outcome
-289,291,436233,Delayed milestone,outcome
 289,291,443737,Dental restoration lost,outcome
 289,291,438183,Denture occlusion incorrect,outcome
 289,291,438759,Descemet's membrane fold,outcome
-289,291,4101282,Dietary selenium deficiency,outcome
 289,291,4115402,Difficulty sleeping,outcome
 289,291,4019971,Discord in school,outcome
 289,291,436906,Disease caused by rickettsiae,outcome
-289,291,4135080,Dislocation of radial head,outcome
 289,291,201091,Disproportion - major pelvic abnormality,outcome
 289,291,372329,Dissociated deviation,outcome
 289,291,4155818,Does climb,outcome
 289,291,4196636,Dysarthria,outcome
-289,291,78834,Effusion of joint of hand,outcome
-289,291,4247710,Effusion of joint of pelvic region,outcome
 289,291,72407,Effusion of joint of shoulder region,outcome
 289,291,439791,Emotional upset,outcome
-289,291,4029271,Essential fatty acid deficiency,outcome
-289,291,197607,Excessive and frequent menstruation,outcome
-289,291,439128,Extreme prematurity of infant,outcome
 289,291,4092896,Feces contents abnormal,outcome
 289,291,4182437,Female genital cutting,outcome
-289,291,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
 289,291,4229403,Flat anterior chamber of eye,outcome
 289,291,4069540,Flexion deformity of knee,outcome
 289,291,374801,Foreign body in ear,outcome
@@ -589,14 +487,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,291,441829,Hyperosmolality and or hypernatremia,outcome
 289,291,74731,Hypertrophic osteoarthropathy,outcome
 289,291,440129,Hypertrophy of nasal turbinates,outcome
-289,291,435522,Hypervitaminosis D,outcome
-289,291,4024266,Hypocupremia,outcome
-289,291,437390,Hypoxemia,outcome
 289,291,443447,Iatrogenic hypotension,outcome
 289,291,4344500,Impingement syndrome of shoulder region,outcome
 289,291,4090353,Incompetent urethral closure mechanism,outcome
 289,291,434485,Increase in body fat,outcome
-289,291,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
 289,291,434872,Infection by Trichomonas,outcome
 289,291,4057662,Infestation by Phthirus,outcome
 289,291,440053,Infestation by insect,outcome
@@ -608,21 +502,16 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,291,72404,Joint stiffness,outcome
 289,291,435903,Juvenile osteochondrosis of foot,outcome
 289,291,438527,"Juvenile osteochondrosis of lower extremity, excluding foot",outcome
-289,291,435633,Juvenile osteochondrosis of upper extremity,outcome
 289,291,4115991,Knee joint effusion,outcome
 289,291,4093346,Large prostate,outcome
 289,291,133088,Late amputation stump complication,outcome
 289,291,4228331,Leukokeratosis nicotina palati,outcome
 289,291,377873,Lid lag,outcome
-289,291,4027782,Lipid storage disease,outcome
 289,291,4297984,Local infection of wound,outcome
 289,291,4083487,Macular drusen,outcome
-289,291,438067,Malaria,outcome
 289,291,4051630,Malingering,outcome
 289,291,436426,Malleus mobility reduced,outcome
 289,291,44783760,Mammographic calcification of breast,outcome
-289,291,438297,"Mechanical complication of cardiac device, implant AND/OR graft",outcome
-289,291,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
 289,291,439082,Menopausal syndrome,outcome
 289,291,436940,Metabolic syndrome X,outcome
 289,291,45757258,Minimal keratinized residual ridge mucosa,outcome
@@ -630,7 +519,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,291,137967,"Muscle, ligament and fascia disorders",outcome
 289,291,134315,Myelophthisis,outcome
 289,291,4195085,Nasal congestion,outcome
-289,291,4209423,Nicotine dependence,outcome
 289,291,4035269,Non-ketotic hyperglycinemia,outcome
 289,291,434016,"Nondependent opioid abuse, continuous",outcome
 289,291,201792,Nongonococcal urethritis,outcome
@@ -648,9 +536,7 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,291,4051004,Open wound of scalp,outcome
 289,291,4129404,Open wound of upper arm,outcome
 289,291,315361,Orthopnea,outcome
-289,291,437359,Osteochondritis dissecans,outcome
 289,291,378160,Otorrhea,outcome
-289,291,439035,Otosclerosis,outcome
 289,291,77356,Pathological dislocation of joint,outcome
 289,291,375292,Perforation of tympanic membrane,outcome
 289,291,78162,Peripheral vertigo,outcome
@@ -658,22 +544,18 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,291,253796,Pneumothorax,outcome
 289,291,4295261,Postmenopausal state,outcome
 289,291,4202045,Postviral fatigue syndrome,outcome
-289,291,433542,Precipitate labor,outcome
 289,291,4094448,Pregnancy test negative,outcome
-289,291,434319,Premature ejaculation,outcome
 289,291,198715,Premature menopause,outcome
 289,291,439081,Premenstrual tension syndrome,outcome
 289,291,199876,Prolapse of female genital organs,outcome
 289,291,4295888,Prolapse of intestine,outcome
 289,291,194997,Prostatitis,outcome
 289,291,439790,Psychalgia,outcome
-289,291,440068,Psychosexual dysfunction,outcome
 289,291,435028,Puerperal pyrexia of unknown origin,outcome
 289,291,4245252,Raised prostate specific antigen,outcome
 289,291,436246,Reduced libido,outcome
 289,291,45772079,Retinopathy of prematurity stage 0,outcome
 289,291,436828,Saliva abnormal,outcome
-289,291,435088,Senility,outcome
 289,291,4233565,Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight),outcome
 289,291,4250163,Sexual arousal disorder,outcome
 289,291,4096999,Short rib,outcome
@@ -685,13 +567,11 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,291,443172,"Splinter of face, without major open wound",outcome
 289,291,443082,Starvation,outcome
 289,291,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
-289,291,135852,Teething syndrome,outcome
 289,291,4195698,Tenosynovitis,outcome
 289,291,80946,Tinea manus,outcome
 289,291,4163280,Tinea of perianal region,outcome
 289,291,133141,Tinea pedis,outcome
 289,291,433244,Tooth loss,outcome
-289,291,440268,Toxic effect of carbon monoxide,outcome
 289,291,4029731,Trimethylaminuria,outcome
 289,291,40482801,Type II diabetes mellitus uncontrolled,outcome
 289,291,74719,Ulcer of foot,outcome
@@ -720,34 +600,26 @@ targetId,comparatorId,outcomeId,outcomeName,type
 292,293,436409,Abnormal pupil,outcome
 292,293,443702,Abnormal response to nerve stimulation,outcome
 292,293,44783954,Acid reflux,outcome
-292,293,4319325,Acquired deformity of trunk,outcome
 292,293,435720,Adverse anesthesia outcome,outcome
 292,293,4254371,Altered growth and development,outcome
 292,293,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
 292,293,45757682,Anomaly of jaw size,outcome
 292,293,4060259,Antenatal amniocentesis - abnormal,outcome
-292,293,4061157,Antenatal ultrasound scan abnormal,outcome
 292,293,76744,Azoospermia,outcome
-292,293,433813,Bladder neck obstruction,outcome
-292,293,436230,Blood chemistry abnormal,outcome
 292,293,256449,Bronchiectasis,outcome
 292,293,134765,Cachexia,outcome
 292,293,4228429,Carnitine deficiency,outcome
 292,293,42709838,Cellulitis of lower limb,outcome
 292,293,4213540,Cervical somatic dysfunction,outcome
 292,293,443570,Cervicovaginal cytology: Low grade squamous intraepithelial lesion,outcome
-292,293,4201390,Colostomy present,outcome
 292,293,46269889,Complication due to Crohn's disease,outcome
 292,293,434675,Complication of gastrostomy,outcome
 292,293,438624,Complication of renal dialysis,outcome
 292,293,80492,Contracture of knee joint,outcome
-292,293,4022071,Convalescence,outcome
 292,293,432729,Crying infant,outcome
-292,293,436233,Delayed milestone,outcome
 292,293,443737,Dental restoration lost,outcome
 292,293,438183,Denture occlusion incorrect,outcome
 292,293,438759,Descemet's membrane fold,outcome
-292,293,4101282,Dietary selenium deficiency,outcome
 292,293,4115402,Difficulty sleeping,outcome
 292,293,4019971,Discord in school,outcome
 292,293,201091,Disproportion - major pelvic abnormality,outcome
@@ -755,11 +627,8 @@ targetId,comparatorId,outcomeId,outcomeName,type
 292,293,4155818,Does climb,outcome
 292,293,4196636,Dysarthria,outcome
 292,293,439791,Emotional upset,outcome
-292,293,4029271,Essential fatty acid deficiency,outcome
-292,293,439128,Extreme prematurity of infant,outcome
 292,293,4092896,Feces contents abnormal,outcome
 292,293,4182437,Female genital cutting,outcome
-292,293,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
 292,293,4229403,Flat anterior chamber of eye,outcome
 292,293,4069540,Flexion deformity of knee,outcome
 292,293,374801,Foreign body in ear,outcome
@@ -770,14 +639,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 292,293,440329,Herpes zoster without complication,outcome
 292,293,441829,Hyperosmolality and or hypernatremia,outcome
 292,293,440129,Hypertrophy of nasal turbinates,outcome
-292,293,435522,Hypervitaminosis D,outcome
-292,293,4024266,Hypocupremia,outcome
-292,293,437390,Hypoxemia,outcome
 292,293,443447,Iatrogenic hypotension,outcome
 292,293,4344500,Impingement syndrome of shoulder region,outcome
 292,293,4090353,Incompetent urethral closure mechanism,outcome
 292,293,434485,Increase in body fat,outcome
-292,293,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
 292,293,434872,Infection by Trichomonas,outcome
 292,293,440053,Infestation by insect,outcome
 292,293,442120,Injection site extravasation,outcome
@@ -788,42 +653,34 @@ targetId,comparatorId,outcomeId,outcomeName,type
 292,293,133088,Late amputation stump complication,outcome
 292,293,4228331,Leukokeratosis nicotina palati,outcome
 292,293,377873,Lid lag,outcome
-292,293,4027782,Lipid storage disease,outcome
 292,293,4083487,Macular drusen,outcome
 292,293,4051630,Malingering,outcome
 292,293,436426,Malleus mobility reduced,outcome
 292,293,44783760,Mammographic calcification of breast,outcome
-292,293,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
 292,293,439082,Menopausal syndrome,outcome
 292,293,436940,Metabolic syndrome X,outcome
 292,293,45757258,Minimal keratinized residual ridge mucosa,outcome
 292,293,40480000,Multiple complications due to diabetes mellitus,outcome
 292,293,134315,Myelophthisis,outcome
 292,293,4195085,Nasal congestion,outcome
-292,293,4209423,Nicotine dependence,outcome
 292,293,434016,"Nondependent opioid abuse, continuous",outcome
 292,293,4035269,Non-ketotic hyperglycinemia,outcome
 292,293,40480893,Nonspecific tuberculin test reaction,outcome
 292,293,198802,Occlusion of ureter,outcome
-292,293,439035,Otosclerosis,outcome
 292,293,375292,Perforation of tympanic membrane,outcome
 292,293,78162,Peripheral vertigo,outcome
 292,293,437092,Physiological development failure,outcome
 292,293,253796,Pneumothorax,outcome
 292,293,4295261,Postmenopausal state,outcome
 292,293,4202045,Postviral fatigue syndrome,outcome
-292,293,433542,Precipitate labor,outcome
 292,293,4094448,Pregnancy test negative,outcome
-292,293,434319,Premature ejaculation,outcome
 292,293,439081,Premenstrual tension syndrome,outcome
 292,293,439790,Psychalgia,outcome
-292,293,440068,Psychosexual dysfunction,outcome
 292,293,435028,Puerperal pyrexia of unknown origin,outcome
 292,293,4245252,Raised prostate specific antigen,outcome
 292,293,436246,Reduced libido,outcome
 292,293,45772079,Retinopathy of prematurity stage 0,outcome
 292,293,436828,Saliva abnormal,outcome
-292,293,435088,Senility,outcome
 292,293,4233565,Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight),outcome
 292,293,4250163,Sexual arousal disorder,outcome
 292,293,4096999,Short rib,outcome
@@ -834,7 +691,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 292,293,443172,"Splinter of face, without major open wound",outcome
 292,293,443082,Starvation,outcome
 292,293,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
-292,293,135852,Teething syndrome,outcome
 292,293,433244,Tooth loss,outcome
 292,293,4029731,Trimethylaminuria,outcome
 292,293,40482801,Type II diabetes mellitus uncontrolled,outcome
@@ -861,10 +717,7 @@ targetId,comparatorId,outcomeId,outcomeName,type
 292,293,443585,Abrasion and/or friction burn of multiple sites,outcome
 292,293,44783954,Acid reflux,outcome
 292,293,380818,Acquired deformity of head,outcome
-292,293,31668,Acquired deformity of neck,outcome
-292,293,4319325,Acquired deformity of trunk,outcome
 292,293,432411,Acquired equinus deformity of foot,outcome
-292,293,439673,Acute hepatitis B with delta-agent (coinfection) without hepatic coma,outcome
 292,293,441481,Adult victim of abuse,outcome
 292,293,435720,Adverse anesthesia outcome,outcome
 292,293,4218106,Alcoholism,outcome
@@ -876,14 +729,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 292,293,4171556,Ankle ulcer,outcome
 292,293,45757682,Anomaly of jaw size,outcome
 292,293,4060259,Antenatal amniocentesis - abnormal,outcome
-292,293,4061157,Antenatal ultrasound scan abnormal,outcome
 292,293,77650,Aseptic necrosis of bone,outcome
 292,293,439237,Assault,outcome
 292,293,76744,Azoospermia,outcome
-292,293,433813,Bladder neck obstruction,outcome
-292,293,436230,Blood chemistry abnormal,outcome
 292,293,256449,Bronchiectasis,outcome
-292,293,79232,Burn of ankle,outcome
 292,293,134765,Cachexia,outcome
 292,293,4172458,Candidiasis of skin,outcome
 292,293,4228429,Carnitine deficiency,outcome
@@ -891,7 +740,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 292,293,4213540,Cervical somatic dysfunction,outcome
 292,293,443570,Cervicovaginal cytology: Low grade squamous intraepithelial lesion,outcome
 292,293,439674,Chronic viral hepatitis B without delta-agent,outcome
-292,293,4201390,Colostomy present,outcome
 292,293,134734,Compartment syndrome,outcome
 292,293,46269889,Complication due to Crohn's disease,outcome
 292,293,434675,Complication of gastrostomy,outcome
@@ -900,34 +748,24 @@ targetId,comparatorId,outcomeId,outcomeName,type
 292,293,80492,Contracture of knee joint,outcome
 292,293,199978,Contusion of lower limb,outcome
 292,293,433071,Contusion of multiple sites,outcome
-292,293,4022071,Convalescence,outcome
 292,293,432729,Crying infant,outcome
 292,293,75389,Current tear of lateral cartilage AND/OR meniscus of knee,outcome
 292,293,80242,Current tear of medial cartilage AND/OR meniscus of knee,outcome
 292,293,73575,Deformity of toe,outcome
-292,293,436233,Delayed milestone,outcome
 292,293,443737,Dental restoration lost,outcome
 292,293,438183,Denture occlusion incorrect,outcome
 292,293,438759,Descemet's membrane fold,outcome
-292,293,4101282,Dietary selenium deficiency,outcome
 292,293,4115402,Difficulty sleeping,outcome
 292,293,4019971,Discord in school,outcome
 292,293,436906,Disease caused by rickettsiae,outcome
-292,293,4135080,Dislocation of radial head,outcome
 292,293,201091,Disproportion - major pelvic abnormality,outcome
 292,293,372329,Dissociated deviation,outcome
 292,293,4155818,Does climb,outcome
 292,293,4196636,Dysarthria,outcome
-292,293,78834,Effusion of joint of hand,outcome
-292,293,4247710,Effusion of joint of pelvic region,outcome
 292,293,72407,Effusion of joint of shoulder region,outcome
 292,293,439791,Emotional upset,outcome
-292,293,4029271,Essential fatty acid deficiency,outcome
-292,293,197607,Excessive and frequent menstruation,outcome
-292,293,439128,Extreme prematurity of infant,outcome
 292,293,4092896,Feces contents abnormal,outcome
 292,293,4182437,Female genital cutting,outcome
-292,293,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
 292,293,4229403,Flat anterior chamber of eye,outcome
 292,293,4069540,Flexion deformity of knee,outcome
 292,293,374801,Foreign body in ear,outcome
@@ -946,14 +784,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 292,293,441829,Hyperosmolality and or hypernatremia,outcome
 292,293,74731,Hypertrophic osteoarthropathy,outcome
 292,293,440129,Hypertrophy of nasal turbinates,outcome
-292,293,435522,Hypervitaminosis D,outcome
-292,293,4024266,Hypocupremia,outcome
-292,293,437390,Hypoxemia,outcome
 292,293,443447,Iatrogenic hypotension,outcome
 292,293,4344500,Impingement syndrome of shoulder region,outcome
 292,293,4090353,Incompetent urethral closure mechanism,outcome
 292,293,434485,Increase in body fat,outcome
-292,293,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
 292,293,434872,Infection by Trichomonas,outcome
 292,293,4057662,Infestation by Phthirus,outcome
 292,293,440053,Infestation by insect,outcome
@@ -965,21 +799,16 @@ targetId,comparatorId,outcomeId,outcomeName,type
 292,293,72404,Joint stiffness,outcome
 292,293,435903,Juvenile osteochondrosis of foot,outcome
 292,293,438527,"Juvenile osteochondrosis of lower extremity, excluding foot",outcome
-292,293,435633,Juvenile osteochondrosis of upper extremity,outcome
 292,293,4115991,Knee joint effusion,outcome
 292,293,4093346,Large prostate,outcome
 292,293,133088,Late amputation stump complication,outcome
 292,293,4228331,Leukokeratosis nicotina palati,outcome
 292,293,377873,Lid lag,outcome
-292,293,4027782,Lipid storage disease,outcome
 292,293,4297984,Local infection of wound,outcome
 292,293,4083487,Macular drusen,outcome
-292,293,438067,Malaria,outcome
 292,293,4051630,Malingering,outcome
 292,293,436426,Malleus mobility reduced,outcome
 292,293,44783760,Mammographic calcification of breast,outcome
-292,293,438297,"Mechanical complication of cardiac device, implant AND/OR graft",outcome
-292,293,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
 292,293,439082,Menopausal syndrome,outcome
 292,293,436940,Metabolic syndrome X,outcome
 292,293,45757258,Minimal keratinized residual ridge mucosa,outcome
@@ -987,7 +816,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 292,293,137967,"Muscle, ligament and fascia disorders",outcome
 292,293,134315,Myelophthisis,outcome
 292,293,4195085,Nasal congestion,outcome
-292,293,4209423,Nicotine dependence,outcome
 292,293,4035269,Non-ketotic hyperglycinemia,outcome
 292,293,434016,"Nondependent opioid abuse, continuous",outcome
 292,293,201792,Nongonococcal urethritis,outcome
@@ -1005,9 +833,7 @@ targetId,comparatorId,outcomeId,outcomeName,type
 292,293,4051004,Open wound of scalp,outcome
 292,293,4129404,Open wound of upper arm,outcome
 292,293,315361,Orthopnea,outcome
-292,293,437359,Osteochondritis dissecans,outcome
 292,293,378160,Otorrhea,outcome
-292,293,439035,Otosclerosis,outcome
 292,293,77356,Pathological dislocation of joint,outcome
 292,293,375292,Perforation of tympanic membrane,outcome
 292,293,78162,Peripheral vertigo,outcome
@@ -1015,22 +841,18 @@ targetId,comparatorId,outcomeId,outcomeName,type
 292,293,253796,Pneumothorax,outcome
 292,293,4295261,Postmenopausal state,outcome
 292,293,4202045,Postviral fatigue syndrome,outcome
-292,293,433542,Precipitate labor,outcome
 292,293,4094448,Pregnancy test negative,outcome
-292,293,434319,Premature ejaculation,outcome
 292,293,198715,Premature menopause,outcome
 292,293,439081,Premenstrual tension syndrome,outcome
 292,293,199876,Prolapse of female genital organs,outcome
 292,293,4295888,Prolapse of intestine,outcome
 292,293,194997,Prostatitis,outcome
 292,293,439790,Psychalgia,outcome
-292,293,440068,Psychosexual dysfunction,outcome
 292,293,435028,Puerperal pyrexia of unknown origin,outcome
 292,293,4245252,Raised prostate specific antigen,outcome
 292,293,436246,Reduced libido,outcome
 292,293,45772079,Retinopathy of prematurity stage 0,outcome
 292,293,436828,Saliva abnormal,outcome
-292,293,435088,Senility,outcome
 292,293,4233565,Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight),outcome
 292,293,4250163,Sexual arousal disorder,outcome
 292,293,4096999,Short rib,outcome
@@ -1042,13 +864,11 @@ targetId,comparatorId,outcomeId,outcomeName,type
 292,293,443172,"Splinter of face, without major open wound",outcome
 292,293,443082,Starvation,outcome
 292,293,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
-292,293,135852,Teething syndrome,outcome
 292,293,4195698,Tenosynovitis,outcome
 292,293,80946,Tinea manus,outcome
 292,293,4163280,Tinea of perianal region,outcome
 292,293,133141,Tinea pedis,outcome
 292,293,433244,Tooth loss,outcome
-292,293,440268,Toxic effect of carbon monoxide,outcome
 292,293,4029731,Trimethylaminuria,outcome
 292,293,40482801,Type II diabetes mellitus uncontrolled,outcome
 292,293,74719,Ulcer of foot,outcome
@@ -1077,34 +897,26 @@ targetId,comparatorId,outcomeId,outcomeName,type
 294,295,436409,Abnormal pupil,outcome
 294,295,443702,Abnormal response to nerve stimulation,outcome
 294,295,44783954,Acid reflux,outcome
-294,295,4319325,Acquired deformity of trunk,outcome
 294,295,435720,Adverse anesthesia outcome,outcome
 294,295,4254371,Altered growth and development,outcome
 294,295,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
 294,295,45757682,Anomaly of jaw size,outcome
 294,295,4060259,Antenatal amniocentesis - abnormal,outcome
-294,295,4061157,Antenatal ultrasound scan abnormal,outcome
 294,295,76744,Azoospermia,outcome
-294,295,433813,Bladder neck obstruction,outcome
-294,295,436230,Blood chemistry abnormal,outcome
 294,295,256449,Bronchiectasis,outcome
 294,295,134765,Cachexia,outcome
 294,295,4228429,Carnitine deficiency,outcome
 294,295,42709838,Cellulitis of lower limb,outcome
 294,295,4213540,Cervical somatic dysfunction,outcome
 294,295,443570,Cervicovaginal cytology: Low grade squamous intraepithelial lesion,outcome
-294,295,4201390,Colostomy present,outcome
 294,295,46269889,Complication due to Crohn's disease,outcome
 294,295,434675,Complication of gastrostomy,outcome
 294,295,438624,Complication of renal dialysis,outcome
 294,295,80492,Contracture of knee joint,outcome
-294,295,4022071,Convalescence,outcome
 294,295,432729,Crying infant,outcome
-294,295,436233,Delayed milestone,outcome
 294,295,443737,Dental restoration lost,outcome
 294,295,438183,Denture occlusion incorrect,outcome
 294,295,438759,Descemet's membrane fold,outcome
-294,295,4101282,Dietary selenium deficiency,outcome
 294,295,4115402,Difficulty sleeping,outcome
 294,295,4019971,Discord in school,outcome
 294,295,201091,Disproportion - major pelvic abnormality,outcome
@@ -1112,11 +924,8 @@ targetId,comparatorId,outcomeId,outcomeName,type
 294,295,4155818,Does climb,outcome
 294,295,4196636,Dysarthria,outcome
 294,295,439791,Emotional upset,outcome
-294,295,4029271,Essential fatty acid deficiency,outcome
-294,295,439128,Extreme prematurity of infant,outcome
 294,295,4092896,Feces contents abnormal,outcome
 294,295,4182437,Female genital cutting,outcome
-294,295,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
 294,295,4229403,Flat anterior chamber of eye,outcome
 294,295,4069540,Flexion deformity of knee,outcome
 294,295,374801,Foreign body in ear,outcome
@@ -1127,14 +936,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 294,295,440329,Herpes zoster without complication,outcome
 294,295,441829,Hyperosmolality and or hypernatremia,outcome
 294,295,440129,Hypertrophy of nasal turbinates,outcome
-294,295,435522,Hypervitaminosis D,outcome
-294,295,4024266,Hypocupremia,outcome
-294,295,437390,Hypoxemia,outcome
 294,295,443447,Iatrogenic hypotension,outcome
 294,295,4344500,Impingement syndrome of shoulder region,outcome
 294,295,4090353,Incompetent urethral closure mechanism,outcome
 294,295,434485,Increase in body fat,outcome
-294,295,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
 294,295,434872,Infection by Trichomonas,outcome
 294,295,440053,Infestation by insect,outcome
 294,295,442120,Injection site extravasation,outcome
@@ -1145,42 +950,34 @@ targetId,comparatorId,outcomeId,outcomeName,type
 294,295,133088,Late amputation stump complication,outcome
 294,295,4228331,Leukokeratosis nicotina palati,outcome
 294,295,377873,Lid lag,outcome
-294,295,4027782,Lipid storage disease,outcome
 294,295,4083487,Macular drusen,outcome
 294,295,4051630,Malingering,outcome
 294,295,436426,Malleus mobility reduced,outcome
 294,295,44783760,Mammographic calcification of breast,outcome
-294,295,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
 294,295,439082,Menopausal syndrome,outcome
 294,295,436940,Metabolic syndrome X,outcome
 294,295,45757258,Minimal keratinized residual ridge mucosa,outcome
 294,295,40480000,Multiple complications due to diabetes mellitus,outcome
 294,295,134315,Myelophthisis,outcome
 294,295,4195085,Nasal congestion,outcome
-294,295,4209423,Nicotine dependence,outcome
 294,295,434016,"Nondependent opioid abuse, continuous",outcome
 294,295,4035269,Non-ketotic hyperglycinemia,outcome
 294,295,40480893,Nonspecific tuberculin test reaction,outcome
 294,295,198802,Occlusion of ureter,outcome
-294,295,439035,Otosclerosis,outcome
 294,295,375292,Perforation of tympanic membrane,outcome
 294,295,78162,Peripheral vertigo,outcome
 294,295,437092,Physiological development failure,outcome
 294,295,253796,Pneumothorax,outcome
 294,295,4295261,Postmenopausal state,outcome
 294,295,4202045,Postviral fatigue syndrome,outcome
-294,295,433542,Precipitate labor,outcome
 294,295,4094448,Pregnancy test negative,outcome
-294,295,434319,Premature ejaculation,outcome
 294,295,439081,Premenstrual tension syndrome,outcome
 294,295,439790,Psychalgia,outcome
-294,295,440068,Psychosexual dysfunction,outcome
 294,295,435028,Puerperal pyrexia of unknown origin,outcome
 294,295,4245252,Raised prostate specific antigen,outcome
 294,295,436246,Reduced libido,outcome
 294,295,45772079,Retinopathy of prematurity stage 0,outcome
 294,295,436828,Saliva abnormal,outcome
-294,295,435088,Senility,outcome
 294,295,4233565,Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight),outcome
 294,295,4250163,Sexual arousal disorder,outcome
 294,295,4096999,Short rib,outcome
@@ -1191,7 +988,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 294,295,443172,"Splinter of face, without major open wound",outcome
 294,295,443082,Starvation,outcome
 294,295,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
-294,295,135852,Teething syndrome,outcome
 294,295,433244,Tooth loss,outcome
 294,295,4029731,Trimethylaminuria,outcome
 294,295,40482801,Type II diabetes mellitus uncontrolled,outcome
@@ -1218,10 +1014,7 @@ targetId,comparatorId,outcomeId,outcomeName,type
 294,295,443585,Abrasion and/or friction burn of multiple sites,outcome
 294,295,44783954,Acid reflux,outcome
 294,295,380818,Acquired deformity of head,outcome
-294,295,31668,Acquired deformity of neck,outcome
-294,295,4319325,Acquired deformity of trunk,outcome
 294,295,432411,Acquired equinus deformity of foot,outcome
-294,295,439673,Acute hepatitis B with delta-agent (coinfection) without hepatic coma,outcome
 294,295,441481,Adult victim of abuse,outcome
 294,295,435720,Adverse anesthesia outcome,outcome
 294,295,4218106,Alcoholism,outcome
@@ -1233,14 +1026,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 294,295,4171556,Ankle ulcer,outcome
 294,295,45757682,Anomaly of jaw size,outcome
 294,295,4060259,Antenatal amniocentesis - abnormal,outcome
-294,295,4061157,Antenatal ultrasound scan abnormal,outcome
 294,295,77650,Aseptic necrosis of bone,outcome
 294,295,439237,Assault,outcome
 294,295,76744,Azoospermia,outcome
-294,295,433813,Bladder neck obstruction,outcome
-294,295,436230,Blood chemistry abnormal,outcome
 294,295,256449,Bronchiectasis,outcome
-294,295,79232,Burn of ankle,outcome
 294,295,134765,Cachexia,outcome
 294,295,4172458,Candidiasis of skin,outcome
 294,295,4228429,Carnitine deficiency,outcome
@@ -1248,7 +1037,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 294,295,4213540,Cervical somatic dysfunction,outcome
 294,295,443570,Cervicovaginal cytology: Low grade squamous intraepithelial lesion,outcome
 294,295,439674,Chronic viral hepatitis B without delta-agent,outcome
-294,295,4201390,Colostomy present,outcome
 294,295,134734,Compartment syndrome,outcome
 294,295,46269889,Complication due to Crohn's disease,outcome
 294,295,434675,Complication of gastrostomy,outcome
@@ -1257,34 +1045,24 @@ targetId,comparatorId,outcomeId,outcomeName,type
 294,295,80492,Contracture of knee joint,outcome
 294,295,199978,Contusion of lower limb,outcome
 294,295,433071,Contusion of multiple sites,outcome
-294,295,4022071,Convalescence,outcome
 294,295,432729,Crying infant,outcome
 294,295,75389,Current tear of lateral cartilage AND/OR meniscus of knee,outcome
 294,295,80242,Current tear of medial cartilage AND/OR meniscus of knee,outcome
 294,295,73575,Deformity of toe,outcome
-294,295,436233,Delayed milestone,outcome
 294,295,443737,Dental restoration lost,outcome
 294,295,438183,Denture occlusion incorrect,outcome
 294,295,438759,Descemet's membrane fold,outcome
-294,295,4101282,Dietary selenium deficiency,outcome
 294,295,4115402,Difficulty sleeping,outcome
 294,295,4019971,Discord in school,outcome
 294,295,436906,Disease caused by rickettsiae,outcome
-294,295,4135080,Dislocation of radial head,outcome
 294,295,201091,Disproportion - major pelvic abnormality,outcome
 294,295,372329,Dissociated deviation,outcome
 294,295,4155818,Does climb,outcome
 294,295,4196636,Dysarthria,outcome
-294,295,78834,Effusion of joint of hand,outcome
-294,295,4247710,Effusion of joint of pelvic region,outcome
 294,295,72407,Effusion of joint of shoulder region,outcome
 294,295,439791,Emotional upset,outcome
-294,295,4029271,Essential fatty acid deficiency,outcome
-294,295,197607,Excessive and frequent menstruation,outcome
-294,295,439128,Extreme prematurity of infant,outcome
 294,295,4092896,Feces contents abnormal,outcome
 294,295,4182437,Female genital cutting,outcome
-294,295,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
 294,295,4229403,Flat anterior chamber of eye,outcome
 294,295,4069540,Flexion deformity of knee,outcome
 294,295,374801,Foreign body in ear,outcome
@@ -1303,14 +1081,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 294,295,441829,Hyperosmolality and or hypernatremia,outcome
 294,295,74731,Hypertrophic osteoarthropathy,outcome
 294,295,440129,Hypertrophy of nasal turbinates,outcome
-294,295,435522,Hypervitaminosis D,outcome
-294,295,4024266,Hypocupremia,outcome
-294,295,437390,Hypoxemia,outcome
 294,295,443447,Iatrogenic hypotension,outcome
 294,295,4344500,Impingement syndrome of shoulder region,outcome
 294,295,4090353,Incompetent urethral closure mechanism,outcome
 294,295,434485,Increase in body fat,outcome
-294,295,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
 294,295,434872,Infection by Trichomonas,outcome
 294,295,4057662,Infestation by Phthirus,outcome
 294,295,440053,Infestation by insect,outcome
@@ -1322,21 +1096,16 @@ targetId,comparatorId,outcomeId,outcomeName,type
 294,295,72404,Joint stiffness,outcome
 294,295,435903,Juvenile osteochondrosis of foot,outcome
 294,295,438527,"Juvenile osteochondrosis of lower extremity, excluding foot",outcome
-294,295,435633,Juvenile osteochondrosis of upper extremity,outcome
 294,295,4115991,Knee joint effusion,outcome
 294,295,4093346,Large prostate,outcome
 294,295,133088,Late amputation stump complication,outcome
 294,295,4228331,Leukokeratosis nicotina palati,outcome
 294,295,377873,Lid lag,outcome
-294,295,4027782,Lipid storage disease,outcome
 294,295,4297984,Local infection of wound,outcome
 294,295,4083487,Macular drusen,outcome
-294,295,438067,Malaria,outcome
 294,295,4051630,Malingering,outcome
 294,295,436426,Malleus mobility reduced,outcome
 294,295,44783760,Mammographic calcification of breast,outcome
-294,295,438297,"Mechanical complication of cardiac device, implant AND/OR graft",outcome
-294,295,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
 294,295,439082,Menopausal syndrome,outcome
 294,295,436940,Metabolic syndrome X,outcome
 294,295,45757258,Minimal keratinized residual ridge mucosa,outcome
@@ -1344,7 +1113,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 294,295,137967,"Muscle, ligament and fascia disorders",outcome
 294,295,134315,Myelophthisis,outcome
 294,295,4195085,Nasal congestion,outcome
-294,295,4209423,Nicotine dependence,outcome
 294,295,4035269,Non-ketotic hyperglycinemia,outcome
 294,295,434016,"Nondependent opioid abuse, continuous",outcome
 294,295,201792,Nongonococcal urethritis,outcome
@@ -1362,9 +1130,7 @@ targetId,comparatorId,outcomeId,outcomeName,type
 294,295,4051004,Open wound of scalp,outcome
 294,295,4129404,Open wound of upper arm,outcome
 294,295,315361,Orthopnea,outcome
-294,295,437359,Osteochondritis dissecans,outcome
 294,295,378160,Otorrhea,outcome
-294,295,439035,Otosclerosis,outcome
 294,295,77356,Pathological dislocation of joint,outcome
 294,295,375292,Perforation of tympanic membrane,outcome
 294,295,78162,Peripheral vertigo,outcome
@@ -1372,22 +1138,18 @@ targetId,comparatorId,outcomeId,outcomeName,type
 294,295,253796,Pneumothorax,outcome
 294,295,4295261,Postmenopausal state,outcome
 294,295,4202045,Postviral fatigue syndrome,outcome
-294,295,433542,Precipitate labor,outcome
 294,295,4094448,Pregnancy test negative,outcome
-294,295,434319,Premature ejaculation,outcome
 294,295,198715,Premature menopause,outcome
 294,295,439081,Premenstrual tension syndrome,outcome
 294,295,199876,Prolapse of female genital organs,outcome
 294,295,4295888,Prolapse of intestine,outcome
 294,295,194997,Prostatitis,outcome
 294,295,439790,Psychalgia,outcome
-294,295,440068,Psychosexual dysfunction,outcome
 294,295,435028,Puerperal pyrexia of unknown origin,outcome
 294,295,4245252,Raised prostate specific antigen,outcome
 294,295,436246,Reduced libido,outcome
 294,295,45772079,Retinopathy of prematurity stage 0,outcome
 294,295,436828,Saliva abnormal,outcome
-294,295,435088,Senility,outcome
 294,295,4233565,Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight),outcome
 294,295,4250163,Sexual arousal disorder,outcome
 294,295,4096999,Short rib,outcome
@@ -1399,13 +1161,11 @@ targetId,comparatorId,outcomeId,outcomeName,type
 294,295,443172,"Splinter of face, without major open wound",outcome
 294,295,443082,Starvation,outcome
 294,295,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
-294,295,135852,Teething syndrome,outcome
 294,295,4195698,Tenosynovitis,outcome
 294,295,80946,Tinea manus,outcome
 294,295,4163280,Tinea of perianal region,outcome
 294,295,133141,Tinea pedis,outcome
 294,295,433244,Tooth loss,outcome
-294,295,440268,Toxic effect of carbon monoxide,outcome
 294,295,4029731,Trimethylaminuria,outcome
 294,295,40482801,Type II diabetes mellitus uncontrolled,outcome
 294,295,74719,Ulcer of foot,outcome
@@ -1434,34 +1194,26 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,173,436409,Abnormal pupil,outcome
 172,173,443702,Abnormal response to nerve stimulation,outcome
 172,173,44783954,Acid reflux,outcome
-172,173,4319325,Acquired deformity of trunk,outcome
 172,173,435720,Adverse anesthesia outcome,outcome
 172,173,4254371,Altered growth and development,outcome
 172,173,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
 172,173,45757682,Anomaly of jaw size,outcome
 172,173,4060259,Antenatal amniocentesis - abnormal,outcome
-172,173,4061157,Antenatal ultrasound scan abnormal,outcome
 172,173,76744,Azoospermia,outcome
-172,173,433813,Bladder neck obstruction,outcome
-172,173,436230,Blood chemistry abnormal,outcome
 172,173,256449,Bronchiectasis,outcome
 172,173,134765,Cachexia,outcome
 172,173,4228429,Carnitine deficiency,outcome
 172,173,42709838,Cellulitis of lower limb,outcome
 172,173,4213540,Cervical somatic dysfunction,outcome
 172,173,443570,Cervicovaginal cytology: Low grade squamous intraepithelial lesion,outcome
-172,173,4201390,Colostomy present,outcome
 172,173,46269889,Complication due to Crohn's disease,outcome
 172,173,434675,Complication of gastrostomy,outcome
 172,173,438624,Complication of renal dialysis,outcome
 172,173,80492,Contracture of knee joint,outcome
-172,173,4022071,Convalescence,outcome
 172,173,432729,Crying infant,outcome
-172,173,436233,Delayed milestone,outcome
 172,173,443737,Dental restoration lost,outcome
 172,173,438183,Denture occlusion incorrect,outcome
 172,173,438759,Descemet's membrane fold,outcome
-172,173,4101282,Dietary selenium deficiency,outcome
 172,173,4115402,Difficulty sleeping,outcome
 172,173,4019971,Discord in school,outcome
 172,173,201091,Disproportion - major pelvic abnormality,outcome
@@ -1469,11 +1221,8 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,173,4155818,Does climb,outcome
 172,173,4196636,Dysarthria,outcome
 172,173,439791,Emotional upset,outcome
-172,173,4029271,Essential fatty acid deficiency,outcome
-172,173,439128,Extreme prematurity of infant,outcome
 172,173,4092896,Feces contents abnormal,outcome
 172,173,4182437,Female genital cutting,outcome
-172,173,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
 172,173,4229403,Flat anterior chamber of eye,outcome
 172,173,4069540,Flexion deformity of knee,outcome
 172,173,374801,Foreign body in ear,outcome
@@ -1484,14 +1233,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,173,440329,Herpes zoster without complication,outcome
 172,173,441829,Hyperosmolality and or hypernatremia,outcome
 172,173,440129,Hypertrophy of nasal turbinates,outcome
-172,173,435522,Hypervitaminosis D,outcome
-172,173,4024266,Hypocupremia,outcome
-172,173,437390,Hypoxemia,outcome
 172,173,443447,Iatrogenic hypotension,outcome
 172,173,4344500,Impingement syndrome of shoulder region,outcome
 172,173,4090353,Incompetent urethral closure mechanism,outcome
 172,173,434485,Increase in body fat,outcome
-172,173,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
 172,173,434872,Infection by Trichomonas,outcome
 172,173,440053,Infestation by insect,outcome
 172,173,442120,Injection site extravasation,outcome
@@ -1502,42 +1247,34 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,173,133088,Late amputation stump complication,outcome
 172,173,4228331,Leukokeratosis nicotina palati,outcome
 172,173,377873,Lid lag,outcome
-172,173,4027782,Lipid storage disease,outcome
 172,173,4083487,Macular drusen,outcome
 172,173,4051630,Malingering,outcome
 172,173,436426,Malleus mobility reduced,outcome
 172,173,44783760,Mammographic calcification of breast,outcome
-172,173,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
 172,173,439082,Menopausal syndrome,outcome
 172,173,436940,Metabolic syndrome X,outcome
 172,173,45757258,Minimal keratinized residual ridge mucosa,outcome
 172,173,40480000,Multiple complications due to diabetes mellitus,outcome
 172,173,134315,Myelophthisis,outcome
 172,173,4195085,Nasal congestion,outcome
-172,173,4209423,Nicotine dependence,outcome
 172,173,434016,"Nondependent opioid abuse, continuous",outcome
 172,173,4035269,Non-ketotic hyperglycinemia,outcome
 172,173,40480893,Nonspecific tuberculin test reaction,outcome
 172,173,198802,Occlusion of ureter,outcome
-172,173,439035,Otosclerosis,outcome
 172,173,375292,Perforation of tympanic membrane,outcome
 172,173,78162,Peripheral vertigo,outcome
 172,173,437092,Physiological development failure,outcome
 172,173,253796,Pneumothorax,outcome
 172,173,4295261,Postmenopausal state,outcome
 172,173,4202045,Postviral fatigue syndrome,outcome
-172,173,433542,Precipitate labor,outcome
 172,173,4094448,Pregnancy test negative,outcome
-172,173,434319,Premature ejaculation,outcome
 172,173,439081,Premenstrual tension syndrome,outcome
 172,173,439790,Psychalgia,outcome
-172,173,440068,Psychosexual dysfunction,outcome
 172,173,435028,Puerperal pyrexia of unknown origin,outcome
 172,173,4245252,Raised prostate specific antigen,outcome
 172,173,436246,Reduced libido,outcome
 172,173,45772079,Retinopathy of prematurity stage 0,outcome
 172,173,436828,Saliva abnormal,outcome
-172,173,435088,Senility,outcome
 172,173,4233565,Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight),outcome
 172,173,4250163,Sexual arousal disorder,outcome
 172,173,4096999,Short rib,outcome
@@ -1548,7 +1285,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,173,443172,"Splinter of face, without major open wound",outcome
 172,173,443082,Starvation,outcome
 172,173,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
-172,173,135852,Teething syndrome,outcome
 172,173,433244,Tooth loss,outcome
 172,173,4029731,Trimethylaminuria,outcome
 172,173,40482801,Type II diabetes mellitus uncontrolled,outcome
@@ -1575,10 +1311,7 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,173,443585,Abrasion and/or friction burn of multiple sites,outcome
 172,173,44783954,Acid reflux,outcome
 172,173,380818,Acquired deformity of head,outcome
-172,173,31668,Acquired deformity of neck,outcome
-172,173,4319325,Acquired deformity of trunk,outcome
 172,173,432411,Acquired equinus deformity of foot,outcome
-172,173,439673,Acute hepatitis B with delta-agent (coinfection) without hepatic coma,outcome
 172,173,441481,Adult victim of abuse,outcome
 172,173,435720,Adverse anesthesia outcome,outcome
 172,173,4218106,Alcoholism,outcome
@@ -1590,14 +1323,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,173,4171556,Ankle ulcer,outcome
 172,173,45757682,Anomaly of jaw size,outcome
 172,173,4060259,Antenatal amniocentesis - abnormal,outcome
-172,173,4061157,Antenatal ultrasound scan abnormal,outcome
 172,173,77650,Aseptic necrosis of bone,outcome
 172,173,439237,Assault,outcome
 172,173,76744,Azoospermia,outcome
-172,173,433813,Bladder neck obstruction,outcome
-172,173,436230,Blood chemistry abnormal,outcome
 172,173,256449,Bronchiectasis,outcome
-172,173,79232,Burn of ankle,outcome
 172,173,134765,Cachexia,outcome
 172,173,4172458,Candidiasis of skin,outcome
 172,173,4228429,Carnitine deficiency,outcome
@@ -1605,7 +1334,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,173,4213540,Cervical somatic dysfunction,outcome
 172,173,443570,Cervicovaginal cytology: Low grade squamous intraepithelial lesion,outcome
 172,173,439674,Chronic viral hepatitis B without delta-agent,outcome
-172,173,4201390,Colostomy present,outcome
 172,173,134734,Compartment syndrome,outcome
 172,173,46269889,Complication due to Crohn's disease,outcome
 172,173,434675,Complication of gastrostomy,outcome
@@ -1614,34 +1342,24 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,173,80492,Contracture of knee joint,outcome
 172,173,199978,Contusion of lower limb,outcome
 172,173,433071,Contusion of multiple sites,outcome
-172,173,4022071,Convalescence,outcome
 172,173,432729,Crying infant,outcome
 172,173,75389,Current tear of lateral cartilage AND/OR meniscus of knee,outcome
 172,173,80242,Current tear of medial cartilage AND/OR meniscus of knee,outcome
 172,173,73575,Deformity of toe,outcome
-172,173,436233,Delayed milestone,outcome
 172,173,443737,Dental restoration lost,outcome
 172,173,438183,Denture occlusion incorrect,outcome
 172,173,438759,Descemet's membrane fold,outcome
-172,173,4101282,Dietary selenium deficiency,outcome
 172,173,4115402,Difficulty sleeping,outcome
 172,173,4019971,Discord in school,outcome
 172,173,436906,Disease caused by rickettsiae,outcome
-172,173,4135080,Dislocation of radial head,outcome
 172,173,201091,Disproportion - major pelvic abnormality,outcome
 172,173,372329,Dissociated deviation,outcome
 172,173,4155818,Does climb,outcome
 172,173,4196636,Dysarthria,outcome
-172,173,78834,Effusion of joint of hand,outcome
-172,173,4247710,Effusion of joint of pelvic region,outcome
 172,173,72407,Effusion of joint of shoulder region,outcome
 172,173,439791,Emotional upset,outcome
-172,173,4029271,Essential fatty acid deficiency,outcome
-172,173,197607,Excessive and frequent menstruation,outcome
-172,173,439128,Extreme prematurity of infant,outcome
 172,173,4092896,Feces contents abnormal,outcome
 172,173,4182437,Female genital cutting,outcome
-172,173,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
 172,173,4229403,Flat anterior chamber of eye,outcome
 172,173,4069540,Flexion deformity of knee,outcome
 172,173,374801,Foreign body in ear,outcome
@@ -1660,14 +1378,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,173,441829,Hyperosmolality and or hypernatremia,outcome
 172,173,74731,Hypertrophic osteoarthropathy,outcome
 172,173,440129,Hypertrophy of nasal turbinates,outcome
-172,173,435522,Hypervitaminosis D,outcome
-172,173,4024266,Hypocupremia,outcome
-172,173,437390,Hypoxemia,outcome
 172,173,443447,Iatrogenic hypotension,outcome
 172,173,4344500,Impingement syndrome of shoulder region,outcome
 172,173,4090353,Incompetent urethral closure mechanism,outcome
 172,173,434485,Increase in body fat,outcome
-172,173,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
 172,173,434872,Infection by Trichomonas,outcome
 172,173,4057662,Infestation by Phthirus,outcome
 172,173,440053,Infestation by insect,outcome
@@ -1679,21 +1393,16 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,173,72404,Joint stiffness,outcome
 172,173,435903,Juvenile osteochondrosis of foot,outcome
 172,173,438527,"Juvenile osteochondrosis of lower extremity, excluding foot",outcome
-172,173,435633,Juvenile osteochondrosis of upper extremity,outcome
 172,173,4115991,Knee joint effusion,outcome
 172,173,4093346,Large prostate,outcome
 172,173,133088,Late amputation stump complication,outcome
 172,173,4228331,Leukokeratosis nicotina palati,outcome
 172,173,377873,Lid lag,outcome
-172,173,4027782,Lipid storage disease,outcome
 172,173,4297984,Local infection of wound,outcome
 172,173,4083487,Macular drusen,outcome
-172,173,438067,Malaria,outcome
 172,173,4051630,Malingering,outcome
 172,173,436426,Malleus mobility reduced,outcome
 172,173,44783760,Mammographic calcification of breast,outcome
-172,173,438297,"Mechanical complication of cardiac device, implant AND/OR graft",outcome
-172,173,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
 172,173,439082,Menopausal syndrome,outcome
 172,173,436940,Metabolic syndrome X,outcome
 172,173,45757258,Minimal keratinized residual ridge mucosa,outcome
@@ -1701,7 +1410,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,173,137967,"Muscle, ligament and fascia disorders",outcome
 172,173,134315,Myelophthisis,outcome
 172,173,4195085,Nasal congestion,outcome
-172,173,4209423,Nicotine dependence,outcome
 172,173,4035269,Non-ketotic hyperglycinemia,outcome
 172,173,434016,"Nondependent opioid abuse, continuous",outcome
 172,173,201792,Nongonococcal urethritis,outcome
@@ -1719,9 +1427,7 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,173,4051004,Open wound of scalp,outcome
 172,173,4129404,Open wound of upper arm,outcome
 172,173,315361,Orthopnea,outcome
-172,173,437359,Osteochondritis dissecans,outcome
 172,173,378160,Otorrhea,outcome
-172,173,439035,Otosclerosis,outcome
 172,173,77356,Pathological dislocation of joint,outcome
 172,173,375292,Perforation of tympanic membrane,outcome
 172,173,78162,Peripheral vertigo,outcome
@@ -1729,22 +1435,18 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,173,253796,Pneumothorax,outcome
 172,173,4295261,Postmenopausal state,outcome
 172,173,4202045,Postviral fatigue syndrome,outcome
-172,173,433542,Precipitate labor,outcome
 172,173,4094448,Pregnancy test negative,outcome
-172,173,434319,Premature ejaculation,outcome
 172,173,198715,Premature menopause,outcome
 172,173,439081,Premenstrual tension syndrome,outcome
 172,173,199876,Prolapse of female genital organs,outcome
 172,173,4295888,Prolapse of intestine,outcome
 172,173,194997,Prostatitis,outcome
 172,173,439790,Psychalgia,outcome
-172,173,440068,Psychosexual dysfunction,outcome
 172,173,435028,Puerperal pyrexia of unknown origin,outcome
 172,173,4245252,Raised prostate specific antigen,outcome
 172,173,436246,Reduced libido,outcome
 172,173,45772079,Retinopathy of prematurity stage 0,outcome
 172,173,436828,Saliva abnormal,outcome
-172,173,435088,Senility,outcome
 172,173,4233565,Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight),outcome
 172,173,4250163,Sexual arousal disorder,outcome
 172,173,4096999,Short rib,outcome
@@ -1756,13 +1458,11 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,173,443172,"Splinter of face, without major open wound",outcome
 172,173,443082,Starvation,outcome
 172,173,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
-172,173,135852,Teething syndrome,outcome
 172,173,4195698,Tenosynovitis,outcome
 172,173,80946,Tinea manus,outcome
 172,173,4163280,Tinea of perianal region,outcome
 172,173,133141,Tinea pedis,outcome
 172,173,433244,Tooth loss,outcome
-172,173,440268,Toxic effect of carbon monoxide,outcome
 172,173,4029731,Trimethylaminuria,outcome
 172,173,40482801,Type II diabetes mellitus uncontrolled,outcome
 172,173,74719,Ulcer of foot,outcome
@@ -1791,34 +1491,26 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,174,436409,Abnormal pupil,outcome
 172,174,443702,Abnormal response to nerve stimulation,outcome
 172,174,44783954,Acid reflux,outcome
-172,174,4319325,Acquired deformity of trunk,outcome
 172,174,435720,Adverse anesthesia outcome,outcome
 172,174,4254371,Altered growth and development,outcome
 172,174,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
 172,174,45757682,Anomaly of jaw size,outcome
 172,174,4060259,Antenatal amniocentesis - abnormal,outcome
-172,174,4061157,Antenatal ultrasound scan abnormal,outcome
 172,174,76744,Azoospermia,outcome
-172,174,433813,Bladder neck obstruction,outcome
-172,174,436230,Blood chemistry abnormal,outcome
 172,174,256449,Bronchiectasis,outcome
 172,174,134765,Cachexia,outcome
 172,174,4228429,Carnitine deficiency,outcome
 172,174,42709838,Cellulitis of lower limb,outcome
 172,174,4213540,Cervical somatic dysfunction,outcome
 172,174,443570,Cervicovaginal cytology: Low grade squamous intraepithelial lesion,outcome
-172,174,4201390,Colostomy present,outcome
 172,174,46269889,Complication due to Crohn's disease,outcome
 172,174,434675,Complication of gastrostomy,outcome
 172,174,438624,Complication of renal dialysis,outcome
 172,174,80492,Contracture of knee joint,outcome
-172,174,4022071,Convalescence,outcome
 172,174,432729,Crying infant,outcome
-172,174,436233,Delayed milestone,outcome
 172,174,443737,Dental restoration lost,outcome
 172,174,438183,Denture occlusion incorrect,outcome
 172,174,438759,Descemet's membrane fold,outcome
-172,174,4101282,Dietary selenium deficiency,outcome
 172,174,4115402,Difficulty sleeping,outcome
 172,174,4019971,Discord in school,outcome
 172,174,201091,Disproportion - major pelvic abnormality,outcome
@@ -1826,11 +1518,8 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,174,4155818,Does climb,outcome
 172,174,4196636,Dysarthria,outcome
 172,174,439791,Emotional upset,outcome
-172,174,4029271,Essential fatty acid deficiency,outcome
-172,174,439128,Extreme prematurity of infant,outcome
 172,174,4092896,Feces contents abnormal,outcome
 172,174,4182437,Female genital cutting,outcome
-172,174,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
 172,174,4229403,Flat anterior chamber of eye,outcome
 172,174,4069540,Flexion deformity of knee,outcome
 172,174,374801,Foreign body in ear,outcome
@@ -1841,14 +1530,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,174,440329,Herpes zoster without complication,outcome
 172,174,441829,Hyperosmolality and or hypernatremia,outcome
 172,174,440129,Hypertrophy of nasal turbinates,outcome
-172,174,435522,Hypervitaminosis D,outcome
-172,174,4024266,Hypocupremia,outcome
-172,174,437390,Hypoxemia,outcome
 172,174,443447,Iatrogenic hypotension,outcome
 172,174,4344500,Impingement syndrome of shoulder region,outcome
 172,174,4090353,Incompetent urethral closure mechanism,outcome
 172,174,434485,Increase in body fat,outcome
-172,174,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
 172,174,434872,Infection by Trichomonas,outcome
 172,174,440053,Infestation by insect,outcome
 172,174,442120,Injection site extravasation,outcome
@@ -1859,42 +1544,34 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,174,133088,Late amputation stump complication,outcome
 172,174,4228331,Leukokeratosis nicotina palati,outcome
 172,174,377873,Lid lag,outcome
-172,174,4027782,Lipid storage disease,outcome
 172,174,4083487,Macular drusen,outcome
 172,174,4051630,Malingering,outcome
 172,174,436426,Malleus mobility reduced,outcome
 172,174,44783760,Mammographic calcification of breast,outcome
-172,174,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
 172,174,439082,Menopausal syndrome,outcome
 172,174,436940,Metabolic syndrome X,outcome
 172,174,45757258,Minimal keratinized residual ridge mucosa,outcome
 172,174,40480000,Multiple complications due to diabetes mellitus,outcome
 172,174,134315,Myelophthisis,outcome
 172,174,4195085,Nasal congestion,outcome
-172,174,4209423,Nicotine dependence,outcome
 172,174,434016,"Nondependent opioid abuse, continuous",outcome
 172,174,4035269,Non-ketotic hyperglycinemia,outcome
 172,174,40480893,Nonspecific tuberculin test reaction,outcome
 172,174,198802,Occlusion of ureter,outcome
-172,174,439035,Otosclerosis,outcome
 172,174,375292,Perforation of tympanic membrane,outcome
 172,174,78162,Peripheral vertigo,outcome
 172,174,437092,Physiological development failure,outcome
 172,174,253796,Pneumothorax,outcome
 172,174,4295261,Postmenopausal state,outcome
 172,174,4202045,Postviral fatigue syndrome,outcome
-172,174,433542,Precipitate labor,outcome
 172,174,4094448,Pregnancy test negative,outcome
-172,174,434319,Premature ejaculation,outcome
 172,174,439081,Premenstrual tension syndrome,outcome
 172,174,439790,Psychalgia,outcome
-172,174,440068,Psychosexual dysfunction,outcome
 172,174,435028,Puerperal pyrexia of unknown origin,outcome
 172,174,4245252,Raised prostate specific antigen,outcome
 172,174,436246,Reduced libido,outcome
 172,174,45772079,Retinopathy of prematurity stage 0,outcome
 172,174,436828,Saliva abnormal,outcome
-172,174,435088,Senility,outcome
 172,174,4233565,Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight),outcome
 172,174,4250163,Sexual arousal disorder,outcome
 172,174,4096999,Short rib,outcome
@@ -1905,7 +1582,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,174,443172,"Splinter of face, without major open wound",outcome
 172,174,443082,Starvation,outcome
 172,174,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
-172,174,135852,Teething syndrome,outcome
 172,174,433244,Tooth loss,outcome
 172,174,4029731,Trimethylaminuria,outcome
 172,174,40482801,Type II diabetes mellitus uncontrolled,outcome
@@ -1932,10 +1608,7 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,174,443585,Abrasion and/or friction burn of multiple sites,outcome
 172,174,44783954,Acid reflux,outcome
 172,174,380818,Acquired deformity of head,outcome
-172,174,31668,Acquired deformity of neck,outcome
-172,174,4319325,Acquired deformity of trunk,outcome
 172,174,432411,Acquired equinus deformity of foot,outcome
-172,174,439673,Acute hepatitis B with delta-agent (coinfection) without hepatic coma,outcome
 172,174,441481,Adult victim of abuse,outcome
 172,174,435720,Adverse anesthesia outcome,outcome
 172,174,4218106,Alcoholism,outcome
@@ -1947,14 +1620,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,174,4171556,Ankle ulcer,outcome
 172,174,45757682,Anomaly of jaw size,outcome
 172,174,4060259,Antenatal amniocentesis - abnormal,outcome
-172,174,4061157,Antenatal ultrasound scan abnormal,outcome
 172,174,77650,Aseptic necrosis of bone,outcome
 172,174,439237,Assault,outcome
 172,174,76744,Azoospermia,outcome
-172,174,433813,Bladder neck obstruction,outcome
-172,174,436230,Blood chemistry abnormal,outcome
 172,174,256449,Bronchiectasis,outcome
-172,174,79232,Burn of ankle,outcome
 172,174,134765,Cachexia,outcome
 172,174,4172458,Candidiasis of skin,outcome
 172,174,4228429,Carnitine deficiency,outcome
@@ -1962,7 +1631,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,174,4213540,Cervical somatic dysfunction,outcome
 172,174,443570,Cervicovaginal cytology: Low grade squamous intraepithelial lesion,outcome
 172,174,439674,Chronic viral hepatitis B without delta-agent,outcome
-172,174,4201390,Colostomy present,outcome
 172,174,134734,Compartment syndrome,outcome
 172,174,46269889,Complication due to Crohn's disease,outcome
 172,174,434675,Complication of gastrostomy,outcome
@@ -1971,34 +1639,24 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,174,80492,Contracture of knee joint,outcome
 172,174,199978,Contusion of lower limb,outcome
 172,174,433071,Contusion of multiple sites,outcome
-172,174,4022071,Convalescence,outcome
 172,174,432729,Crying infant,outcome
 172,174,75389,Current tear of lateral cartilage AND/OR meniscus of knee,outcome
 172,174,80242,Current tear of medial cartilage AND/OR meniscus of knee,outcome
 172,174,73575,Deformity of toe,outcome
-172,174,436233,Delayed milestone,outcome
 172,174,443737,Dental restoration lost,outcome
 172,174,438183,Denture occlusion incorrect,outcome
 172,174,438759,Descemet's membrane fold,outcome
-172,174,4101282,Dietary selenium deficiency,outcome
 172,174,4115402,Difficulty sleeping,outcome
 172,174,4019971,Discord in school,outcome
 172,174,436906,Disease caused by rickettsiae,outcome
-172,174,4135080,Dislocation of radial head,outcome
 172,174,201091,Disproportion - major pelvic abnormality,outcome
 172,174,372329,Dissociated deviation,outcome
 172,174,4155818,Does climb,outcome
 172,174,4196636,Dysarthria,outcome
-172,174,78834,Effusion of joint of hand,outcome
-172,174,4247710,Effusion of joint of pelvic region,outcome
 172,174,72407,Effusion of joint of shoulder region,outcome
 172,174,439791,Emotional upset,outcome
-172,174,4029271,Essential fatty acid deficiency,outcome
-172,174,197607,Excessive and frequent menstruation,outcome
-172,174,439128,Extreme prematurity of infant,outcome
 172,174,4092896,Feces contents abnormal,outcome
 172,174,4182437,Female genital cutting,outcome
-172,174,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
 172,174,4229403,Flat anterior chamber of eye,outcome
 172,174,4069540,Flexion deformity of knee,outcome
 172,174,374801,Foreign body in ear,outcome
@@ -2017,14 +1675,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,174,441829,Hyperosmolality and or hypernatremia,outcome
 172,174,74731,Hypertrophic osteoarthropathy,outcome
 172,174,440129,Hypertrophy of nasal turbinates,outcome
-172,174,435522,Hypervitaminosis D,outcome
-172,174,4024266,Hypocupremia,outcome
-172,174,437390,Hypoxemia,outcome
 172,174,443447,Iatrogenic hypotension,outcome
 172,174,4344500,Impingement syndrome of shoulder region,outcome
 172,174,4090353,Incompetent urethral closure mechanism,outcome
 172,174,434485,Increase in body fat,outcome
-172,174,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
 172,174,434872,Infection by Trichomonas,outcome
 172,174,4057662,Infestation by Phthirus,outcome
 172,174,440053,Infestation by insect,outcome
@@ -2036,21 +1690,16 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,174,72404,Joint stiffness,outcome
 172,174,435903,Juvenile osteochondrosis of foot,outcome
 172,174,438527,"Juvenile osteochondrosis of lower extremity, excluding foot",outcome
-172,174,435633,Juvenile osteochondrosis of upper extremity,outcome
 172,174,4115991,Knee joint effusion,outcome
 172,174,4093346,Large prostate,outcome
 172,174,133088,Late amputation stump complication,outcome
 172,174,4228331,Leukokeratosis nicotina palati,outcome
 172,174,377873,Lid lag,outcome
-172,174,4027782,Lipid storage disease,outcome
 172,174,4297984,Local infection of wound,outcome
 172,174,4083487,Macular drusen,outcome
-172,174,438067,Malaria,outcome
 172,174,4051630,Malingering,outcome
 172,174,436426,Malleus mobility reduced,outcome
 172,174,44783760,Mammographic calcification of breast,outcome
-172,174,438297,"Mechanical complication of cardiac device, implant AND/OR graft",outcome
-172,174,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
 172,174,439082,Menopausal syndrome,outcome
 172,174,436940,Metabolic syndrome X,outcome
 172,174,45757258,Minimal keratinized residual ridge mucosa,outcome
@@ -2058,7 +1707,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,174,137967,"Muscle, ligament and fascia disorders",outcome
 172,174,134315,Myelophthisis,outcome
 172,174,4195085,Nasal congestion,outcome
-172,174,4209423,Nicotine dependence,outcome
 172,174,4035269,Non-ketotic hyperglycinemia,outcome
 172,174,434016,"Nondependent opioid abuse, continuous",outcome
 172,174,201792,Nongonococcal urethritis,outcome
@@ -2076,9 +1724,7 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,174,4051004,Open wound of scalp,outcome
 172,174,4129404,Open wound of upper arm,outcome
 172,174,315361,Orthopnea,outcome
-172,174,437359,Osteochondritis dissecans,outcome
 172,174,378160,Otorrhea,outcome
-172,174,439035,Otosclerosis,outcome
 172,174,77356,Pathological dislocation of joint,outcome
 172,174,375292,Perforation of tympanic membrane,outcome
 172,174,78162,Peripheral vertigo,outcome
@@ -2086,22 +1732,18 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,174,253796,Pneumothorax,outcome
 172,174,4295261,Postmenopausal state,outcome
 172,174,4202045,Postviral fatigue syndrome,outcome
-172,174,433542,Precipitate labor,outcome
 172,174,4094448,Pregnancy test negative,outcome
-172,174,434319,Premature ejaculation,outcome
 172,174,198715,Premature menopause,outcome
 172,174,439081,Premenstrual tension syndrome,outcome
 172,174,199876,Prolapse of female genital organs,outcome
 172,174,4295888,Prolapse of intestine,outcome
 172,174,194997,Prostatitis,outcome
 172,174,439790,Psychalgia,outcome
-172,174,440068,Psychosexual dysfunction,outcome
 172,174,435028,Puerperal pyrexia of unknown origin,outcome
 172,174,4245252,Raised prostate specific antigen,outcome
 172,174,436246,Reduced libido,outcome
 172,174,45772079,Retinopathy of prematurity stage 0,outcome
 172,174,436828,Saliva abnormal,outcome
-172,174,435088,Senility,outcome
 172,174,4233565,Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight),outcome
 172,174,4250163,Sexual arousal disorder,outcome
 172,174,4096999,Short rib,outcome
@@ -2113,13 +1755,11 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,174,443172,"Splinter of face, without major open wound",outcome
 172,174,443082,Starvation,outcome
 172,174,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
-172,174,135852,Teething syndrome,outcome
 172,174,4195698,Tenosynovitis,outcome
 172,174,80946,Tinea manus,outcome
 172,174,4163280,Tinea of perianal region,outcome
 172,174,133141,Tinea pedis,outcome
 172,174,433244,Tooth loss,outcome
-172,174,440268,Toxic effect of carbon monoxide,outcome
 172,174,4029731,Trimethylaminuria,outcome
 172,174,40482801,Type II diabetes mellitus uncontrolled,outcome
 172,174,74719,Ulcer of foot,outcome
@@ -2148,34 +1788,26 @@ targetId,comparatorId,outcomeId,outcomeName,type
 175,176,436409,Abnormal pupil,outcome
 175,176,443702,Abnormal response to nerve stimulation,outcome
 175,176,44783954,Acid reflux,outcome
-175,176,4319325,Acquired deformity of trunk,outcome
 175,176,435720,Adverse anesthesia outcome,outcome
 175,176,4254371,Altered growth and development,outcome
 175,176,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
 175,176,45757682,Anomaly of jaw size,outcome
 175,176,4060259,Antenatal amniocentesis - abnormal,outcome
-175,176,4061157,Antenatal ultrasound scan abnormal,outcome
 175,176,76744,Azoospermia,outcome
-175,176,433813,Bladder neck obstruction,outcome
-175,176,436230,Blood chemistry abnormal,outcome
 175,176,256449,Bronchiectasis,outcome
 175,176,134765,Cachexia,outcome
 175,176,4228429,Carnitine deficiency,outcome
 175,176,42709838,Cellulitis of lower limb,outcome
 175,176,4213540,Cervical somatic dysfunction,outcome
 175,176,443570,Cervicovaginal cytology: Low grade squamous intraepithelial lesion,outcome
-175,176,4201390,Colostomy present,outcome
 175,176,46269889,Complication due to Crohn's disease,outcome
 175,176,434675,Complication of gastrostomy,outcome
 175,176,438624,Complication of renal dialysis,outcome
 175,176,80492,Contracture of knee joint,outcome
-175,176,4022071,Convalescence,outcome
 175,176,432729,Crying infant,outcome
-175,176,436233,Delayed milestone,outcome
 175,176,443737,Dental restoration lost,outcome
 175,176,438183,Denture occlusion incorrect,outcome
 175,176,438759,Descemet's membrane fold,outcome
-175,176,4101282,Dietary selenium deficiency,outcome
 175,176,4115402,Difficulty sleeping,outcome
 175,176,4019971,Discord in school,outcome
 175,176,201091,Disproportion - major pelvic abnormality,outcome
@@ -2183,11 +1815,8 @@ targetId,comparatorId,outcomeId,outcomeName,type
 175,176,4155818,Does climb,outcome
 175,176,4196636,Dysarthria,outcome
 175,176,439791,Emotional upset,outcome
-175,176,4029271,Essential fatty acid deficiency,outcome
-175,176,439128,Extreme prematurity of infant,outcome
 175,176,4092896,Feces contents abnormal,outcome
 175,176,4182437,Female genital cutting,outcome
-175,176,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
 175,176,4229403,Flat anterior chamber of eye,outcome
 175,176,4069540,Flexion deformity of knee,outcome
 175,176,374801,Foreign body in ear,outcome
@@ -2198,14 +1827,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 175,176,440329,Herpes zoster without complication,outcome
 175,176,441829,Hyperosmolality and or hypernatremia,outcome
 175,176,440129,Hypertrophy of nasal turbinates,outcome
-175,176,435522,Hypervitaminosis D,outcome
-175,176,4024266,Hypocupremia,outcome
-175,176,437390,Hypoxemia,outcome
 175,176,443447,Iatrogenic hypotension,outcome
 175,176,4344500,Impingement syndrome of shoulder region,outcome
 175,176,4090353,Incompetent urethral closure mechanism,outcome
 175,176,434485,Increase in body fat,outcome
-175,176,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
 175,176,434872,Infection by Trichomonas,outcome
 175,176,440053,Infestation by insect,outcome
 175,176,442120,Injection site extravasation,outcome
@@ -2216,42 +1841,34 @@ targetId,comparatorId,outcomeId,outcomeName,type
 175,176,133088,Late amputation stump complication,outcome
 175,176,4228331,Leukokeratosis nicotina palati,outcome
 175,176,377873,Lid lag,outcome
-175,176,4027782,Lipid storage disease,outcome
 175,176,4083487,Macular drusen,outcome
 175,176,4051630,Malingering,outcome
 175,176,436426,Malleus mobility reduced,outcome
 175,176,44783760,Mammographic calcification of breast,outcome
-175,176,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
 175,176,439082,Menopausal syndrome,outcome
 175,176,436940,Metabolic syndrome X,outcome
 175,176,45757258,Minimal keratinized residual ridge mucosa,outcome
 175,176,40480000,Multiple complications due to diabetes mellitus,outcome
 175,176,134315,Myelophthisis,outcome
 175,176,4195085,Nasal congestion,outcome
-175,176,4209423,Nicotine dependence,outcome
 175,176,434016,"Nondependent opioid abuse, continuous",outcome
 175,176,4035269,Non-ketotic hyperglycinemia,outcome
 175,176,40480893,Nonspecific tuberculin test reaction,outcome
 175,176,198802,Occlusion of ureter,outcome
-175,176,439035,Otosclerosis,outcome
 175,176,375292,Perforation of tympanic membrane,outcome
 175,176,78162,Peripheral vertigo,outcome
 175,176,437092,Physiological development failure,outcome
 175,176,253796,Pneumothorax,outcome
 175,176,4295261,Postmenopausal state,outcome
 175,176,4202045,Postviral fatigue syndrome,outcome
-175,176,433542,Precipitate labor,outcome
 175,176,4094448,Pregnancy test negative,outcome
-175,176,434319,Premature ejaculation,outcome
 175,176,439081,Premenstrual tension syndrome,outcome
 175,176,439790,Psychalgia,outcome
-175,176,440068,Psychosexual dysfunction,outcome
 175,176,435028,Puerperal pyrexia of unknown origin,outcome
 175,176,4245252,Raised prostate specific antigen,outcome
 175,176,436246,Reduced libido,outcome
 175,176,45772079,Retinopathy of prematurity stage 0,outcome
 175,176,436828,Saliva abnormal,outcome
-175,176,435088,Senility,outcome
 175,176,4233565,Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight),outcome
 175,176,4250163,Sexual arousal disorder,outcome
 175,176,4096999,Short rib,outcome
@@ -2262,7 +1879,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 175,176,443172,"Splinter of face, without major open wound",outcome
 175,176,443082,Starvation,outcome
 175,176,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
-175,176,135852,Teething syndrome,outcome
 175,176,433244,Tooth loss,outcome
 175,176,4029731,Trimethylaminuria,outcome
 175,176,40482801,Type II diabetes mellitus uncontrolled,outcome
@@ -2289,10 +1905,7 @@ targetId,comparatorId,outcomeId,outcomeName,type
 175,176,443585,Abrasion and/or friction burn of multiple sites,outcome
 175,176,44783954,Acid reflux,outcome
 175,176,380818,Acquired deformity of head,outcome
-175,176,31668,Acquired deformity of neck,outcome
-175,176,4319325,Acquired deformity of trunk,outcome
 175,176,432411,Acquired equinus deformity of foot,outcome
-175,176,439673,Acute hepatitis B with delta-agent (coinfection) without hepatic coma,outcome
 175,176,441481,Adult victim of abuse,outcome
 175,176,435720,Adverse anesthesia outcome,outcome
 175,176,4218106,Alcoholism,outcome
@@ -2304,14 +1917,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 175,176,4171556,Ankle ulcer,outcome
 175,176,45757682,Anomaly of jaw size,outcome
 175,176,4060259,Antenatal amniocentesis - abnormal,outcome
-175,176,4061157,Antenatal ultrasound scan abnormal,outcome
 175,176,77650,Aseptic necrosis of bone,outcome
 175,176,439237,Assault,outcome
 175,176,76744,Azoospermia,outcome
-175,176,433813,Bladder neck obstruction,outcome
-175,176,436230,Blood chemistry abnormal,outcome
 175,176,256449,Bronchiectasis,outcome
-175,176,79232,Burn of ankle,outcome
 175,176,134765,Cachexia,outcome
 175,176,4172458,Candidiasis of skin,outcome
 175,176,4228429,Carnitine deficiency,outcome
@@ -2319,7 +1928,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 175,176,4213540,Cervical somatic dysfunction,outcome
 175,176,443570,Cervicovaginal cytology: Low grade squamous intraepithelial lesion,outcome
 175,176,439674,Chronic viral hepatitis B without delta-agent,outcome
-175,176,4201390,Colostomy present,outcome
 175,176,134734,Compartment syndrome,outcome
 175,176,46269889,Complication due to Crohn's disease,outcome
 175,176,434675,Complication of gastrostomy,outcome
@@ -2328,34 +1936,24 @@ targetId,comparatorId,outcomeId,outcomeName,type
 175,176,80492,Contracture of knee joint,outcome
 175,176,199978,Contusion of lower limb,outcome
 175,176,433071,Contusion of multiple sites,outcome
-175,176,4022071,Convalescence,outcome
 175,176,432729,Crying infant,outcome
 175,176,75389,Current tear of lateral cartilage AND/OR meniscus of knee,outcome
 175,176,80242,Current tear of medial cartilage AND/OR meniscus of knee,outcome
 175,176,73575,Deformity of toe,outcome
-175,176,436233,Delayed milestone,outcome
 175,176,443737,Dental restoration lost,outcome
 175,176,438183,Denture occlusion incorrect,outcome
 175,176,438759,Descemet's membrane fold,outcome
-175,176,4101282,Dietary selenium deficiency,outcome
 175,176,4115402,Difficulty sleeping,outcome
 175,176,4019971,Discord in school,outcome
 175,176,436906,Disease caused by rickettsiae,outcome
-175,176,4135080,Dislocation of radial head,outcome
 175,176,201091,Disproportion - major pelvic abnormality,outcome
 175,176,372329,Dissociated deviation,outcome
 175,176,4155818,Does climb,outcome
 175,176,4196636,Dysarthria,outcome
-175,176,78834,Effusion of joint of hand,outcome
-175,176,4247710,Effusion of joint of pelvic region,outcome
 175,176,72407,Effusion of joint of shoulder region,outcome
 175,176,439791,Emotional upset,outcome
-175,176,4029271,Essential fatty acid deficiency,outcome
-175,176,197607,Excessive and frequent menstruation,outcome
-175,176,439128,Extreme prematurity of infant,outcome
 175,176,4092896,Feces contents abnormal,outcome
 175,176,4182437,Female genital cutting,outcome
-175,176,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
 175,176,4229403,Flat anterior chamber of eye,outcome
 175,176,4069540,Flexion deformity of knee,outcome
 175,176,374801,Foreign body in ear,outcome
@@ -2374,14 +1972,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 175,176,441829,Hyperosmolality and or hypernatremia,outcome
 175,176,74731,Hypertrophic osteoarthropathy,outcome
 175,176,440129,Hypertrophy of nasal turbinates,outcome
-175,176,435522,Hypervitaminosis D,outcome
-175,176,4024266,Hypocupremia,outcome
-175,176,437390,Hypoxemia,outcome
 175,176,443447,Iatrogenic hypotension,outcome
 175,176,4344500,Impingement syndrome of shoulder region,outcome
 175,176,4090353,Incompetent urethral closure mechanism,outcome
 175,176,434485,Increase in body fat,outcome
-175,176,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
 175,176,434872,Infection by Trichomonas,outcome
 175,176,4057662,Infestation by Phthirus,outcome
 175,176,440053,Infestation by insect,outcome
@@ -2393,21 +1987,16 @@ targetId,comparatorId,outcomeId,outcomeName,type
 175,176,72404,Joint stiffness,outcome
 175,176,435903,Juvenile osteochondrosis of foot,outcome
 175,176,438527,"Juvenile osteochondrosis of lower extremity, excluding foot",outcome
-175,176,435633,Juvenile osteochondrosis of upper extremity,outcome
 175,176,4115991,Knee joint effusion,outcome
 175,176,4093346,Large prostate,outcome
 175,176,133088,Late amputation stump complication,outcome
 175,176,4228331,Leukokeratosis nicotina palati,outcome
 175,176,377873,Lid lag,outcome
-175,176,4027782,Lipid storage disease,outcome
 175,176,4297984,Local infection of wound,outcome
 175,176,4083487,Macular drusen,outcome
-175,176,438067,Malaria,outcome
 175,176,4051630,Malingering,outcome
 175,176,436426,Malleus mobility reduced,outcome
 175,176,44783760,Mammographic calcification of breast,outcome
-175,176,438297,"Mechanical complication of cardiac device, implant AND/OR graft",outcome
-175,176,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
 175,176,439082,Menopausal syndrome,outcome
 175,176,436940,Metabolic syndrome X,outcome
 175,176,45757258,Minimal keratinized residual ridge mucosa,outcome
@@ -2415,7 +2004,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 175,176,137967,"Muscle, ligament and fascia disorders",outcome
 175,176,134315,Myelophthisis,outcome
 175,176,4195085,Nasal congestion,outcome
-175,176,4209423,Nicotine dependence,outcome
 175,176,4035269,Non-ketotic hyperglycinemia,outcome
 175,176,434016,"Nondependent opioid abuse, continuous",outcome
 175,176,201792,Nongonococcal urethritis,outcome
@@ -2433,9 +2021,7 @@ targetId,comparatorId,outcomeId,outcomeName,type
 175,176,4051004,Open wound of scalp,outcome
 175,176,4129404,Open wound of upper arm,outcome
 175,176,315361,Orthopnea,outcome
-175,176,437359,Osteochondritis dissecans,outcome
 175,176,378160,Otorrhea,outcome
-175,176,439035,Otosclerosis,outcome
 175,176,77356,Pathological dislocation of joint,outcome
 175,176,375292,Perforation of tympanic membrane,outcome
 175,176,78162,Peripheral vertigo,outcome
@@ -2443,22 +2029,18 @@ targetId,comparatorId,outcomeId,outcomeName,type
 175,176,253796,Pneumothorax,outcome
 175,176,4295261,Postmenopausal state,outcome
 175,176,4202045,Postviral fatigue syndrome,outcome
-175,176,433542,Precipitate labor,outcome
 175,176,4094448,Pregnancy test negative,outcome
-175,176,434319,Premature ejaculation,outcome
 175,176,198715,Premature menopause,outcome
 175,176,439081,Premenstrual tension syndrome,outcome
 175,176,199876,Prolapse of female genital organs,outcome
 175,176,4295888,Prolapse of intestine,outcome
 175,176,194997,Prostatitis,outcome
 175,176,439790,Psychalgia,outcome
-175,176,440068,Psychosexual dysfunction,outcome
 175,176,435028,Puerperal pyrexia of unknown origin,outcome
 175,176,4245252,Raised prostate specific antigen,outcome
 175,176,436246,Reduced libido,outcome
 175,176,45772079,Retinopathy of prematurity stage 0,outcome
 175,176,436828,Saliva abnormal,outcome
-175,176,435088,Senility,outcome
 175,176,4233565,Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight),outcome
 175,176,4250163,Sexual arousal disorder,outcome
 175,176,4096999,Short rib,outcome
@@ -2470,13 +2052,11 @@ targetId,comparatorId,outcomeId,outcomeName,type
 175,176,443172,"Splinter of face, without major open wound",outcome
 175,176,443082,Starvation,outcome
 175,176,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
-175,176,135852,Teething syndrome,outcome
 175,176,4195698,Tenosynovitis,outcome
 175,176,80946,Tinea manus,outcome
 175,176,4163280,Tinea of perianal region,outcome
 175,176,133141,Tinea pedis,outcome
 175,176,433244,Tooth loss,outcome
-175,176,440268,Toxic effect of carbon monoxide,outcome
 175,176,4029731,Trimethylaminuria,outcome
 175,176,40482801,Type II diabetes mellitus uncontrolled,outcome
 175,176,74719,Ulcer of foot,outcome
@@ -2505,34 +2085,26 @@ targetId,comparatorId,outcomeId,outcomeName,type
 177,178,436409,Abnormal pupil,outcome
 177,178,443702,Abnormal response to nerve stimulation,outcome
 177,178,44783954,Acid reflux,outcome
-177,178,4319325,Acquired deformity of trunk,outcome
 177,178,435720,Adverse anesthesia outcome,outcome
 177,178,4254371,Altered growth and development,outcome
 177,178,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
 177,178,45757682,Anomaly of jaw size,outcome
 177,178,4060259,Antenatal amniocentesis - abnormal,outcome
-177,178,4061157,Antenatal ultrasound scan abnormal,outcome
 177,178,76744,Azoospermia,outcome
-177,178,433813,Bladder neck obstruction,outcome
-177,178,436230,Blood chemistry abnormal,outcome
 177,178,256449,Bronchiectasis,outcome
 177,178,134765,Cachexia,outcome
 177,178,4228429,Carnitine deficiency,outcome
 177,178,42709838,Cellulitis of lower limb,outcome
 177,178,4213540,Cervical somatic dysfunction,outcome
 177,178,443570,Cervicovaginal cytology: Low grade squamous intraepithelial lesion,outcome
-177,178,4201390,Colostomy present,outcome
 177,178,46269889,Complication due to Crohn's disease,outcome
 177,178,434675,Complication of gastrostomy,outcome
 177,178,438624,Complication of renal dialysis,outcome
 177,178,80492,Contracture of knee joint,outcome
-177,178,4022071,Convalescence,outcome
 177,178,432729,Crying infant,outcome
-177,178,436233,Delayed milestone,outcome
 177,178,443737,Dental restoration lost,outcome
 177,178,438183,Denture occlusion incorrect,outcome
 177,178,438759,Descemet's membrane fold,outcome
-177,178,4101282,Dietary selenium deficiency,outcome
 177,178,4115402,Difficulty sleeping,outcome
 177,178,4019971,Discord in school,outcome
 177,178,201091,Disproportion - major pelvic abnormality,outcome
@@ -2540,11 +2112,8 @@ targetId,comparatorId,outcomeId,outcomeName,type
 177,178,4155818,Does climb,outcome
 177,178,4196636,Dysarthria,outcome
 177,178,439791,Emotional upset,outcome
-177,178,4029271,Essential fatty acid deficiency,outcome
-177,178,439128,Extreme prematurity of infant,outcome
 177,178,4092896,Feces contents abnormal,outcome
 177,178,4182437,Female genital cutting,outcome
-177,178,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
 177,178,4229403,Flat anterior chamber of eye,outcome
 177,178,4069540,Flexion deformity of knee,outcome
 177,178,374801,Foreign body in ear,outcome
@@ -2555,14 +2124,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 177,178,440329,Herpes zoster without complication,outcome
 177,178,441829,Hyperosmolality and or hypernatremia,outcome
 177,178,440129,Hypertrophy of nasal turbinates,outcome
-177,178,435522,Hypervitaminosis D,outcome
-177,178,4024266,Hypocupremia,outcome
-177,178,437390,Hypoxemia,outcome
 177,178,443447,Iatrogenic hypotension,outcome
 177,178,4344500,Impingement syndrome of shoulder region,outcome
 177,178,4090353,Incompetent urethral closure mechanism,outcome
 177,178,434485,Increase in body fat,outcome
-177,178,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
 177,178,434872,Infection by Trichomonas,outcome
 177,178,440053,Infestation by insect,outcome
 177,178,442120,Injection site extravasation,outcome
@@ -2573,42 +2138,34 @@ targetId,comparatorId,outcomeId,outcomeName,type
 177,178,133088,Late amputation stump complication,outcome
 177,178,4228331,Leukokeratosis nicotina palati,outcome
 177,178,377873,Lid lag,outcome
-177,178,4027782,Lipid storage disease,outcome
 177,178,4083487,Macular drusen,outcome
 177,178,4051630,Malingering,outcome
 177,178,436426,Malleus mobility reduced,outcome
 177,178,44783760,Mammographic calcification of breast,outcome
-177,178,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
 177,178,439082,Menopausal syndrome,outcome
 177,178,436940,Metabolic syndrome X,outcome
 177,178,45757258,Minimal keratinized residual ridge mucosa,outcome
 177,178,40480000,Multiple complications due to diabetes mellitus,outcome
 177,178,134315,Myelophthisis,outcome
 177,178,4195085,Nasal congestion,outcome
-177,178,4209423,Nicotine dependence,outcome
 177,178,434016,"Nondependent opioid abuse, continuous",outcome
 177,178,4035269,Non-ketotic hyperglycinemia,outcome
 177,178,40480893,Nonspecific tuberculin test reaction,outcome
 177,178,198802,Occlusion of ureter,outcome
-177,178,439035,Otosclerosis,outcome
 177,178,375292,Perforation of tympanic membrane,outcome
 177,178,78162,Peripheral vertigo,outcome
 177,178,437092,Physiological development failure,outcome
 177,178,253796,Pneumothorax,outcome
 177,178,4295261,Postmenopausal state,outcome
 177,178,4202045,Postviral fatigue syndrome,outcome
-177,178,433542,Precipitate labor,outcome
 177,178,4094448,Pregnancy test negative,outcome
-177,178,434319,Premature ejaculation,outcome
 177,178,439081,Premenstrual tension syndrome,outcome
 177,178,439790,Psychalgia,outcome
-177,178,440068,Psychosexual dysfunction,outcome
 177,178,435028,Puerperal pyrexia of unknown origin,outcome
 177,178,4245252,Raised prostate specific antigen,outcome
 177,178,436246,Reduced libido,outcome
 177,178,45772079,Retinopathy of prematurity stage 0,outcome
 177,178,436828,Saliva abnormal,outcome
-177,178,435088,Senility,outcome
 177,178,4233565,Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight),outcome
 177,178,4250163,Sexual arousal disorder,outcome
 177,178,4096999,Short rib,outcome
@@ -2619,7 +2176,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 177,178,443172,"Splinter of face, without major open wound",outcome
 177,178,443082,Starvation,outcome
 177,178,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
-177,178,135852,Teething syndrome,outcome
 177,178,433244,Tooth loss,outcome
 177,178,4029731,Trimethylaminuria,outcome
 177,178,40482801,Type II diabetes mellitus uncontrolled,outcome
@@ -2646,10 +2202,7 @@ targetId,comparatorId,outcomeId,outcomeName,type
 177,178,443585,Abrasion and/or friction burn of multiple sites,outcome
 177,178,44783954,Acid reflux,outcome
 177,178,380818,Acquired deformity of head,outcome
-177,178,31668,Acquired deformity of neck,outcome
-177,178,4319325,Acquired deformity of trunk,outcome
 177,178,432411,Acquired equinus deformity of foot,outcome
-177,178,439673,Acute hepatitis B with delta-agent (coinfection) without hepatic coma,outcome
 177,178,441481,Adult victim of abuse,outcome
 177,178,435720,Adverse anesthesia outcome,outcome
 177,178,4218106,Alcoholism,outcome
@@ -2661,14 +2214,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 177,178,4171556,Ankle ulcer,outcome
 177,178,45757682,Anomaly of jaw size,outcome
 177,178,4060259,Antenatal amniocentesis - abnormal,outcome
-177,178,4061157,Antenatal ultrasound scan abnormal,outcome
 177,178,77650,Aseptic necrosis of bone,outcome
 177,178,439237,Assault,outcome
 177,178,76744,Azoospermia,outcome
-177,178,433813,Bladder neck obstruction,outcome
-177,178,436230,Blood chemistry abnormal,outcome
 177,178,256449,Bronchiectasis,outcome
-177,178,79232,Burn of ankle,outcome
 177,178,134765,Cachexia,outcome
 177,178,4172458,Candidiasis of skin,outcome
 177,178,4228429,Carnitine deficiency,outcome
@@ -2676,7 +2225,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 177,178,4213540,Cervical somatic dysfunction,outcome
 177,178,443570,Cervicovaginal cytology: Low grade squamous intraepithelial lesion,outcome
 177,178,439674,Chronic viral hepatitis B without delta-agent,outcome
-177,178,4201390,Colostomy present,outcome
 177,178,134734,Compartment syndrome,outcome
 177,178,46269889,Complication due to Crohn's disease,outcome
 177,178,434675,Complication of gastrostomy,outcome
@@ -2685,34 +2233,24 @@ targetId,comparatorId,outcomeId,outcomeName,type
 177,178,80492,Contracture of knee joint,outcome
 177,178,199978,Contusion of lower limb,outcome
 177,178,433071,Contusion of multiple sites,outcome
-177,178,4022071,Convalescence,outcome
 177,178,432729,Crying infant,outcome
 177,178,75389,Current tear of lateral cartilage AND/OR meniscus of knee,outcome
 177,178,80242,Current tear of medial cartilage AND/OR meniscus of knee,outcome
 177,178,73575,Deformity of toe,outcome
-177,178,436233,Delayed milestone,outcome
 177,178,443737,Dental restoration lost,outcome
 177,178,438183,Denture occlusion incorrect,outcome
 177,178,438759,Descemet's membrane fold,outcome
-177,178,4101282,Dietary selenium deficiency,outcome
 177,178,4115402,Difficulty sleeping,outcome
 177,178,4019971,Discord in school,outcome
 177,178,436906,Disease caused by rickettsiae,outcome
-177,178,4135080,Dislocation of radial head,outcome
 177,178,201091,Disproportion - major pelvic abnormality,outcome
 177,178,372329,Dissociated deviation,outcome
 177,178,4155818,Does climb,outcome
 177,178,4196636,Dysarthria,outcome
-177,178,78834,Effusion of joint of hand,outcome
-177,178,4247710,Effusion of joint of pelvic region,outcome
 177,178,72407,Effusion of joint of shoulder region,outcome
 177,178,439791,Emotional upset,outcome
-177,178,4029271,Essential fatty acid deficiency,outcome
-177,178,197607,Excessive and frequent menstruation,outcome
-177,178,439128,Extreme prematurity of infant,outcome
 177,178,4092896,Feces contents abnormal,outcome
 177,178,4182437,Female genital cutting,outcome
-177,178,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
 177,178,4229403,Flat anterior chamber of eye,outcome
 177,178,4069540,Flexion deformity of knee,outcome
 177,178,374801,Foreign body in ear,outcome
@@ -2731,14 +2269,10 @@ targetId,comparatorId,outcomeId,outcomeName,type
 177,178,441829,Hyperosmolality and or hypernatremia,outcome
 177,178,74731,Hypertrophic osteoarthropathy,outcome
 177,178,440129,Hypertrophy of nasal turbinates,outcome
-177,178,435522,Hypervitaminosis D,outcome
-177,178,4024266,Hypocupremia,outcome
-177,178,437390,Hypoxemia,outcome
 177,178,443447,Iatrogenic hypotension,outcome
 177,178,4344500,Impingement syndrome of shoulder region,outcome
 177,178,4090353,Incompetent urethral closure mechanism,outcome
 177,178,434485,Increase in body fat,outcome
-177,178,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
 177,178,434872,Infection by Trichomonas,outcome
 177,178,4057662,Infestation by Phthirus,outcome
 177,178,440053,Infestation by insect,outcome
@@ -2750,21 +2284,16 @@ targetId,comparatorId,outcomeId,outcomeName,type
 177,178,72404,Joint stiffness,outcome
 177,178,435903,Juvenile osteochondrosis of foot,outcome
 177,178,438527,"Juvenile osteochondrosis of lower extremity, excluding foot",outcome
-177,178,435633,Juvenile osteochondrosis of upper extremity,outcome
 177,178,4115991,Knee joint effusion,outcome
 177,178,4093346,Large prostate,outcome
 177,178,133088,Late amputation stump complication,outcome
 177,178,4228331,Leukokeratosis nicotina palati,outcome
 177,178,377873,Lid lag,outcome
-177,178,4027782,Lipid storage disease,outcome
 177,178,4297984,Local infection of wound,outcome
 177,178,4083487,Macular drusen,outcome
-177,178,438067,Malaria,outcome
 177,178,4051630,Malingering,outcome
 177,178,436426,Malleus mobility reduced,outcome
 177,178,44783760,Mammographic calcification of breast,outcome
-177,178,438297,"Mechanical complication of cardiac device, implant AND/OR graft",outcome
-177,178,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
 177,178,439082,Menopausal syndrome,outcome
 177,178,436940,Metabolic syndrome X,outcome
 177,178,45757258,Minimal keratinized residual ridge mucosa,outcome
@@ -2772,7 +2301,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 177,178,137967,"Muscle, ligament and fascia disorders",outcome
 177,178,134315,Myelophthisis,outcome
 177,178,4195085,Nasal congestion,outcome
-177,178,4209423,Nicotine dependence,outcome
 177,178,4035269,Non-ketotic hyperglycinemia,outcome
 177,178,434016,"Nondependent opioid abuse, continuous",outcome
 177,178,201792,Nongonococcal urethritis,outcome
@@ -2790,9 +2318,7 @@ targetId,comparatorId,outcomeId,outcomeName,type
 177,178,4051004,Open wound of scalp,outcome
 177,178,4129404,Open wound of upper arm,outcome
 177,178,315361,Orthopnea,outcome
-177,178,437359,Osteochondritis dissecans,outcome
 177,178,378160,Otorrhea,outcome
-177,178,439035,Otosclerosis,outcome
 177,178,77356,Pathological dislocation of joint,outcome
 177,178,375292,Perforation of tympanic membrane,outcome
 177,178,78162,Peripheral vertigo,outcome
@@ -2800,22 +2326,18 @@ targetId,comparatorId,outcomeId,outcomeName,type
 177,178,253796,Pneumothorax,outcome
 177,178,4295261,Postmenopausal state,outcome
 177,178,4202045,Postviral fatigue syndrome,outcome
-177,178,433542,Precipitate labor,outcome
 177,178,4094448,Pregnancy test negative,outcome
-177,178,434319,Premature ejaculation,outcome
 177,178,198715,Premature menopause,outcome
 177,178,439081,Premenstrual tension syndrome,outcome
 177,178,199876,Prolapse of female genital organs,outcome
 177,178,4295888,Prolapse of intestine,outcome
 177,178,194997,Prostatitis,outcome
 177,178,439790,Psychalgia,outcome
-177,178,440068,Psychosexual dysfunction,outcome
 177,178,435028,Puerperal pyrexia of unknown origin,outcome
 177,178,4245252,Raised prostate specific antigen,outcome
 177,178,436246,Reduced libido,outcome
 177,178,45772079,Retinopathy of prematurity stage 0,outcome
 177,178,436828,Saliva abnormal,outcome
-177,178,435088,Senility,outcome
 177,178,4233565,Severe protein-calorie malnutrition (Gomez: less than 60% of standard weight),outcome
 177,178,4250163,Sexual arousal disorder,outcome
 177,178,4096999,Short rib,outcome
@@ -2827,13 +2349,11 @@ targetId,comparatorId,outcomeId,outcomeName,type
 177,178,443172,"Splinter of face, without major open wound",outcome
 177,178,443082,Starvation,outcome
 177,178,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
-177,178,135852,Teething syndrome,outcome
 177,178,4195698,Tenosynovitis,outcome
 177,178,80946,Tinea manus,outcome
 177,178,4163280,Tinea of perianal region,outcome
 177,178,133141,Tinea pedis,outcome
 177,178,433244,Tooth loss,outcome
-177,178,440268,Toxic effect of carbon monoxide,outcome
 177,178,4029731,Trimethylaminuria,outcome
 177,178,40482801,Type II diabetes mellitus uncontrolled,outcome
 177,178,74719,Ulcer of foot,outcome

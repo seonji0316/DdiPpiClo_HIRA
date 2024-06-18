@@ -17546,25 +17546,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4319325,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "95428004",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Acquired deformity of trunk",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 435720,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "405656000",
@@ -17647,44 +17628,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Azoospermia",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 433813,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "399072004",
-            "VALID_START_DATE": 1059609600000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Bladder neck obstruction",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 436230,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "166318006",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Blood chemistry abnormal",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -17812,25 +17755,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4201390,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "302112009",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Colostomy present",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 46269889,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "1085911000119103",
@@ -17888,50 +17812,12 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4022071,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "105499002",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Convalescence",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 432729,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "162214009",
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Crying infant",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 436233,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "274625009",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Delayed milestone",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -17989,25 +17875,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Descemet's membrane fold",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4101282,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "190660003",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Dietary selenium deficiency",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -18135,44 +18002,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4029271,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "238114000",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Essential fatty acid deficiency",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 439128,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "276658003",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Extreme prematurity of infant",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 4092896,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "249625002",
@@ -18198,25 +18027,6 @@
             "VALID_START_DATE": 1201737600000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Female genital cutting",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4118057,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "206038006",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Fetal or neonatal effect of maternal oligohydramnios",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -18401,63 +18211,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 435522,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "27712000",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Hypervitaminosis D",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4024266,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "19577007",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Hypocupremia",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 437390,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "389087006",
-            "VALID_START_DATE": 1043971200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Hypoxemia",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 443447,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "408668005",
@@ -18521,25 +18274,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Increase in body fat",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 440276,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "31871009",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -18743,25 +18477,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4027782,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "10741005",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Lipid storage disease",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 4083487,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "247154004",
@@ -18825,25 +18540,6 @@
             "VALID_START_DATE": 1391126400000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Mammographic calcification of breast",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 432798,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "5285008",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Mechanical complication of internal orthopedic device, implant AND/OR graft",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -18971,25 +18667,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4209423,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "56294008",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Nicotine dependence",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 434016,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "191912005",
@@ -19053,25 +18730,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Occlusion of ureter",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 439035,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "11543004",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Otosclerosis",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -19199,50 +18857,12 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 433542,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "51920004",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Precipitate labor",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 4094448,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "250425007",
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Pregnancy test negative",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 434319,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "44001008",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Premature ejaculation",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -19281,25 +18901,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Psychalgia",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 440068,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "268637002",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Psychosexual dysfunction",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -19395,25 +18996,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Saliva abnormal",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 435088,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "271873000",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Senility",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -19604,25 +19186,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Strain of supraspinatus muscle AND/OR tendon",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 135852,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "8004003",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Teething syndrome",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -19959,50 +19522,12 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 31668,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "72082009",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Acquired deformity of neck",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 432411,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "37718006",
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Acquired equinus deformity of foot",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 439673,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "186626002",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Acute hepatitis B with delta-agent (coinfection) without hepatic coma",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -20156,25 +19681,6 @@
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Assault",
             "DOMAIN_ID": "Observation",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 79232,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "40993007",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Burn of ankle",
-            "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
             "CONCEPT_CLASS_ID": "Clinical Finding",
@@ -20358,88 +19864,12 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4135080,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "263023008",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Dislocation of radial head",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 78834,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "16711001",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Effusion of joint of hand",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4247710,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "9363005",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Effusion of joint of pelvic region",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 72407,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "40884005",
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Effusion of joint of shoulder region",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 197607,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "266601003",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Excessive and frequent menstruation",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -20668,44 +20098,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Local infection of wound",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 438067,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "61462000",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Malaria",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 438297,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "75446001",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Mechanical complication of cardiac device, implant AND/OR graft",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -20985,25 +20377,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 437359,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "82562007",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Osteochondritis dissecans",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 378160,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "65668001",
@@ -21200,25 +20573,6 @@
             "VALID_START_DATE": 1012435200000,
             "VOCABULARY_ID": "SNOMED",
             "CONCEPT_NAME": "Tinea pedis",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 440268,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "17383000",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Toxic effect of carbon monoxide",
             "DOMAIN_ID": "Condition",
             "VALID_END_DATE": 4102358400000,
             "STANDARD_CONCEPT_CAPTION": "Standard",
@@ -22034,13 +21388,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Acquired deformity of trunk",
-      "comparatorId": 290,
-      "outcomeId": 4319325,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Adverse anesthesia outcome",
       "comparatorId": 290,
       "outcomeId": 435720,
@@ -22072,20 +21419,6 @@
       "outcomeName": "Azoospermia",
       "comparatorId": 290,
       "outcomeId": 76744,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Bladder neck obstruction",
-      "comparatorId": 290,
-      "outcomeId": 433813,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Blood chemistry abnormal",
-      "comparatorId": 290,
-      "outcomeId": 436230,
       "type": "outcome"
     },
     {
@@ -22132,13 +21465,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Colostomy present",
-      "comparatorId": 290,
-      "outcomeId": 4201390,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Complication due to Crohn's disease",
       "comparatorId": 290,
       "outcomeId": 46269889,
@@ -22160,23 +21486,9 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Convalescence",
-      "comparatorId": 290,
-      "outcomeId": 4022071,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Crying infant",
       "comparatorId": 290,
       "outcomeId": 432729,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Delayed milestone",
-      "comparatorId": 290,
-      "outcomeId": 436233,
       "type": "outcome"
     },
     {
@@ -22198,13 +21510,6 @@
       "outcomeName": "Descemet's membrane fold",
       "comparatorId": 290,
       "outcomeId": 438759,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Dietary selenium deficiency",
-      "comparatorId": 290,
-      "outcomeId": 4101282,
       "type": "outcome"
     },
     {
@@ -22251,20 +21556,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Essential fatty acid deficiency",
-      "comparatorId": 290,
-      "outcomeId": 4029271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Extreme prematurity of infant",
-      "comparatorId": 290,
-      "outcomeId": 439128,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Feces contents abnormal",
       "comparatorId": 290,
       "outcomeId": 4092896,
@@ -22275,13 +21566,6 @@
       "outcomeName": "Female genital cutting",
       "comparatorId": 290,
       "outcomeId": 4182437,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Fetal or neonatal effect of maternal oligohydramnios",
-      "comparatorId": 290,
-      "outcomeId": 4118057,
       "type": "outcome"
     },
     {
@@ -22349,27 +21633,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Hypervitaminosis D",
-      "comparatorId": 290,
-      "outcomeId": 435522,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Hypocupremia",
-      "comparatorId": 290,
-      "outcomeId": 4024266,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Hypoxemia",
-      "comparatorId": 290,
-      "outcomeId": 437390,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Iatrogenic hypotension",
       "comparatorId": 290,
       "outcomeId": 443447,
@@ -22394,13 +21657,6 @@
       "outcomeName": "Increase in body fat",
       "comparatorId": 290,
       "outcomeId": 434485,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",
-      "comparatorId": 290,
-      "outcomeId": 440276,
       "type": "outcome"
     },
     {
@@ -22475,13 +21731,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Lipid storage disease",
-      "comparatorId": 290,
-      "outcomeId": 4027782,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Macular drusen",
       "comparatorId": 290,
       "outcomeId": 4083487,
@@ -22506,13 +21755,6 @@
       "outcomeName": "Mammographic calcification of breast",
       "comparatorId": 290,
       "outcomeId": 44783760,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Mechanical complication of internal orthopedic device, implant AND/OR graft",
-      "comparatorId": 290,
-      "outcomeId": 432798,
       "type": "outcome"
     },
     {
@@ -22559,13 +21801,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Nicotine dependence",
-      "comparatorId": 290,
-      "outcomeId": 4209423,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Nondependent opioid abuse, continuous",
       "comparatorId": 290,
       "outcomeId": 434016,
@@ -22590,13 +21825,6 @@
       "outcomeName": "Occlusion of ureter",
       "comparatorId": 290,
       "outcomeId": 198802,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Otosclerosis",
-      "comparatorId": 290,
-      "outcomeId": 439035,
       "type": "outcome"
     },
     {
@@ -22643,23 +21871,9 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Precipitate labor",
-      "comparatorId": 290,
-      "outcomeId": 433542,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Pregnancy test negative",
       "comparatorId": 290,
       "outcomeId": 4094448,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Premature ejaculation",
-      "comparatorId": 290,
-      "outcomeId": 434319,
       "type": "outcome"
     },
     {
@@ -22674,13 +21888,6 @@
       "outcomeName": "Psychalgia",
       "comparatorId": 290,
       "outcomeId": 439790,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Psychosexual dysfunction",
-      "comparatorId": 290,
-      "outcomeId": 440068,
       "type": "outcome"
     },
     {
@@ -22716,13 +21923,6 @@
       "outcomeName": "Saliva abnormal",
       "comparatorId": 290,
       "outcomeId": 436828,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Senility",
-      "comparatorId": 290,
-      "outcomeId": 435088,
       "type": "outcome"
     },
     {
@@ -22793,13 +21993,6 @@
       "outcomeName": "Strain of supraspinatus muscle AND/OR tendon",
       "comparatorId": 290,
       "outcomeId": 440233,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Teething syndrome",
-      "comparatorId": 290,
-      "outcomeId": 135852,
       "type": "outcome"
     },
     {
@@ -22923,23 +22116,9 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Acquired deformity of neck",
-      "comparatorId": 290,
-      "outcomeId": 31668,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Acquired equinus deformity of foot",
       "comparatorId": 290,
       "outcomeId": 432411,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Acute hepatitis B with delta-agent (coinfection) without hepatic coma",
-      "comparatorId": 290,
-      "outcomeId": 439673,
       "type": "outcome"
     },
     {
@@ -22996,13 +22175,6 @@
       "outcomeName": "Assault",
       "comparatorId": 290,
       "outcomeId": 439237,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Burn of ankle",
-      "comparatorId": 290,
-      "outcomeId": 79232,
       "type": "outcome"
     },
     {
@@ -23070,37 +22242,9 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Dislocation of radial head",
-      "comparatorId": 290,
-      "outcomeId": 4135080,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Effusion of joint of hand",
-      "comparatorId": 290,
-      "outcomeId": 78834,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Effusion of joint of pelvic region",
-      "comparatorId": 290,
-      "outcomeId": 4247710,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Effusion of joint of shoulder region",
       "comparatorId": 290,
       "outcomeId": 72407,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Excessive and frequent menstruation",
-      "comparatorId": 290,
-      "outcomeId": 197607,
       "type": "outcome"
     },
     {
@@ -23185,20 +22329,6 @@
       "outcomeName": "Local infection of wound",
       "comparatorId": 290,
       "outcomeId": 4297984,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Malaria",
-      "comparatorId": 290,
-      "outcomeId": 438067,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Mechanical complication of cardiac device, implant AND/OR graft",
-      "comparatorId": 290,
-      "outcomeId": 438297,
       "type": "outcome"
     },
     {
@@ -23301,13 +22431,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Osteochondritis dissecans",
-      "comparatorId": 290,
-      "outcomeId": 437359,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Otorrhea",
       "comparatorId": 290,
       "outcomeId": 378160,
@@ -23381,13 +22504,6 @@
       "outcomeName": "Tinea pedis",
       "comparatorId": 290,
       "outcomeId": 133141,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Toxic effect of carbon monoxide",
-      "comparatorId": 290,
-      "outcomeId": 440268,
       "type": "outcome"
     },
     {
@@ -23483,13 +22599,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Acquired deformity of trunk",
-      "comparatorId": 291,
-      "outcomeId": 4319325,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Adverse anesthesia outcome",
       "comparatorId": 291,
       "outcomeId": 435720,
@@ -23521,20 +22630,6 @@
       "outcomeName": "Azoospermia",
       "comparatorId": 291,
       "outcomeId": 76744,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Bladder neck obstruction",
-      "comparatorId": 291,
-      "outcomeId": 433813,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Blood chemistry abnormal",
-      "comparatorId": 291,
-      "outcomeId": 436230,
       "type": "outcome"
     },
     {
@@ -23581,13 +22676,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Colostomy present",
-      "comparatorId": 291,
-      "outcomeId": 4201390,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Complication due to Crohn's disease",
       "comparatorId": 291,
       "outcomeId": 46269889,
@@ -23609,23 +22697,9 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Convalescence",
-      "comparatorId": 291,
-      "outcomeId": 4022071,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Crying infant",
       "comparatorId": 291,
       "outcomeId": 432729,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Delayed milestone",
-      "comparatorId": 291,
-      "outcomeId": 436233,
       "type": "outcome"
     },
     {
@@ -23647,13 +22721,6 @@
       "outcomeName": "Descemet's membrane fold",
       "comparatorId": 291,
       "outcomeId": 438759,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Dietary selenium deficiency",
-      "comparatorId": 291,
-      "outcomeId": 4101282,
       "type": "outcome"
     },
     {
@@ -23700,20 +22767,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Essential fatty acid deficiency",
-      "comparatorId": 291,
-      "outcomeId": 4029271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Extreme prematurity of infant",
-      "comparatorId": 291,
-      "outcomeId": 439128,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Feces contents abnormal",
       "comparatorId": 291,
       "outcomeId": 4092896,
@@ -23724,13 +22777,6 @@
       "outcomeName": "Female genital cutting",
       "comparatorId": 291,
       "outcomeId": 4182437,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Fetal or neonatal effect of maternal oligohydramnios",
-      "comparatorId": 291,
-      "outcomeId": 4118057,
       "type": "outcome"
     },
     {
@@ -23798,27 +22844,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Hypervitaminosis D",
-      "comparatorId": 291,
-      "outcomeId": 435522,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Hypocupremia",
-      "comparatorId": 291,
-      "outcomeId": 4024266,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Hypoxemia",
-      "comparatorId": 291,
-      "outcomeId": 437390,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Iatrogenic hypotension",
       "comparatorId": 291,
       "outcomeId": 443447,
@@ -23843,13 +22868,6 @@
       "outcomeName": "Increase in body fat",
       "comparatorId": 291,
       "outcomeId": 434485,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",
-      "comparatorId": 291,
-      "outcomeId": 440276,
       "type": "outcome"
     },
     {
@@ -23924,13 +22942,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Lipid storage disease",
-      "comparatorId": 291,
-      "outcomeId": 4027782,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Macular drusen",
       "comparatorId": 291,
       "outcomeId": 4083487,
@@ -23955,13 +22966,6 @@
       "outcomeName": "Mammographic calcification of breast",
       "comparatorId": 291,
       "outcomeId": 44783760,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Mechanical complication of internal orthopedic device, implant AND/OR graft",
-      "comparatorId": 291,
-      "outcomeId": 432798,
       "type": "outcome"
     },
     {
@@ -24008,13 +23012,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Nicotine dependence",
-      "comparatorId": 291,
-      "outcomeId": 4209423,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Nondependent opioid abuse, continuous",
       "comparatorId": 291,
       "outcomeId": 434016,
@@ -24039,13 +23036,6 @@
       "outcomeName": "Occlusion of ureter",
       "comparatorId": 291,
       "outcomeId": 198802,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Otosclerosis",
-      "comparatorId": 291,
-      "outcomeId": 439035,
       "type": "outcome"
     },
     {
@@ -24092,23 +23082,9 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Precipitate labor",
-      "comparatorId": 291,
-      "outcomeId": 433542,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Pregnancy test negative",
       "comparatorId": 291,
       "outcomeId": 4094448,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Premature ejaculation",
-      "comparatorId": 291,
-      "outcomeId": 434319,
       "type": "outcome"
     },
     {
@@ -24123,13 +23099,6 @@
       "outcomeName": "Psychalgia",
       "comparatorId": 291,
       "outcomeId": 439790,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Psychosexual dysfunction",
-      "comparatorId": 291,
-      "outcomeId": 440068,
       "type": "outcome"
     },
     {
@@ -24165,13 +23134,6 @@
       "outcomeName": "Saliva abnormal",
       "comparatorId": 291,
       "outcomeId": 436828,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Senility",
-      "comparatorId": 291,
-      "outcomeId": 435088,
       "type": "outcome"
     },
     {
@@ -24242,13 +23204,6 @@
       "outcomeName": "Strain of supraspinatus muscle AND/OR tendon",
       "comparatorId": 291,
       "outcomeId": 440233,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Teething syndrome",
-      "comparatorId": 291,
-      "outcomeId": 135852,
       "type": "outcome"
     },
     {
@@ -24372,23 +23327,9 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Acquired deformity of neck",
-      "comparatorId": 291,
-      "outcomeId": 31668,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Acquired equinus deformity of foot",
       "comparatorId": 291,
       "outcomeId": 432411,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Acute hepatitis B with delta-agent (coinfection) without hepatic coma",
-      "comparatorId": 291,
-      "outcomeId": 439673,
       "type": "outcome"
     },
     {
@@ -24445,13 +23386,6 @@
       "outcomeName": "Assault",
       "comparatorId": 291,
       "outcomeId": 439237,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Burn of ankle",
-      "comparatorId": 291,
-      "outcomeId": 79232,
       "type": "outcome"
     },
     {
@@ -24519,37 +23453,9 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Dislocation of radial head",
-      "comparatorId": 291,
-      "outcomeId": 4135080,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Effusion of joint of hand",
-      "comparatorId": 291,
-      "outcomeId": 78834,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Effusion of joint of pelvic region",
-      "comparatorId": 291,
-      "outcomeId": 4247710,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Effusion of joint of shoulder region",
       "comparatorId": 291,
       "outcomeId": 72407,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Excessive and frequent menstruation",
-      "comparatorId": 291,
-      "outcomeId": 197607,
       "type": "outcome"
     },
     {
@@ -24634,20 +23540,6 @@
       "outcomeName": "Local infection of wound",
       "comparatorId": 291,
       "outcomeId": 4297984,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Malaria",
-      "comparatorId": 291,
-      "outcomeId": 438067,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Mechanical complication of cardiac device, implant AND/OR graft",
-      "comparatorId": 291,
-      "outcomeId": 438297,
       "type": "outcome"
     },
     {
@@ -24750,13 +23642,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Osteochondritis dissecans",
-      "comparatorId": 291,
-      "outcomeId": 437359,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Otorrhea",
       "comparatorId": 291,
       "outcomeId": 378160,
@@ -24830,13 +23715,6 @@
       "outcomeName": "Tinea pedis",
       "comparatorId": 291,
       "outcomeId": 133141,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Toxic effect of carbon monoxide",
-      "comparatorId": 291,
-      "outcomeId": 440268,
       "type": "outcome"
     },
     {
@@ -24932,13 +23810,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Acquired deformity of trunk",
-      "comparatorId": 293,
-      "outcomeId": 4319325,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Adverse anesthesia outcome",
       "comparatorId": 293,
       "outcomeId": 435720,
@@ -24970,20 +23841,6 @@
       "outcomeName": "Azoospermia",
       "comparatorId": 293,
       "outcomeId": 76744,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Bladder neck obstruction",
-      "comparatorId": 293,
-      "outcomeId": 433813,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Blood chemistry abnormal",
-      "comparatorId": 293,
-      "outcomeId": 436230,
       "type": "outcome"
     },
     {
@@ -25030,13 +23887,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Colostomy present",
-      "comparatorId": 293,
-      "outcomeId": 4201390,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Complication due to Crohn's disease",
       "comparatorId": 293,
       "outcomeId": 46269889,
@@ -25058,23 +23908,9 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Convalescence",
-      "comparatorId": 293,
-      "outcomeId": 4022071,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Crying infant",
       "comparatorId": 293,
       "outcomeId": 432729,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Delayed milestone",
-      "comparatorId": 293,
-      "outcomeId": 436233,
       "type": "outcome"
     },
     {
@@ -25096,13 +23932,6 @@
       "outcomeName": "Descemet's membrane fold",
       "comparatorId": 293,
       "outcomeId": 438759,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Dietary selenium deficiency",
-      "comparatorId": 293,
-      "outcomeId": 4101282,
       "type": "outcome"
     },
     {
@@ -25149,20 +23978,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Essential fatty acid deficiency",
-      "comparatorId": 293,
-      "outcomeId": 4029271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Extreme prematurity of infant",
-      "comparatorId": 293,
-      "outcomeId": 439128,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Feces contents abnormal",
       "comparatorId": 293,
       "outcomeId": 4092896,
@@ -25173,13 +23988,6 @@
       "outcomeName": "Female genital cutting",
       "comparatorId": 293,
       "outcomeId": 4182437,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Fetal or neonatal effect of maternal oligohydramnios",
-      "comparatorId": 293,
-      "outcomeId": 4118057,
       "type": "outcome"
     },
     {
@@ -25247,27 +24055,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Hypervitaminosis D",
-      "comparatorId": 293,
-      "outcomeId": 435522,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Hypocupremia",
-      "comparatorId": 293,
-      "outcomeId": 4024266,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Hypoxemia",
-      "comparatorId": 293,
-      "outcomeId": 437390,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Iatrogenic hypotension",
       "comparatorId": 293,
       "outcomeId": 443447,
@@ -25292,13 +24079,6 @@
       "outcomeName": "Increase in body fat",
       "comparatorId": 293,
       "outcomeId": 434485,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",
-      "comparatorId": 293,
-      "outcomeId": 440276,
       "type": "outcome"
     },
     {
@@ -25373,13 +24153,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Lipid storage disease",
-      "comparatorId": 293,
-      "outcomeId": 4027782,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Macular drusen",
       "comparatorId": 293,
       "outcomeId": 4083487,
@@ -25404,13 +24177,6 @@
       "outcomeName": "Mammographic calcification of breast",
       "comparatorId": 293,
       "outcomeId": 44783760,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Mechanical complication of internal orthopedic device, implant AND/OR graft",
-      "comparatorId": 293,
-      "outcomeId": 432798,
       "type": "outcome"
     },
     {
@@ -25457,13 +24223,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Nicotine dependence",
-      "comparatorId": 293,
-      "outcomeId": 4209423,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Nondependent opioid abuse, continuous",
       "comparatorId": 293,
       "outcomeId": 434016,
@@ -25488,13 +24247,6 @@
       "outcomeName": "Occlusion of ureter",
       "comparatorId": 293,
       "outcomeId": 198802,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Otosclerosis",
-      "comparatorId": 293,
-      "outcomeId": 439035,
       "type": "outcome"
     },
     {
@@ -25541,23 +24293,9 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Precipitate labor",
-      "comparatorId": 293,
-      "outcomeId": 433542,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Pregnancy test negative",
       "comparatorId": 293,
       "outcomeId": 4094448,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Premature ejaculation",
-      "comparatorId": 293,
-      "outcomeId": 434319,
       "type": "outcome"
     },
     {
@@ -25572,13 +24310,6 @@
       "outcomeName": "Psychalgia",
       "comparatorId": 293,
       "outcomeId": 439790,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Psychosexual dysfunction",
-      "comparatorId": 293,
-      "outcomeId": 440068,
       "type": "outcome"
     },
     {
@@ -25614,13 +24345,6 @@
       "outcomeName": "Saliva abnormal",
       "comparatorId": 293,
       "outcomeId": 436828,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Senility",
-      "comparatorId": 293,
-      "outcomeId": 435088,
       "type": "outcome"
     },
     {
@@ -25691,13 +24415,6 @@
       "outcomeName": "Strain of supraspinatus muscle AND/OR tendon",
       "comparatorId": 293,
       "outcomeId": 440233,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Teething syndrome",
-      "comparatorId": 293,
-      "outcomeId": 135852,
       "type": "outcome"
     },
     {
@@ -25821,23 +24538,9 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Acquired deformity of neck",
-      "comparatorId": 293,
-      "outcomeId": 31668,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Acquired equinus deformity of foot",
       "comparatorId": 293,
       "outcomeId": 432411,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Acute hepatitis B with delta-agent (coinfection) without hepatic coma",
-      "comparatorId": 293,
-      "outcomeId": 439673,
       "type": "outcome"
     },
     {
@@ -25894,13 +24597,6 @@
       "outcomeName": "Assault",
       "comparatorId": 293,
       "outcomeId": 439237,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Burn of ankle",
-      "comparatorId": 293,
-      "outcomeId": 79232,
       "type": "outcome"
     },
     {
@@ -25968,37 +24664,9 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Dislocation of radial head",
-      "comparatorId": 293,
-      "outcomeId": 4135080,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Effusion of joint of hand",
-      "comparatorId": 293,
-      "outcomeId": 78834,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Effusion of joint of pelvic region",
-      "comparatorId": 293,
-      "outcomeId": 4247710,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Effusion of joint of shoulder region",
       "comparatorId": 293,
       "outcomeId": 72407,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Excessive and frequent menstruation",
-      "comparatorId": 293,
-      "outcomeId": 197607,
       "type": "outcome"
     },
     {
@@ -26083,20 +24751,6 @@
       "outcomeName": "Local infection of wound",
       "comparatorId": 293,
       "outcomeId": 4297984,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Malaria",
-      "comparatorId": 293,
-      "outcomeId": 438067,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Mechanical complication of cardiac device, implant AND/OR graft",
-      "comparatorId": 293,
-      "outcomeId": 438297,
       "type": "outcome"
     },
     {
@@ -26199,13 +24853,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Osteochondritis dissecans",
-      "comparatorId": 293,
-      "outcomeId": 437359,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Otorrhea",
       "comparatorId": 293,
       "outcomeId": 378160,
@@ -26279,13 +24926,6 @@
       "outcomeName": "Tinea pedis",
       "comparatorId": 293,
       "outcomeId": 133141,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
-      "outcomeName": "Toxic effect of carbon monoxide",
-      "comparatorId": 293,
-      "outcomeId": 440268,
       "type": "outcome"
     },
     {
@@ -26381,13 +25021,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Acquired deformity of trunk",
-      "comparatorId": 295,
-      "outcomeId": 4319325,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Adverse anesthesia outcome",
       "comparatorId": 295,
       "outcomeId": 435720,
@@ -26419,20 +25052,6 @@
       "outcomeName": "Azoospermia",
       "comparatorId": 295,
       "outcomeId": 76744,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Bladder neck obstruction",
-      "comparatorId": 295,
-      "outcomeId": 433813,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Blood chemistry abnormal",
-      "comparatorId": 295,
-      "outcomeId": 436230,
       "type": "outcome"
     },
     {
@@ -26479,13 +25098,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Colostomy present",
-      "comparatorId": 295,
-      "outcomeId": 4201390,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Complication due to Crohn's disease",
       "comparatorId": 295,
       "outcomeId": 46269889,
@@ -26507,23 +25119,9 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Convalescence",
-      "comparatorId": 295,
-      "outcomeId": 4022071,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Crying infant",
       "comparatorId": 295,
       "outcomeId": 432729,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Delayed milestone",
-      "comparatorId": 295,
-      "outcomeId": 436233,
       "type": "outcome"
     },
     {
@@ -26545,13 +25143,6 @@
       "outcomeName": "Descemet's membrane fold",
       "comparatorId": 295,
       "outcomeId": 438759,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Dietary selenium deficiency",
-      "comparatorId": 295,
-      "outcomeId": 4101282,
       "type": "outcome"
     },
     {
@@ -26598,20 +25189,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Essential fatty acid deficiency",
-      "comparatorId": 295,
-      "outcomeId": 4029271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Extreme prematurity of infant",
-      "comparatorId": 295,
-      "outcomeId": 439128,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Feces contents abnormal",
       "comparatorId": 295,
       "outcomeId": 4092896,
@@ -26622,13 +25199,6 @@
       "outcomeName": "Female genital cutting",
       "comparatorId": 295,
       "outcomeId": 4182437,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Fetal or neonatal effect of maternal oligohydramnios",
-      "comparatorId": 295,
-      "outcomeId": 4118057,
       "type": "outcome"
     },
     {
@@ -26696,27 +25266,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Hypervitaminosis D",
-      "comparatorId": 295,
-      "outcomeId": 435522,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Hypocupremia",
-      "comparatorId": 295,
-      "outcomeId": 4024266,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Hypoxemia",
-      "comparatorId": 295,
-      "outcomeId": 437390,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Iatrogenic hypotension",
       "comparatorId": 295,
       "outcomeId": 443447,
@@ -26741,13 +25290,6 @@
       "outcomeName": "Increase in body fat",
       "comparatorId": 295,
       "outcomeId": 434485,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",
-      "comparatorId": 295,
-      "outcomeId": 440276,
       "type": "outcome"
     },
     {
@@ -26822,13 +25364,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Lipid storage disease",
-      "comparatorId": 295,
-      "outcomeId": 4027782,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Macular drusen",
       "comparatorId": 295,
       "outcomeId": 4083487,
@@ -26853,13 +25388,6 @@
       "outcomeName": "Mammographic calcification of breast",
       "comparatorId": 295,
       "outcomeId": 44783760,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Mechanical complication of internal orthopedic device, implant AND/OR graft",
-      "comparatorId": 295,
-      "outcomeId": 432798,
       "type": "outcome"
     },
     {
@@ -26906,13 +25434,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Nicotine dependence",
-      "comparatorId": 295,
-      "outcomeId": 4209423,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Nondependent opioid abuse, continuous",
       "comparatorId": 295,
       "outcomeId": 434016,
@@ -26937,13 +25458,6 @@
       "outcomeName": "Occlusion of ureter",
       "comparatorId": 295,
       "outcomeId": 198802,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Otosclerosis",
-      "comparatorId": 295,
-      "outcomeId": 439035,
       "type": "outcome"
     },
     {
@@ -26990,23 +25504,9 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Precipitate labor",
-      "comparatorId": 295,
-      "outcomeId": 433542,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Pregnancy test negative",
       "comparatorId": 295,
       "outcomeId": 4094448,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Premature ejaculation",
-      "comparatorId": 295,
-      "outcomeId": 434319,
       "type": "outcome"
     },
     {
@@ -27021,13 +25521,6 @@
       "outcomeName": "Psychalgia",
       "comparatorId": 295,
       "outcomeId": 439790,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Psychosexual dysfunction",
-      "comparatorId": 295,
-      "outcomeId": 440068,
       "type": "outcome"
     },
     {
@@ -27063,13 +25556,6 @@
       "outcomeName": "Saliva abnormal",
       "comparatorId": 295,
       "outcomeId": 436828,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Senility",
-      "comparatorId": 295,
-      "outcomeId": 435088,
       "type": "outcome"
     },
     {
@@ -27140,13 +25626,6 @@
       "outcomeName": "Strain of supraspinatus muscle AND/OR tendon",
       "comparatorId": 295,
       "outcomeId": 440233,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Teething syndrome",
-      "comparatorId": 295,
-      "outcomeId": 135852,
       "type": "outcome"
     },
     {
@@ -27270,23 +25749,9 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Acquired deformity of neck",
-      "comparatorId": 295,
-      "outcomeId": 31668,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Acquired equinus deformity of foot",
       "comparatorId": 295,
       "outcomeId": 432411,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Acute hepatitis B with delta-agent (coinfection) without hepatic coma",
-      "comparatorId": 295,
-      "outcomeId": 439673,
       "type": "outcome"
     },
     {
@@ -27343,13 +25808,6 @@
       "outcomeName": "Assault",
       "comparatorId": 295,
       "outcomeId": 439237,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Burn of ankle",
-      "comparatorId": 295,
-      "outcomeId": 79232,
       "type": "outcome"
     },
     {
@@ -27417,37 +25875,9 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Dislocation of radial head",
-      "comparatorId": 295,
-      "outcomeId": 4135080,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Effusion of joint of hand",
-      "comparatorId": 295,
-      "outcomeId": 78834,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Effusion of joint of pelvic region",
-      "comparatorId": 295,
-      "outcomeId": 4247710,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Effusion of joint of shoulder region",
       "comparatorId": 295,
       "outcomeId": 72407,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Excessive and frequent menstruation",
-      "comparatorId": 295,
-      "outcomeId": 197607,
       "type": "outcome"
     },
     {
@@ -27532,20 +25962,6 @@
       "outcomeName": "Local infection of wound",
       "comparatorId": 295,
       "outcomeId": 4297984,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Malaria",
-      "comparatorId": 295,
-      "outcomeId": 438067,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Mechanical complication of cardiac device, implant AND/OR graft",
-      "comparatorId": 295,
-      "outcomeId": 438297,
       "type": "outcome"
     },
     {
@@ -27648,13 +26064,6 @@
     },
     {
       "targetId": 294,
-      "outcomeName": "Osteochondritis dissecans",
-      "comparatorId": 295,
-      "outcomeId": 437359,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
       "outcomeName": "Otorrhea",
       "comparatorId": 295,
       "outcomeId": 378160,
@@ -27728,13 +26137,6 @@
       "outcomeName": "Tinea pedis",
       "comparatorId": 295,
       "outcomeId": 133141,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Toxic effect of carbon monoxide",
-      "comparatorId": 295,
-      "outcomeId": 440268,
       "type": "outcome"
     },
     {
@@ -27830,13 +26232,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Acquired deformity of trunk",
-      "comparatorId": 173,
-      "outcomeId": 4319325,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Adverse anesthesia outcome",
       "comparatorId": 173,
       "outcomeId": 435720,
@@ -27868,20 +26263,6 @@
       "outcomeName": "Azoospermia",
       "comparatorId": 173,
       "outcomeId": 76744,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Bladder neck obstruction",
-      "comparatorId": 173,
-      "outcomeId": 433813,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Blood chemistry abnormal",
-      "comparatorId": 173,
-      "outcomeId": 436230,
       "type": "outcome"
     },
     {
@@ -27928,13 +26309,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Colostomy present",
-      "comparatorId": 173,
-      "outcomeId": 4201390,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Complication due to Crohn's disease",
       "comparatorId": 173,
       "outcomeId": 46269889,
@@ -27956,23 +26330,9 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Convalescence",
-      "comparatorId": 173,
-      "outcomeId": 4022071,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Crying infant",
       "comparatorId": 173,
       "outcomeId": 432729,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Delayed milestone",
-      "comparatorId": 173,
-      "outcomeId": 436233,
       "type": "outcome"
     },
     {
@@ -27994,13 +26354,6 @@
       "outcomeName": "Descemet's membrane fold",
       "comparatorId": 173,
       "outcomeId": 438759,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Dietary selenium deficiency",
-      "comparatorId": 173,
-      "outcomeId": 4101282,
       "type": "outcome"
     },
     {
@@ -28047,20 +26400,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Essential fatty acid deficiency",
-      "comparatorId": 173,
-      "outcomeId": 4029271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Extreme prematurity of infant",
-      "comparatorId": 173,
-      "outcomeId": 439128,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Feces contents abnormal",
       "comparatorId": 173,
       "outcomeId": 4092896,
@@ -28071,13 +26410,6 @@
       "outcomeName": "Female genital cutting",
       "comparatorId": 173,
       "outcomeId": 4182437,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Fetal or neonatal effect of maternal oligohydramnios",
-      "comparatorId": 173,
-      "outcomeId": 4118057,
       "type": "outcome"
     },
     {
@@ -28145,27 +26477,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Hypervitaminosis D",
-      "comparatorId": 173,
-      "outcomeId": 435522,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Hypocupremia",
-      "comparatorId": 173,
-      "outcomeId": 4024266,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Hypoxemia",
-      "comparatorId": 173,
-      "outcomeId": 437390,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Iatrogenic hypotension",
       "comparatorId": 173,
       "outcomeId": 443447,
@@ -28190,13 +26501,6 @@
       "outcomeName": "Increase in body fat",
       "comparatorId": 173,
       "outcomeId": 434485,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",
-      "comparatorId": 173,
-      "outcomeId": 440276,
       "type": "outcome"
     },
     {
@@ -28271,13 +26575,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Lipid storage disease",
-      "comparatorId": 173,
-      "outcomeId": 4027782,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Macular drusen",
       "comparatorId": 173,
       "outcomeId": 4083487,
@@ -28302,13 +26599,6 @@
       "outcomeName": "Mammographic calcification of breast",
       "comparatorId": 173,
       "outcomeId": 44783760,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Mechanical complication of internal orthopedic device, implant AND/OR graft",
-      "comparatorId": 173,
-      "outcomeId": 432798,
       "type": "outcome"
     },
     {
@@ -28355,13 +26645,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Nicotine dependence",
-      "comparatorId": 173,
-      "outcomeId": 4209423,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Nondependent opioid abuse, continuous",
       "comparatorId": 173,
       "outcomeId": 434016,
@@ -28386,13 +26669,6 @@
       "outcomeName": "Occlusion of ureter",
       "comparatorId": 173,
       "outcomeId": 198802,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Otosclerosis",
-      "comparatorId": 173,
-      "outcomeId": 439035,
       "type": "outcome"
     },
     {
@@ -28439,23 +26715,9 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Precipitate labor",
-      "comparatorId": 173,
-      "outcomeId": 433542,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Pregnancy test negative",
       "comparatorId": 173,
       "outcomeId": 4094448,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Premature ejaculation",
-      "comparatorId": 173,
-      "outcomeId": 434319,
       "type": "outcome"
     },
     {
@@ -28470,13 +26732,6 @@
       "outcomeName": "Psychalgia",
       "comparatorId": 173,
       "outcomeId": 439790,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Psychosexual dysfunction",
-      "comparatorId": 173,
-      "outcomeId": 440068,
       "type": "outcome"
     },
     {
@@ -28512,13 +26767,6 @@
       "outcomeName": "Saliva abnormal",
       "comparatorId": 173,
       "outcomeId": 436828,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Senility",
-      "comparatorId": 173,
-      "outcomeId": 435088,
       "type": "outcome"
     },
     {
@@ -28589,13 +26837,6 @@
       "outcomeName": "Strain of supraspinatus muscle AND/OR tendon",
       "comparatorId": 173,
       "outcomeId": 440233,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Teething syndrome",
-      "comparatorId": 173,
-      "outcomeId": 135852,
       "type": "outcome"
     },
     {
@@ -28719,23 +26960,9 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Acquired deformity of neck",
-      "comparatorId": 173,
-      "outcomeId": 31668,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Acquired equinus deformity of foot",
       "comparatorId": 173,
       "outcomeId": 432411,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Acute hepatitis B with delta-agent (coinfection) without hepatic coma",
-      "comparatorId": 173,
-      "outcomeId": 439673,
       "type": "outcome"
     },
     {
@@ -28792,13 +27019,6 @@
       "outcomeName": "Assault",
       "comparatorId": 173,
       "outcomeId": 439237,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Burn of ankle",
-      "comparatorId": 173,
-      "outcomeId": 79232,
       "type": "outcome"
     },
     {
@@ -28866,37 +27086,9 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Dislocation of radial head",
-      "comparatorId": 173,
-      "outcomeId": 4135080,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Effusion of joint of hand",
-      "comparatorId": 173,
-      "outcomeId": 78834,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Effusion of joint of pelvic region",
-      "comparatorId": 173,
-      "outcomeId": 4247710,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Effusion of joint of shoulder region",
       "comparatorId": 173,
       "outcomeId": 72407,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Excessive and frequent menstruation",
-      "comparatorId": 173,
-      "outcomeId": 197607,
       "type": "outcome"
     },
     {
@@ -28981,20 +27173,6 @@
       "outcomeName": "Local infection of wound",
       "comparatorId": 173,
       "outcomeId": 4297984,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Malaria",
-      "comparatorId": 173,
-      "outcomeId": 438067,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Mechanical complication of cardiac device, implant AND/OR graft",
-      "comparatorId": 173,
-      "outcomeId": 438297,
       "type": "outcome"
     },
     {
@@ -29097,13 +27275,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Osteochondritis dissecans",
-      "comparatorId": 173,
-      "outcomeId": 437359,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Otorrhea",
       "comparatorId": 173,
       "outcomeId": 378160,
@@ -29177,13 +27348,6 @@
       "outcomeName": "Tinea pedis",
       "comparatorId": 173,
       "outcomeId": 133141,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Toxic effect of carbon monoxide",
-      "comparatorId": 173,
-      "outcomeId": 440268,
       "type": "outcome"
     },
     {
@@ -29279,13 +27443,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Acquired deformity of trunk",
-      "comparatorId": 174,
-      "outcomeId": 4319325,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Adverse anesthesia outcome",
       "comparatorId": 174,
       "outcomeId": 435720,
@@ -29317,20 +27474,6 @@
       "outcomeName": "Azoospermia",
       "comparatorId": 174,
       "outcomeId": 76744,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Bladder neck obstruction",
-      "comparatorId": 174,
-      "outcomeId": 433813,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Blood chemistry abnormal",
-      "comparatorId": 174,
-      "outcomeId": 436230,
       "type": "outcome"
     },
     {
@@ -29377,13 +27520,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Colostomy present",
-      "comparatorId": 174,
-      "outcomeId": 4201390,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Complication due to Crohn's disease",
       "comparatorId": 174,
       "outcomeId": 46269889,
@@ -29405,23 +27541,9 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Convalescence",
-      "comparatorId": 174,
-      "outcomeId": 4022071,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Crying infant",
       "comparatorId": 174,
       "outcomeId": 432729,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Delayed milestone",
-      "comparatorId": 174,
-      "outcomeId": 436233,
       "type": "outcome"
     },
     {
@@ -29443,13 +27565,6 @@
       "outcomeName": "Descemet's membrane fold",
       "comparatorId": 174,
       "outcomeId": 438759,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Dietary selenium deficiency",
-      "comparatorId": 174,
-      "outcomeId": 4101282,
       "type": "outcome"
     },
     {
@@ -29496,20 +27611,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Essential fatty acid deficiency",
-      "comparatorId": 174,
-      "outcomeId": 4029271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Extreme prematurity of infant",
-      "comparatorId": 174,
-      "outcomeId": 439128,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Feces contents abnormal",
       "comparatorId": 174,
       "outcomeId": 4092896,
@@ -29520,13 +27621,6 @@
       "outcomeName": "Female genital cutting",
       "comparatorId": 174,
       "outcomeId": 4182437,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Fetal or neonatal effect of maternal oligohydramnios",
-      "comparatorId": 174,
-      "outcomeId": 4118057,
       "type": "outcome"
     },
     {
@@ -29594,27 +27688,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Hypervitaminosis D",
-      "comparatorId": 174,
-      "outcomeId": 435522,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Hypocupremia",
-      "comparatorId": 174,
-      "outcomeId": 4024266,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Hypoxemia",
-      "comparatorId": 174,
-      "outcomeId": 437390,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Iatrogenic hypotension",
       "comparatorId": 174,
       "outcomeId": 443447,
@@ -29639,13 +27712,6 @@
       "outcomeName": "Increase in body fat",
       "comparatorId": 174,
       "outcomeId": 434485,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",
-      "comparatorId": 174,
-      "outcomeId": 440276,
       "type": "outcome"
     },
     {
@@ -29720,13 +27786,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Lipid storage disease",
-      "comparatorId": 174,
-      "outcomeId": 4027782,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Macular drusen",
       "comparatorId": 174,
       "outcomeId": 4083487,
@@ -29751,13 +27810,6 @@
       "outcomeName": "Mammographic calcification of breast",
       "comparatorId": 174,
       "outcomeId": 44783760,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Mechanical complication of internal orthopedic device, implant AND/OR graft",
-      "comparatorId": 174,
-      "outcomeId": 432798,
       "type": "outcome"
     },
     {
@@ -29804,13 +27856,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Nicotine dependence",
-      "comparatorId": 174,
-      "outcomeId": 4209423,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Nondependent opioid abuse, continuous",
       "comparatorId": 174,
       "outcomeId": 434016,
@@ -29835,13 +27880,6 @@
       "outcomeName": "Occlusion of ureter",
       "comparatorId": 174,
       "outcomeId": 198802,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Otosclerosis",
-      "comparatorId": 174,
-      "outcomeId": 439035,
       "type": "outcome"
     },
     {
@@ -29888,23 +27926,9 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Precipitate labor",
-      "comparatorId": 174,
-      "outcomeId": 433542,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Pregnancy test negative",
       "comparatorId": 174,
       "outcomeId": 4094448,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Premature ejaculation",
-      "comparatorId": 174,
-      "outcomeId": 434319,
       "type": "outcome"
     },
     {
@@ -29919,13 +27943,6 @@
       "outcomeName": "Psychalgia",
       "comparatorId": 174,
       "outcomeId": 439790,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Psychosexual dysfunction",
-      "comparatorId": 174,
-      "outcomeId": 440068,
       "type": "outcome"
     },
     {
@@ -29961,13 +27978,6 @@
       "outcomeName": "Saliva abnormal",
       "comparatorId": 174,
       "outcomeId": 436828,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Senility",
-      "comparatorId": 174,
-      "outcomeId": 435088,
       "type": "outcome"
     },
     {
@@ -30038,13 +28048,6 @@
       "outcomeName": "Strain of supraspinatus muscle AND/OR tendon",
       "comparatorId": 174,
       "outcomeId": 440233,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Teething syndrome",
-      "comparatorId": 174,
-      "outcomeId": 135852,
       "type": "outcome"
     },
     {
@@ -30168,23 +28171,9 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Acquired deformity of neck",
-      "comparatorId": 174,
-      "outcomeId": 31668,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Acquired equinus deformity of foot",
       "comparatorId": 174,
       "outcomeId": 432411,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Acute hepatitis B with delta-agent (coinfection) without hepatic coma",
-      "comparatorId": 174,
-      "outcomeId": 439673,
       "type": "outcome"
     },
     {
@@ -30241,13 +28230,6 @@
       "outcomeName": "Assault",
       "comparatorId": 174,
       "outcomeId": 439237,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Burn of ankle",
-      "comparatorId": 174,
-      "outcomeId": 79232,
       "type": "outcome"
     },
     {
@@ -30315,37 +28297,9 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Dislocation of radial head",
-      "comparatorId": 174,
-      "outcomeId": 4135080,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Effusion of joint of hand",
-      "comparatorId": 174,
-      "outcomeId": 78834,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Effusion of joint of pelvic region",
-      "comparatorId": 174,
-      "outcomeId": 4247710,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Effusion of joint of shoulder region",
       "comparatorId": 174,
       "outcomeId": 72407,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Excessive and frequent menstruation",
-      "comparatorId": 174,
-      "outcomeId": 197607,
       "type": "outcome"
     },
     {
@@ -30430,20 +28384,6 @@
       "outcomeName": "Local infection of wound",
       "comparatorId": 174,
       "outcomeId": 4297984,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Malaria",
-      "comparatorId": 174,
-      "outcomeId": 438067,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Mechanical complication of cardiac device, implant AND/OR graft",
-      "comparatorId": 174,
-      "outcomeId": 438297,
       "type": "outcome"
     },
     {
@@ -30546,13 +28486,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Osteochondritis dissecans",
-      "comparatorId": 174,
-      "outcomeId": 437359,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Otorrhea",
       "comparatorId": 174,
       "outcomeId": 378160,
@@ -30626,13 +28559,6 @@
       "outcomeName": "Tinea pedis",
       "comparatorId": 174,
       "outcomeId": 133141,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Toxic effect of carbon monoxide",
-      "comparatorId": 174,
-      "outcomeId": 440268,
       "type": "outcome"
     },
     {
@@ -30728,13 +28654,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Acquired deformity of trunk",
-      "comparatorId": 176,
-      "outcomeId": 4319325,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Adverse anesthesia outcome",
       "comparatorId": 176,
       "outcomeId": 435720,
@@ -30766,20 +28685,6 @@
       "outcomeName": "Azoospermia",
       "comparatorId": 176,
       "outcomeId": 76744,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Bladder neck obstruction",
-      "comparatorId": 176,
-      "outcomeId": 433813,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Blood chemistry abnormal",
-      "comparatorId": 176,
-      "outcomeId": 436230,
       "type": "outcome"
     },
     {
@@ -30826,13 +28731,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Colostomy present",
-      "comparatorId": 176,
-      "outcomeId": 4201390,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Complication due to Crohn's disease",
       "comparatorId": 176,
       "outcomeId": 46269889,
@@ -30854,23 +28752,9 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Convalescence",
-      "comparatorId": 176,
-      "outcomeId": 4022071,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Crying infant",
       "comparatorId": 176,
       "outcomeId": 432729,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Delayed milestone",
-      "comparatorId": 176,
-      "outcomeId": 436233,
       "type": "outcome"
     },
     {
@@ -30892,13 +28776,6 @@
       "outcomeName": "Descemet's membrane fold",
       "comparatorId": 176,
       "outcomeId": 438759,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Dietary selenium deficiency",
-      "comparatorId": 176,
-      "outcomeId": 4101282,
       "type": "outcome"
     },
     {
@@ -30945,20 +28822,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Essential fatty acid deficiency",
-      "comparatorId": 176,
-      "outcomeId": 4029271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Extreme prematurity of infant",
-      "comparatorId": 176,
-      "outcomeId": 439128,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Feces contents abnormal",
       "comparatorId": 176,
       "outcomeId": 4092896,
@@ -30969,13 +28832,6 @@
       "outcomeName": "Female genital cutting",
       "comparatorId": 176,
       "outcomeId": 4182437,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Fetal or neonatal effect of maternal oligohydramnios",
-      "comparatorId": 176,
-      "outcomeId": 4118057,
       "type": "outcome"
     },
     {
@@ -31043,27 +28899,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Hypervitaminosis D",
-      "comparatorId": 176,
-      "outcomeId": 435522,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Hypocupremia",
-      "comparatorId": 176,
-      "outcomeId": 4024266,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Hypoxemia",
-      "comparatorId": 176,
-      "outcomeId": 437390,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Iatrogenic hypotension",
       "comparatorId": 176,
       "outcomeId": 443447,
@@ -31088,13 +28923,6 @@
       "outcomeName": "Increase in body fat",
       "comparatorId": 176,
       "outcomeId": 434485,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",
-      "comparatorId": 176,
-      "outcomeId": 440276,
       "type": "outcome"
     },
     {
@@ -31169,13 +28997,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Lipid storage disease",
-      "comparatorId": 176,
-      "outcomeId": 4027782,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Macular drusen",
       "comparatorId": 176,
       "outcomeId": 4083487,
@@ -31200,13 +29021,6 @@
       "outcomeName": "Mammographic calcification of breast",
       "comparatorId": 176,
       "outcomeId": 44783760,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Mechanical complication of internal orthopedic device, implant AND/OR graft",
-      "comparatorId": 176,
-      "outcomeId": 432798,
       "type": "outcome"
     },
     {
@@ -31253,13 +29067,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Nicotine dependence",
-      "comparatorId": 176,
-      "outcomeId": 4209423,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Nondependent opioid abuse, continuous",
       "comparatorId": 176,
       "outcomeId": 434016,
@@ -31284,13 +29091,6 @@
       "outcomeName": "Occlusion of ureter",
       "comparatorId": 176,
       "outcomeId": 198802,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Otosclerosis",
-      "comparatorId": 176,
-      "outcomeId": 439035,
       "type": "outcome"
     },
     {
@@ -31337,23 +29137,9 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Precipitate labor",
-      "comparatorId": 176,
-      "outcomeId": 433542,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Pregnancy test negative",
       "comparatorId": 176,
       "outcomeId": 4094448,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Premature ejaculation",
-      "comparatorId": 176,
-      "outcomeId": 434319,
       "type": "outcome"
     },
     {
@@ -31368,13 +29154,6 @@
       "outcomeName": "Psychalgia",
       "comparatorId": 176,
       "outcomeId": 439790,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Psychosexual dysfunction",
-      "comparatorId": 176,
-      "outcomeId": 440068,
       "type": "outcome"
     },
     {
@@ -31410,13 +29189,6 @@
       "outcomeName": "Saliva abnormal",
       "comparatorId": 176,
       "outcomeId": 436828,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Senility",
-      "comparatorId": 176,
-      "outcomeId": 435088,
       "type": "outcome"
     },
     {
@@ -31487,13 +29259,6 @@
       "outcomeName": "Strain of supraspinatus muscle AND/OR tendon",
       "comparatorId": 176,
       "outcomeId": 440233,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Teething syndrome",
-      "comparatorId": 176,
-      "outcomeId": 135852,
       "type": "outcome"
     },
     {
@@ -31617,23 +29382,9 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Acquired deformity of neck",
-      "comparatorId": 176,
-      "outcomeId": 31668,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Acquired equinus deformity of foot",
       "comparatorId": 176,
       "outcomeId": 432411,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Acute hepatitis B with delta-agent (coinfection) without hepatic coma",
-      "comparatorId": 176,
-      "outcomeId": 439673,
       "type": "outcome"
     },
     {
@@ -31690,13 +29441,6 @@
       "outcomeName": "Assault",
       "comparatorId": 176,
       "outcomeId": 439237,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Burn of ankle",
-      "comparatorId": 176,
-      "outcomeId": 79232,
       "type": "outcome"
     },
     {
@@ -31764,37 +29508,9 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Dislocation of radial head",
-      "comparatorId": 176,
-      "outcomeId": 4135080,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Effusion of joint of hand",
-      "comparatorId": 176,
-      "outcomeId": 78834,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Effusion of joint of pelvic region",
-      "comparatorId": 176,
-      "outcomeId": 4247710,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Effusion of joint of shoulder region",
       "comparatorId": 176,
       "outcomeId": 72407,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Excessive and frequent menstruation",
-      "comparatorId": 176,
-      "outcomeId": 197607,
       "type": "outcome"
     },
     {
@@ -31879,20 +29595,6 @@
       "outcomeName": "Local infection of wound",
       "comparatorId": 176,
       "outcomeId": 4297984,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Malaria",
-      "comparatorId": 176,
-      "outcomeId": 438067,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Mechanical complication of cardiac device, implant AND/OR graft",
-      "comparatorId": 176,
-      "outcomeId": 438297,
       "type": "outcome"
     },
     {
@@ -31995,13 +29697,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Osteochondritis dissecans",
-      "comparatorId": 176,
-      "outcomeId": 437359,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Otorrhea",
       "comparatorId": 176,
       "outcomeId": 378160,
@@ -32075,13 +29770,6 @@
       "outcomeName": "Tinea pedis",
       "comparatorId": 176,
       "outcomeId": 133141,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
-      "outcomeName": "Toxic effect of carbon monoxide",
-      "comparatorId": 176,
-      "outcomeId": 440268,
       "type": "outcome"
     },
     {
@@ -32177,13 +29865,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Acquired deformity of trunk",
-      "comparatorId": 178,
-      "outcomeId": 4319325,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Adverse anesthesia outcome",
       "comparatorId": 178,
       "outcomeId": 435720,
@@ -32215,20 +29896,6 @@
       "outcomeName": "Azoospermia",
       "comparatorId": 178,
       "outcomeId": 76744,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Bladder neck obstruction",
-      "comparatorId": 178,
-      "outcomeId": 433813,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Blood chemistry abnormal",
-      "comparatorId": 178,
-      "outcomeId": 436230,
       "type": "outcome"
     },
     {
@@ -32275,13 +29942,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Colostomy present",
-      "comparatorId": 178,
-      "outcomeId": 4201390,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Complication due to Crohn's disease",
       "comparatorId": 178,
       "outcomeId": 46269889,
@@ -32303,23 +29963,9 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Convalescence",
-      "comparatorId": 178,
-      "outcomeId": 4022071,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Crying infant",
       "comparatorId": 178,
       "outcomeId": 432729,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Delayed milestone",
-      "comparatorId": 178,
-      "outcomeId": 436233,
       "type": "outcome"
     },
     {
@@ -32341,13 +29987,6 @@
       "outcomeName": "Descemet's membrane fold",
       "comparatorId": 178,
       "outcomeId": 438759,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Dietary selenium deficiency",
-      "comparatorId": 178,
-      "outcomeId": 4101282,
       "type": "outcome"
     },
     {
@@ -32394,20 +30033,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Essential fatty acid deficiency",
-      "comparatorId": 178,
-      "outcomeId": 4029271,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Extreme prematurity of infant",
-      "comparatorId": 178,
-      "outcomeId": 439128,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Feces contents abnormal",
       "comparatorId": 178,
       "outcomeId": 4092896,
@@ -32418,13 +30043,6 @@
       "outcomeName": "Female genital cutting",
       "comparatorId": 178,
       "outcomeId": 4182437,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Fetal or neonatal effect of maternal oligohydramnios",
-      "comparatorId": 178,
-      "outcomeId": 4118057,
       "type": "outcome"
     },
     {
@@ -32492,27 +30110,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Hypervitaminosis D",
-      "comparatorId": 178,
-      "outcomeId": 435522,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Hypocupremia",
-      "comparatorId": 178,
-      "outcomeId": 4024266,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Hypoxemia",
-      "comparatorId": 178,
-      "outcomeId": 437390,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Iatrogenic hypotension",
       "comparatorId": 178,
       "outcomeId": 443447,
@@ -32537,13 +30134,6 @@
       "outcomeName": "Increase in body fat",
       "comparatorId": 178,
       "outcomeId": 434485,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",
-      "comparatorId": 178,
-      "outcomeId": 440276,
       "type": "outcome"
     },
     {
@@ -32618,13 +30208,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Lipid storage disease",
-      "comparatorId": 178,
-      "outcomeId": 4027782,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Macular drusen",
       "comparatorId": 178,
       "outcomeId": 4083487,
@@ -32649,13 +30232,6 @@
       "outcomeName": "Mammographic calcification of breast",
       "comparatorId": 178,
       "outcomeId": 44783760,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Mechanical complication of internal orthopedic device, implant AND/OR graft",
-      "comparatorId": 178,
-      "outcomeId": 432798,
       "type": "outcome"
     },
     {
@@ -32702,13 +30278,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Nicotine dependence",
-      "comparatorId": 178,
-      "outcomeId": 4209423,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Nondependent opioid abuse, continuous",
       "comparatorId": 178,
       "outcomeId": 434016,
@@ -32733,13 +30302,6 @@
       "outcomeName": "Occlusion of ureter",
       "comparatorId": 178,
       "outcomeId": 198802,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Otosclerosis",
-      "comparatorId": 178,
-      "outcomeId": 439035,
       "type": "outcome"
     },
     {
@@ -32786,23 +30348,9 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Precipitate labor",
-      "comparatorId": 178,
-      "outcomeId": 433542,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Pregnancy test negative",
       "comparatorId": 178,
       "outcomeId": 4094448,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Premature ejaculation",
-      "comparatorId": 178,
-      "outcomeId": 434319,
       "type": "outcome"
     },
     {
@@ -32817,13 +30365,6 @@
       "outcomeName": "Psychalgia",
       "comparatorId": 178,
       "outcomeId": 439790,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Psychosexual dysfunction",
-      "comparatorId": 178,
-      "outcomeId": 440068,
       "type": "outcome"
     },
     {
@@ -32859,13 +30400,6 @@
       "outcomeName": "Saliva abnormal",
       "comparatorId": 178,
       "outcomeId": 436828,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Senility",
-      "comparatorId": 178,
-      "outcomeId": 435088,
       "type": "outcome"
     },
     {
@@ -32936,13 +30470,6 @@
       "outcomeName": "Strain of supraspinatus muscle AND/OR tendon",
       "comparatorId": 178,
       "outcomeId": 440233,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Teething syndrome",
-      "comparatorId": 178,
-      "outcomeId": 135852,
       "type": "outcome"
     },
     {
@@ -33066,23 +30593,9 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Acquired deformity of neck",
-      "comparatorId": 178,
-      "outcomeId": 31668,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Acquired equinus deformity of foot",
       "comparatorId": 178,
       "outcomeId": 432411,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Acute hepatitis B with delta-agent (coinfection) without hepatic coma",
-      "comparatorId": 178,
-      "outcomeId": 439673,
       "type": "outcome"
     },
     {
@@ -33139,13 +30652,6 @@
       "outcomeName": "Assault",
       "comparatorId": 178,
       "outcomeId": 439237,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Burn of ankle",
-      "comparatorId": 178,
-      "outcomeId": 79232,
       "type": "outcome"
     },
     {
@@ -33213,37 +30719,9 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Dislocation of radial head",
-      "comparatorId": 178,
-      "outcomeId": 4135080,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Effusion of joint of hand",
-      "comparatorId": 178,
-      "outcomeId": 78834,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Effusion of joint of pelvic region",
-      "comparatorId": 178,
-      "outcomeId": 4247710,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Effusion of joint of shoulder region",
       "comparatorId": 178,
       "outcomeId": 72407,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Excessive and frequent menstruation",
-      "comparatorId": 178,
-      "outcomeId": 197607,
       "type": "outcome"
     },
     {
@@ -33328,20 +30806,6 @@
       "outcomeName": "Local infection of wound",
       "comparatorId": 178,
       "outcomeId": 4297984,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Malaria",
-      "comparatorId": 178,
-      "outcomeId": 438067,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Mechanical complication of cardiac device, implant AND/OR graft",
-      "comparatorId": 178,
-      "outcomeId": 438297,
       "type": "outcome"
     },
     {
@@ -33444,13 +30908,6 @@
     },
     {
       "targetId": 177,
-      "outcomeName": "Osteochondritis dissecans",
-      "comparatorId": 178,
-      "outcomeId": 437359,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
       "outcomeName": "Otorrhea",
       "comparatorId": 178,
       "outcomeId": 378160,
@@ -33524,13 +30981,6 @@
       "outcomeName": "Tinea pedis",
       "comparatorId": 178,
       "outcomeId": 133141,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Toxic effect of carbon monoxide",
-      "comparatorId": 178,
-      "outcomeId": 440268,
       "type": "outcome"
     },
     {

@@ -1,4 +1,6 @@
-outputFolder <- " " # extras/result 경로 설정
+.libPaths("  ") #Please set the path where the DdiPpiClo package library is located. ex) C:/DdiPpiClo/renv/library/R-4.1/x86_64-w64-mingw32
+
+outputFolder <- "  " # Please set the path to the "extras/result" folder of the DdiPpiClo package
 cmOutputFolder <- file.path(outputFolder, "cmOutput")
 omr <- readRDS(file.path(cmOutputFolder, "outcomeModelReference.rds"))
 
@@ -50,3 +52,4 @@ results <- lapply(subset, computeEquipoise)
 results <- do.call(rbind.data.frame, results)
 
 write.csv(results, file.path(outputFolder, "export", "ps_result.csv"), row.names = F)
+results$databaseId <- "HIRA"
