@@ -203,7 +203,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,290,78512,Joint contracture of the ankle and/or foot,outcome
 289,290,78228,Joint derangement,outcome
 289,290,72404,Joint stiffness,outcome
-289,290,435903,Juvenile osteochondrosis of foot,outcome
 289,290,438527,"Juvenile osteochondrosis of lower extremity, excluding foot",outcome
 289,290,4115991,Knee joint effusion,outcome
 289,290,4093346,Large prostate,outcome
@@ -226,7 +225,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,290,434016,"Nondependent opioid abuse, continuous",outcome
 289,290,201792,Nongonococcal urethritis,outcome
 289,290,40480893,Nonspecific tuberculin test reaction,outcome
-289,290,72413,Nontraumatic rupture of muscle,outcome
 289,290,198802,Occlusion of ureter,outcome
 289,290,4215978,Onychomycosis,outcome
 289,290,140648,Onychomycosis due to dermatophyte,outcome
@@ -500,7 +498,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,291,78512,Joint contracture of the ankle and/or foot,outcome
 289,291,78228,Joint derangement,outcome
 289,291,72404,Joint stiffness,outcome
-289,291,435903,Juvenile osteochondrosis of foot,outcome
 289,291,438527,"Juvenile osteochondrosis of lower extremity, excluding foot",outcome
 289,291,4115991,Knee joint effusion,outcome
 289,291,4093346,Large prostate,outcome
@@ -523,7 +520,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 289,291,434016,"Nondependent opioid abuse, continuous",outcome
 289,291,201792,Nongonococcal urethritis,outcome
 289,291,40480893,Nonspecific tuberculin test reaction,outcome
-289,291,72413,Nontraumatic rupture of muscle,outcome
 289,291,198802,Occlusion of ureter,outcome
 289,291,4215978,Onychomycosis,outcome
 289,291,140648,Onychomycosis due to dermatophyte,outcome
@@ -797,7 +793,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 292,293,78512,Joint contracture of the ankle and/or foot,outcome
 292,293,78228,Joint derangement,outcome
 292,293,72404,Joint stiffness,outcome
-292,293,435903,Juvenile osteochondrosis of foot,outcome
 292,293,438527,"Juvenile osteochondrosis of lower extremity, excluding foot",outcome
 292,293,4115991,Knee joint effusion,outcome
 292,293,4093346,Large prostate,outcome
@@ -820,7 +815,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 292,293,434016,"Nondependent opioid abuse, continuous",outcome
 292,293,201792,Nongonococcal urethritis,outcome
 292,293,40480893,Nonspecific tuberculin test reaction,outcome
-292,293,72413,Nontraumatic rupture of muscle,outcome
 292,293,198802,Occlusion of ureter,outcome
 292,293,4215978,Onychomycosis,outcome
 292,293,140648,Onychomycosis due to dermatophyte,outcome
@@ -1094,7 +1088,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 294,295,78512,Joint contracture of the ankle and/or foot,outcome
 294,295,78228,Joint derangement,outcome
 294,295,72404,Joint stiffness,outcome
-294,295,435903,Juvenile osteochondrosis of foot,outcome
 294,295,438527,"Juvenile osteochondrosis of lower extremity, excluding foot",outcome
 294,295,4115991,Knee joint effusion,outcome
 294,295,4093346,Large prostate,outcome
@@ -1117,7 +1110,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 294,295,434016,"Nondependent opioid abuse, continuous",outcome
 294,295,201792,Nongonococcal urethritis,outcome
 294,295,40480893,Nonspecific tuberculin test reaction,outcome
-294,295,72413,Nontraumatic rupture of muscle,outcome
 294,295,198802,Occlusion of ureter,outcome
 294,295,4215978,Onychomycosis,outcome
 294,295,140648,Onychomycosis due to dermatophyte,outcome
@@ -1391,7 +1383,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,173,78512,Joint contracture of the ankle and/or foot,outcome
 172,173,78228,Joint derangement,outcome
 172,173,72404,Joint stiffness,outcome
-172,173,435903,Juvenile osteochondrosis of foot,outcome
 172,173,438527,"Juvenile osteochondrosis of lower extremity, excluding foot",outcome
 172,173,4115991,Knee joint effusion,outcome
 172,173,4093346,Large prostate,outcome
@@ -1414,7 +1405,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,173,434016,"Nondependent opioid abuse, continuous",outcome
 172,173,201792,Nongonococcal urethritis,outcome
 172,173,40480893,Nonspecific tuberculin test reaction,outcome
-172,173,72413,Nontraumatic rupture of muscle,outcome
 172,173,198802,Occlusion of ureter,outcome
 172,173,4215978,Onychomycosis,outcome
 172,173,140648,Onychomycosis due to dermatophyte,outcome
@@ -1688,7 +1678,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,174,78512,Joint contracture of the ankle and/or foot,outcome
 172,174,78228,Joint derangement,outcome
 172,174,72404,Joint stiffness,outcome
-172,174,435903,Juvenile osteochondrosis of foot,outcome
 172,174,438527,"Juvenile osteochondrosis of lower extremity, excluding foot",outcome
 172,174,4115991,Knee joint effusion,outcome
 172,174,4093346,Large prostate,outcome
@@ -1711,7 +1700,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 172,174,434016,"Nondependent opioid abuse, continuous",outcome
 172,174,201792,Nongonococcal urethritis,outcome
 172,174,40480893,Nonspecific tuberculin test reaction,outcome
-172,174,72413,Nontraumatic rupture of muscle,outcome
 172,174,198802,Occlusion of ureter,outcome
 172,174,4215978,Onychomycosis,outcome
 172,174,140648,Onychomycosis due to dermatophyte,outcome
@@ -1985,7 +1973,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 175,176,78512,Joint contracture of the ankle and/or foot,outcome
 175,176,78228,Joint derangement,outcome
 175,176,72404,Joint stiffness,outcome
-175,176,435903,Juvenile osteochondrosis of foot,outcome
 175,176,438527,"Juvenile osteochondrosis of lower extremity, excluding foot",outcome
 175,176,4115991,Knee joint effusion,outcome
 175,176,4093346,Large prostate,outcome
@@ -2008,7 +1995,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 175,176,434016,"Nondependent opioid abuse, continuous",outcome
 175,176,201792,Nongonococcal urethritis,outcome
 175,176,40480893,Nonspecific tuberculin test reaction,outcome
-175,176,72413,Nontraumatic rupture of muscle,outcome
 175,176,198802,Occlusion of ureter,outcome
 175,176,4215978,Onychomycosis,outcome
 175,176,140648,Onychomycosis due to dermatophyte,outcome
@@ -2282,7 +2268,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 177,178,78512,Joint contracture of the ankle and/or foot,outcome
 177,178,78228,Joint derangement,outcome
 177,178,72404,Joint stiffness,outcome
-177,178,435903,Juvenile osteochondrosis of foot,outcome
 177,178,438527,"Juvenile osteochondrosis of lower extremity, excluding foot",outcome
 177,178,4115991,Knee joint effusion,outcome
 177,178,4093346,Large prostate,outcome
@@ -2305,7 +2290,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 177,178,434016,"Nondependent opioid abuse, continuous",outcome
 177,178,201792,Nongonococcal urethritis,outcome
 177,178,40480893,Nonspecific tuberculin test reaction,outcome
-177,178,72413,Nontraumatic rupture of muscle,outcome
 177,178,198802,Occlusion of ureter,outcome
 177,178,4215978,Onychomycosis,outcome
 177,178,140648,Onychomycosis due to dermatophyte,outcome

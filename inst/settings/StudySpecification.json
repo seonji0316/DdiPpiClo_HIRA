@@ -20149,25 +20149,6 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 72413,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "29191005",
-            "VALID_START_DATE": 1012435200000,
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Nontraumatic rupture of muscle",
-            "DOMAIN_ID": "Condition",
-            "VALID_END_DATE": 4102358400000,
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
             "CONCEPT_ID": 4215978,
             "STANDARD_CONCEPT": "S",
             "CONCEPT_CODE": "414941008",
@@ -22347,13 +22328,6 @@
     },
     {
       "targetId": 289,
-      "outcomeName": "Nontraumatic rupture of muscle",
-      "comparatorId": 290,
-      "outcomeId": 72413,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
       "outcomeName": "Onychomycosis",
       "comparatorId": 290,
       "outcomeId": 4215978,
@@ -23554,13 +23528,6 @@
       "outcomeName": "Nongonococcal urethritis",
       "comparatorId": 291,
       "outcomeId": 201792,
-      "type": "outcome"
-    },
-    {
-      "targetId": 289,
-      "outcomeName": "Nontraumatic rupture of muscle",
-      "comparatorId": 291,
-      "outcomeId": 72413,
       "type": "outcome"
     },
     {
@@ -24769,13 +24736,6 @@
     },
     {
       "targetId": 292,
-      "outcomeName": "Nontraumatic rupture of muscle",
-      "comparatorId": 293,
-      "outcomeId": 72413,
-      "type": "outcome"
-    },
-    {
-      "targetId": 292,
       "outcomeName": "Onychomycosis",
       "comparatorId": 293,
       "outcomeId": 4215978,
@@ -25976,13 +25936,6 @@
       "outcomeName": "Nongonococcal urethritis",
       "comparatorId": 295,
       "outcomeId": 201792,
-      "type": "outcome"
-    },
-    {
-      "targetId": 294,
-      "outcomeName": "Nontraumatic rupture of muscle",
-      "comparatorId": 295,
-      "outcomeId": 72413,
       "type": "outcome"
     },
     {
@@ -27191,13 +27144,6 @@
     },
     {
       "targetId": 172,
-      "outcomeName": "Nontraumatic rupture of muscle",
-      "comparatorId": 173,
-      "outcomeId": 72413,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
       "outcomeName": "Onychomycosis",
       "comparatorId": 173,
       "outcomeId": 4215978,
@@ -28398,13 +28344,6 @@
       "outcomeName": "Nongonococcal urethritis",
       "comparatorId": 174,
       "outcomeId": 201792,
-      "type": "outcome"
-    },
-    {
-      "targetId": 172,
-      "outcomeName": "Nontraumatic rupture of muscle",
-      "comparatorId": 174,
-      "outcomeId": 72413,
       "type": "outcome"
     },
     {
@@ -29613,13 +29552,6 @@
     },
     {
       "targetId": 175,
-      "outcomeName": "Nontraumatic rupture of muscle",
-      "comparatorId": 176,
-      "outcomeId": 72413,
-      "type": "outcome"
-    },
-    {
-      "targetId": 175,
       "outcomeName": "Onychomycosis",
       "comparatorId": 176,
       "outcomeId": 4215978,
@@ -30820,13 +30752,6 @@
       "outcomeName": "Nongonococcal urethritis",
       "comparatorId": 178,
       "outcomeId": 201792,
-      "type": "outcome"
-    },
-    {
-      "targetId": 177,
-      "outcomeName": "Nontraumatic rupture of muscle",
-      "comparatorId": 178,
-      "outcomeId": 72413,
       "type": "outcome"
     },
     {
