@@ -1,10 +1,10 @@
-.libPaths("") #Please set the path where the DdiPpiClo package library is located. If you use docker, you don't need it ex) C:/DdiPpiClo/renv/library/R-4.1/x86_64-w64-mingw32
-
 library(DdiPpiClo)
 library(dplyr)
 
+
+
 # Please upload "FunctionsForTable1.R" file in the "extras" folder of the DdiPpiClo package
-source(" ")  # Please set the path to the "extras" folder of the DdiPpiClo package
+source("./extras/functionsForTable1.R")  # Please set the path to the "extras" folder of the DdiPpiClo package
 
 #### Need to define #### 
 outputFolder <- " " # Please set the path to the "extras/result" folder of the DdiPpiClo package
