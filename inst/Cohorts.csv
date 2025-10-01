@@ -1,0 +1,27 @@
+webApiCohortId,cohortId,cohortName
+289,289,[SJK] Clopidogrel and inhibiting PPI without MI and stroke 1year
+290,290,[SJK] Clopidogrel and other PPI without MI and stroke 1year
+70,70,[SJK] MACE
+68,68,[SJK] Stroke
+67,67,[SJK] Myocardial Infarction
+71,71,[SJK] CV mortality
+170,170,[SJK] All-cause mortality
+69,69,[SJK] Acute coronary syndrome
+291,291,[SJK] Clopidogrel and H2 blocker without MI and stroke 1year
+1182,1182,[SJK] Clopidogrel and PPI without MI and stroke 1year
+1289,1289,[SJK] Clopidogrel and inhibiting PPI without MI and stroke 1year DM
+1290,1290,[SJK] Clopidogrel and other PPI without MI and stroke 1year DM
+2289,2289,[SJK] Clopidogrel and inhibiting PPI without MI and stroke 1year non DM
+2290,2290,[SJK] Clopidogrel and other PPI without MI and stroke 1year non DM
+3289,3289,[SJK] Clopidogrel and inhibiting PPI without MI and stroke 1year aspirin
+3290,3290,[SJK] Clopidogrel and other PPI without MI and stroke 1year aspirin
+4289,4289,[SJK] Clopidogrel and inhibiting PPI without MI and stroke 1year no aspirin
+4290,4290,[SJK] Clopidogrel and other PPI without MI and stroke 1year no aspirin
+5289,5289,[SJK] Clopidogrel and inhibiting PPI without MI and stroke 1year age under 65
+5290,5290,[SJK] Clopidogrel and other PPI without MI and stroke 1year age under 65
+6289,6289,[SJK] Clopidogrel and inhibiting PPI without MI and stroke 1year age at least 65
+6290,6290,[SJK] Clopidogrel and other PPI without MI and stroke 1year age at least 65
+7289,7289,[SJK] Clopidogrel and inhibiting PPI without MI and stroke 1year Male
+7290,7290,[SJK] Clopidogrel and other PPI without MI and stroke 1year Male
+8289,8289,[SJK] Clopidogrel and inhibiting PPI without MI and stroke 1year Female
+8290,8290,[SJK] Clopidogrel and other PPI without MI and stroke 1year Female
