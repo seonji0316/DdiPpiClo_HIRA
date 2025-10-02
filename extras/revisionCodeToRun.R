@@ -13,7 +13,7 @@ maxCores <- parallel::detectCores()
 outputFolder <- ""
 
 # Details for connecting to the server:
-connectionDetails <- DatabaseConnector::createConnectionDetails(dbms = "",
+connectionDetails <- DatabaseConnector::createConnectionDetails(dbms = "sql server",
                                                                 server="",
                                                                 user="",
                                                                 port = "",
@@ -39,7 +39,8 @@ options(sqlRenderTempEmulationSchema = NULL)
 #### Make subgroup cohorts ####
 
 ######################### CAUTION: It must be run only once !!!! #################################
-
+######################### This is the code for generating subgroup cohorts within your cohort table and must be run only once ##################
+######################### If an error occurs after the first run of lines 44–72, skip line 44-72 and run execute function below #########################
 connection <- DatabaseConnector::connect(connectionDetails) 
 
 sqlFolder <- file.path(getwd(), "inst/sql/sql_server")
@@ -123,6 +124,17 @@ write.csv(drugClassification, file.path(outputFolder, "export", file_name), row.
 
 #### Clopidogrel duration ####
 source("./extras/clopidogrelDuration.R")
+
+clopidogrelDuration(target_id = 289, 
+                    comparator_id = 290, 
+                    outcome_id = 70, 
+                    analysis_id = 1, 
+                    outputFolder = outputFolder,
+                    connectionDetails = connectionDetails,
+                    cdmDatabaseSchema = cdmDatabaseSchema,
+                    cohortDatabaseSchema = cohortDatabaseSchema,
+                    cohortTable = cohortTable) 
+
 clopidogrelDuration(target_id = 289, 
                     comparator_id = 290, 
                     outcome_id = 70, 
@@ -136,7 +148,7 @@ clopidogrelDuration(target_id = 289,
 clopidogrelDuration(target_id = 289, 
                     comparator_id = 290, 
                     outcome_id = 70, 
-                    analysis_id = 1, 
+                    analysis_id = 3, 
                     outputFolder = outputFolder,
                     connectionDetails = connectionDetails,
                     cdmDatabaseSchema = cdmDatabaseSchema,

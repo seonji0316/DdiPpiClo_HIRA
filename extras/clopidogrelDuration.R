@@ -42,12 +42,14 @@ clopidogrelDuration <- function(target_id,
   stratPop <- stratPop %>% 
     mutate(diffdays = as.numeric(difftime(stratPop$clopidogrelEndDate, stratPop$cohortStartDate, units = "days")),
            cloDuration = ifelse(diffdays >= timeAtRisk, timeAtRisk, diffdays),
+           numOfClo = ifelse(cloDuration < timeAtRisk, 0, 1),
            outcomeDuringExposure = ifelse(cloDuration >= daysToEvent, 1, 0),
            gapToEvent = daysToEvent-cloDuration)
   
   cloDurationResult <- stratPop %>%
     group_by(cohortDefinitionId) %>%
     summarise(numOfPatients = n(),
+              numOfFullExposure = sum(numOfClo, na.rm = T),
               min = min(cloDuration, na.rm = T),
               max = max(cloDuration, na.rm = T),
               q1 = quantile(cloDuration, 0.25, na.rm = TRUE),
@@ -69,7 +71,8 @@ clopidogrelDuration <- function(target_id,
               q3 = quantile(gapToEvent, 0.75, na.rm = TRUE),
               mean = mean(gapToEvent, na.rm = T),
               sd = sd(gapToEvent, na.rm = T)) %>%
-    mutate(analysisType = "outcome")
+    mutate(analysisType = "outcome",
+           numOfFullExposure = NA)
   
   final <- bind_rows(cloDurationResult, outcomeResult) %>% 
     mutate(targetId = target_id, 
@@ -77,7 +80,7 @@ clopidogrelDuration <- function(target_id,
            outcomeId = outcome_id,
            analysisId = analysis_id
            ) %>%
-    select(targetId, comparatorId, outcomeId, analysisId, analysisType, cohortDefinitionId, outcomeDuringExposure, numOfPatients, min, max, q1, median, q3, mean, sd)
+    select(targetId, comparatorId, outcomeId, analysisId, analysisType, cohortDefinitionId, outcomeDuringExposure, numOfPatients, numOfFullExposure, min, max, q1, median, q3, mean, sd)
   
   
   
