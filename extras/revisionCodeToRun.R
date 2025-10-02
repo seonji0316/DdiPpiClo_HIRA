@@ -13,7 +13,7 @@ maxCores <- parallel::detectCores()
 outputFolder <- ""
 
 # Details for connecting to the server:
-connectionDetails <- DatabaseConnector::createConnectionDetails(dbms = "sql server",
+connectionDetails <- DatabaseConnector::createConnectionDetails(dbms = "",
                                                                 server="",
                                                                 user="",
                                                                 port = "",
