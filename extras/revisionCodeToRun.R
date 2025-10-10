@@ -29,7 +29,7 @@ cohortDatabaseSchema <-  ""
 cohortTable <- "" # You must use the cohortTable previously created
 
 # Some meta-information that will be used by the export function:
-databaseId <- ""
+databaseId <- "aa"
 databaseName <- ""
 databaseDescription <- "Drug-drug interaction of PPI and clopidogrel"
 
@@ -115,8 +115,8 @@ colnames(drugRecord) <- SqlRender::snakeCaseToCamelCase(colnames(drugRecord))
 
 stratPop <- inner_join(stratPop, drugRecord, by = c("personId" = "personId", "cohortStartDate" = "drugEraStartDate"))
 drugClassification <- stratPop %>% group_by(drugGroup) %>% summarise(numOfRecord = n())
-drugClassification <- drugClassification %>% mutate(analysisId = 2, targetId = 289, comparatorId = 290, outcomeId = 70) %>%
-  select(targetId, comparatorId, outcomeId, analysisId, drugGroup, numOfRecord)
+drugClassification <- drugClassification %>% mutate(analysisId = 2, targetId = 289, comparatorId = 290, outcomeId = 70, databaseId = databaseId) %>%
+  select(targetId, comparatorId, outcomeId, analysisId, databaseId, drugGroup, numOfRecord)
 
 file_name <- sprintf("targetDrugClassification_t%i_c%i_o%i_a%i.csv", 289, 290, 70, 2)
 
@@ -129,6 +129,7 @@ clopidogrelDuration(target_id = 289,
                     comparator_id = 290, 
                     outcome_id = 70, 
                     analysis_id = 1, 
+                    database_id = databaseId, 
                     outputFolder = outputFolder,
                     connectionDetails = connectionDetails,
                     cdmDatabaseSchema = cdmDatabaseSchema,
@@ -139,6 +140,7 @@ clopidogrelDuration(target_id = 289,
                     comparator_id = 290, 
                     outcome_id = 70, 
                     analysis_id = 2, 
+                    database_id = databaseId, 
                     outputFolder = outputFolder,
                     connectionDetails = connectionDetails,
                     cdmDatabaseSchema = cdmDatabaseSchema,
@@ -149,6 +151,7 @@ clopidogrelDuration(target_id = 289,
                     comparator_id = 290, 
                     outcome_id = 70, 
                     analysis_id = 3, 
+                    database_id = databaseId, 
                     outputFolder = outputFolder,
                     connectionDetails = connectionDetails,
                     cdmDatabaseSchema = cdmDatabaseSchema,

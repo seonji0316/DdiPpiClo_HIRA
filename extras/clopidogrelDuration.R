@@ -2,6 +2,7 @@ clopidogrelDuration <- function(target_id,
                                 comparator_id, 
                                 outcome_id, 
                                 analysis_id, 
+                                database_id,
                                 outputFolder,
                                 connectionDetails,
                                 cdmDatabaseSchema,
@@ -78,9 +79,10 @@ clopidogrelDuration <- function(target_id,
     mutate(targetId = target_id, 
            comparatorId = comparator_id, 
            outcomeId = outcome_id,
-           analysisId = analysis_id
+           analysisId = analysis_id,
+           databaseId = database_id
            ) %>%
-    select(targetId, comparatorId, outcomeId, analysisId, analysisType, cohortDefinitionId, outcomeDuringExposure, numOfPatients, numOfFullExposure, min, max, q1, median, q3, mean, sd)
+    select(targetId, comparatorId, outcomeId, analysisId, databaseId, analysisType, cohortDefinitionId, outcomeDuringExposure, numOfPatients, numOfFullExposure, min, max, q1, median, q3, mean, sd)
   
   
   
