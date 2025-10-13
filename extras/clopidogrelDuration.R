@@ -1,7 +1,7 @@
 clopidogrelDuration <- function(target_id, 
                                 comparator_id, 
                                 outcome_id, 
-                                analysis_id, 
+                                analysis_id,
                                 database_id,
                                 outputFolder,
                                 connectionDetails,

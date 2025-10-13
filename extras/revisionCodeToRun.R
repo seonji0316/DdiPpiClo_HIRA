@@ -29,7 +29,7 @@ cohortDatabaseSchema <-  ""
 cohortTable <- "" # You must use the cohortTable previously created
 
 # Some meta-information that will be used by the export function:
-databaseId <- "aa"
+databaseId <- ""
 databaseName <- ""
 databaseDescription <- "Drug-drug interaction of PPI and clopidogrel"
 
@@ -157,3 +157,38 @@ clopidogrelDuration(target_id = 289,
                     cdmDatabaseSchema = cdmDatabaseSchema,
                     cohortDatabaseSchema = cohortDatabaseSchema,
                     cohortTable = cohortTable) 
+
+#### Concommitant Medication - HR ####
+source("./extras/concomitantCohortMethodResult.R")
+analysisResult(target_id = 289, 
+               comparator_id = 290, 
+               outcome_id = 70, 
+               analysis_id = 1, 
+               database_id = databaseId,
+               outputFolder = outputFolder,
+               connectionDetails = connectionDetails,
+               cdmDatabaseSchema = cdmDatabaseSchema,
+               cohortDatabaseSchema = cohortDatabaseSchema,
+               cohortTable = cohortTable)
+
+analysisResult(target_id = 289, 
+               comparator_id = 290, 
+               outcome_id = 70, 
+               analysis_id = 2, 
+               database_id = databaseId,
+               outputFolder = outputFolder,
+               connectionDetails = connectionDetails,
+               cdmDatabaseSchema = cdmDatabaseSchema,
+               cohortDatabaseSchema = cohortDatabaseSchema,
+               cohortTable = cohortTable)
+
+analysisResult(target_id = 289, 
+               comparator_id = 290, 
+               outcome_id = 70, 
+               analysis_id = 3, 
+               database_id = databaseId,
+               outputFolder = outputFolder,
+               connectionDetails = connectionDetails,
+               cdmDatabaseSchema = cdmDatabaseSchema,
+               cohortDatabaseSchema = cohortDatabaseSchema,
+               cohortTable = cohortTable)
