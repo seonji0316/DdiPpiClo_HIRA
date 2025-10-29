@@ -43,7 +43,7 @@ options(sqlRenderTempEmulationSchema = NULL)
 ######################### If an error occurs after the first run of lines 44–72, skip line 44-72 and run execute function below #########################
 connection <- DatabaseConnector::connect(connectionDetails) 
 
-sqlFolder <- file.path(getwd(), "inst/sql/sql_server")
+sqlFolder <- file.path(getwd(), "inst/sql/oracle")
 sql <- SqlRender::readSql(file.path(sqlFolder, "CombinePPICohort.sql"))
 
 DatabaseConnector::renderTranslateExecuteSql(connection, 
@@ -52,7 +52,7 @@ DatabaseConnector::renderTranslateExecuteSql(connection,
                                              target_database_schema = cohortDatabaseSchema,
                                              target_cohort_table = cohortTable)
 
-fileList <- list.files(file.path(getwd(), "inst/sql/sql_server/subgroup"))
+fileList <- list.files(file.path(getwd(), "inst/sql/oracle/subgroup"))
 
 for (i in 1:length(fileList)) {
   
