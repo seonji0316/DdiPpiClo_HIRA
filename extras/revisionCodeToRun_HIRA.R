@@ -41,52 +41,52 @@ options(sqlRenderTempEmulationSchema = NULL)
 ######################### CAUTION: It must be run only once !!!! #################################
 ######################### This is the code for generating subgroup cohorts within your cohort table and must be run only once ##################
 ######################### If an error occurs after the first run of lines 44–72, skip line 44-72 and run execute function below #########################
-connection <- DatabaseConnector::connect(connectionDetails) 
-
-sqlFolder <- file.path(getwd(), "inst/sql/oracle")
-sql <- SqlRender::readSql(file.path(sqlFolder, "CombinePPICohort.sql"))
-
-DatabaseConnector::renderTranslateExecuteSql(connection, 
-                                             sql, 
-                                             cdm_database_schema = cdmDatabaseSchema,
-                                             target_database_schema = cohortDatabaseSchema,
-                                             target_cohort_table = cohortTable)
-
-fileList <- list.files(file.path(getwd(), "inst/sql/oracle/subgroup"))
-
-for (i in 1:length(fileList)) {
-  
-  print(paste0("Subgroup: ", sub("\\.sql$", "", fileList[i])))
-  sql <- SqlRender::readSql(file.path(sqlFolder, "subgroup", fileList[i]))
-  
-  DatabaseConnector::renderTranslateExecuteSql(connection,
-                                               sql, 
-                                               cdm_database_schema = cdmDatabaseSchema,
-                                               target_database_schema = cohortDatabaseSchema,
-                                               target_cohort_table = cohortTable)
-  if (i==length(fileList)) {
-    print("Done!")
-  } 
-} 
-
-DatabaseConnector::disconnect(connection)
+# connection <- DatabaseConnector::connect(connectionDetails) 
+# 
+# sqlFolder <- file.path(getwd(), "inst/sql/oracle")
+# sql <- SqlRender::readSql(file.path(sqlFolder, "CombinePPICohort.sql"))
+# 
+# DatabaseConnector::renderTranslateExecuteSql(connection, 
+#                                              sql, 
+#                                              cdm_database_schema = cdmDatabaseSchema,
+#                                              target_database_schema = cohortDatabaseSchema,
+#                                              target_cohort_table = cohortTable)
+# 
+# fileList <- list.files(file.path(getwd(), "inst/sql/oracle/subgroup"))
+# 
+# for (i in 1:length(fileList)) {
+#   
+#   print(paste0("Subgroup: ", sub("\\.sql$", "", fileList[i])))
+#   sql <- SqlRender::readSql(file.path(sqlFolder, "subgroup", fileList[i]))
+#   
+#   DatabaseConnector::renderTranslateExecuteSql(connection,
+#                                                sql, 
+#                                                cdm_database_schema = cdmDatabaseSchema,
+#                                                target_database_schema = cohortDatabaseSchema,
+#                                                target_cohort_table = cohortTable)
+#   if (i==length(fileList)) {
+#     print("Done!")
+#   } 
+# } 
+# 
+# DatabaseConnector::disconnect(connection)
 
 #######################################################################################################
 
-execute(connectionDetails = connectionDetails,
-        cdmDatabaseSchema = cdmDatabaseSchema,
-        cohortDatabaseSchema = cohortDatabaseSchema,
-        cohortTable = cohortTable,
-        outputFolder = outputFolder,
-        databaseId = databaseId,
-        databaseName = databaseName,
-        databaseDescription = databaseDescription,
-        verifyDependencies = FALSE,
-        createCohorts = FALSE,
-        synthesizePositiveControls = FALSE,
-        runAnalyses = TRUE,
-        packageResults = TRUE,
-        maxCores = maxCores)
+# execute(connectionDetails = connectionDetails,
+#         cdmDatabaseSchema = cdmDatabaseSchema,
+#         cohortDatabaseSchema = cohortDatabaseSchema,
+#         cohortTable = cohortTable,
+#         outputFolder = outputFolder,
+#         databaseId = databaseId,
+#         databaseName = databaseName,
+#         databaseDescription = databaseDescription,
+#         verifyDependencies = FALSE,
+#         createCohorts = FALSE,
+#         synthesizePositiveControls = FALSE,
+#         runAnalyses = FALSE,
+#         packageResults = FALSE,
+#         maxCores = maxCores)
 
 #### Ome vs Esome ####
 connection <- DatabaseConnector::connect(connectionDetails)
@@ -103,17 +103,21 @@ stratPop <- inner_join(stratPop, cohort[,c("rowId","personId")], by = "rowId")
 
 stratPop <- stratPop %>% filter(treatment == 1)
 
-sqlFolder <- file.path(getwd(), "inst/sql/sql_server")
+sqlFolder <- file.path(getwd(), "inst/sql/oracle")
 sql <- SqlRender::readSql(file.path(sqlFolder, "TargetDrugClassification.sql"))
-
 drugRecord <- DatabaseConnector::renderTranslateQuerySql(connection,
-                                                       sql, 
-                                                       cdm_database_schema = cdmDatabaseSchema,
-                                                       person_id = as.numeric(stratPop$personId))
+                                                         sql, 
+                                                         cdm_database_schema = cdmDatabaseSchema,
+                                                         target_database_schema = cohortDatabaseSchema,
+                                                         target_cohort_table = cohortTable,
+                                                         target_id = 289)
 
 colnames(drugRecord) <- SqlRender::snakeCaseToCamelCase(colnames(drugRecord))
 
+drugRecord <- drugRecord %>%
+  dplyr::distinct(personId, drugEraStartDate, drugGroup, .keep_all = TRUE)
 stratPop <- inner_join(stratPop, drugRecord, by = c("personId" = "personId", "cohortStartDate" = "drugEraStartDate"))
+
 drugClassification <- stratPop %>% group_by(drugGroup) %>% summarise(numOfRecord = n())
 drugClassification <- drugClassification %>% mutate(analysisId = 2, targetId = 289, comparatorId = 290, outcomeId = 70, databaseId = databaseId) %>%
   select(targetId, comparatorId, outcomeId, analysisId, databaseId, drugGroup, numOfRecord)

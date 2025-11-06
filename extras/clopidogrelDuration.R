@@ -24,7 +24,12 @@ clopidogrelDuration <- function(target_id,
   stratPop <- readRDS(file.path(cmOutput,omIr$strataFile))
   stratPop <- inner_join(stratPop, cohort[,c("rowId","personId")], by = "rowId")
   
-  sqlFolder <- file.path(getwd(), "inst/sql/sql_server")
+  if (connectionDetails$dbms == "oracle") {
+    sqlFolder <- file.path(getwd(), "inst/sql/oracle")
+  } else {
+    sqlFolder <- file.path(getwd(), "inst/sql/sql_server")
+  }
+  
   sql <- SqlRender::readSql(file.path(sqlFolder, "GetClopidogrelRecord.sql"))
   
   clopidogrelRecord <- DatabaseConnector::renderTranslateQuerySql(connection,
