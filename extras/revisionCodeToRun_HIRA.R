@@ -89,42 +89,42 @@ options(sqlRenderTempEmulationSchema = NULL)
 #         maxCores = maxCores)
 
 #### Ome vs Esome ####
-connection <- DatabaseConnector::connect(connectionDetails)
-cmOutput <- file.path(outputFolder, "cmOutput")
-om <- readRDS(file.path(cmOutput, "outcomeModelReference.rds"))
-
-omIr <- om %>% filter(analysisId == 2, targetId == 289, comparatorId == 290, outcomeId == 70)
-cmdata <- CohortMethod::loadCohortMethodData(file.path(cmOutput,omIr$cohortMethodDataFile))
-cohort <- cmdata$cohorts %>% as.data.frame()
-cohort$personId <- as.numeric(cohort$personId)
-
-stratPop <- readRDS(file.path(cmOutput,omIr$strataFile))
-stratPop <- inner_join(stratPop, cohort[,c("rowId","personId")], by = "rowId")
-
-stratPop <- stratPop %>% filter(treatment == 1)
-
-sqlFolder <- file.path(getwd(), "inst/sql/oracle")
-sql <- SqlRender::readSql(file.path(sqlFolder, "TargetDrugClassification.sql"))
-drugRecord <- DatabaseConnector::renderTranslateQuerySql(connection,
-                                                         sql, 
-                                                         cdm_database_schema = cdmDatabaseSchema,
-                                                         target_database_schema = cohortDatabaseSchema,
-                                                         target_cohort_table = cohortTable,
-                                                         target_id = 289)
-
-colnames(drugRecord) <- SqlRender::snakeCaseToCamelCase(colnames(drugRecord))
-
-drugRecord <- drugRecord %>%
-  dplyr::distinct(personId, drugEraStartDate, drugGroup, .keep_all = TRUE)
-stratPop <- inner_join(stratPop, drugRecord, by = c("personId" = "personId", "cohortStartDate" = "drugEraStartDate"))
-
-drugClassification <- stratPop %>% group_by(drugGroup) %>% summarise(numOfRecord = n())
-drugClassification <- drugClassification %>% mutate(analysisId = 2, targetId = 289, comparatorId = 290, outcomeId = 70, databaseId = databaseId) %>%
-  select(targetId, comparatorId, outcomeId, analysisId, databaseId, drugGroup, numOfRecord)
-
-file_name <- sprintf("targetDrugClassification_t%i_c%i_o%i_a%i.csv", 289, 290, 70, 2)
-
-write.csv(drugClassification, file.path(outputFolder, "export", file_name), row.names = F)
+# connection <- DatabaseConnector::connect(connectionDetails)
+# cmOutput <- file.path(outputFolder, "cmOutput")
+# om <- readRDS(file.path(cmOutput, "outcomeModelReference.rds"))
+# 
+# omIr <- om %>% filter(analysisId == 2, targetId == 289, comparatorId == 290, outcomeId == 70)
+# cmdata <- CohortMethod::loadCohortMethodData(file.path(cmOutput,omIr$cohortMethodDataFile))
+# cohort <- cmdata$cohorts %>% as.data.frame()
+# cohort$personId <- as.numeric(cohort$personId)
+# 
+# stratPop <- readRDS(file.path(cmOutput,omIr$strataFile))
+# stratPop <- inner_join(stratPop, cohort[,c("rowId","personId")], by = "rowId")
+# 
+# stratPop <- stratPop %>% filter(treatment == 1)
+# 
+# sqlFolder <- file.path(getwd(), "inst/sql/oracle")
+# sql <- SqlRender::readSql(file.path(sqlFolder, "TargetDrugClassification.sql"))
+# drugRecord <- DatabaseConnector::renderTranslateQuerySql(connection,
+#                                                          sql, 
+#                                                          cdm_database_schema = cdmDatabaseSchema,
+#                                                          target_database_schema = cohortDatabaseSchema,
+#                                                          target_cohort_table = cohortTable,
+#                                                          target_id = 289)
+# 
+# colnames(drugRecord) <- SqlRender::snakeCaseToCamelCase(colnames(drugRecord))
+# 
+# drugRecord <- drugRecord %>%
+#   dplyr::distinct(personId, drugEraStartDate, drugGroup, .keep_all = TRUE)
+# stratPop <- inner_join(stratPop, drugRecord, by = c("personId" = "personId", "cohortStartDate" = "drugEraStartDate"))
+# 
+# drugClassification <- stratPop %>% group_by(drugGroup) %>% summarise(numOfRecord = n())
+# drugClassification <- drugClassification %>% mutate(analysisId = 2, targetId = 289, comparatorId = 290, outcomeId = 70, databaseId = databaseId) %>%
+#   select(targetId, comparatorId, outcomeId, analysisId, databaseId, drugGroup, numOfRecord)
+# 
+# file_name <- sprintf("targetDrugClassification_t%i_c%i_o%i_a%i.csv", 289, 290, 70, 2)
+# 
+# write.csv(drugClassification, file.path(outputFolder, "export", file_name), row.names = F)
 
 #### Clopidogrel duration ####
 source("./extras/clopidogrelDuration.R")

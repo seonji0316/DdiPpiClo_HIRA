@@ -42,8 +42,10 @@ analysisResult <- function(target_id,
                                                                   comparator_id = comparator_id)
   colnames(clopidogrelRecord) <- SqlRender::snakeCaseToCamelCase(colnames(clopidogrelRecord))
   
+  clopidogrelRecord <- clopidogrelRecord %>% dplyr::distinct(personId, clopidogrelStartDate, cohortDefinitionId, .keep_all = T)
   
   stratPop <- inner_join(stratPop, clopidogrelRecord, by = c("personId", "cohortStartDate", "treatment"))
+  stratPop <- stratPop %>% dplyr::distinct(rowId, .keep_all = TRUE)
   
   stratPop <- stratPop %>%
     mutate(cloDays = as.numeric(difftime(stratPop$clopidogrelEndDate, stratPop$cohortStartDate, units = "days"))) %>% 
