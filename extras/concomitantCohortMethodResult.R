@@ -57,7 +57,8 @@ analysisResult <- function(target_id,
   
   outcomeModel <- CohortMethod::fitOutcomeModel(population = stratPop,
                                                 modelType = "cox",
-                                                stratified = FALSE)
+                                                stratified = FALSE,
+                                                useCovariates = FALSE)
                                                  
                                                 
   coefficient <- as.vector(coef(outcomeModel))
